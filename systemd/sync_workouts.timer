@@ -1,0 +1,10 @@
+[Unit]
+Description=Run sync_workouts hourly
+
+[Timer]
+OnUnitActiveSec=1h
+AccuracySec=1min
+Persistent=true
+
+[Install]
+WantedBy=timers.target

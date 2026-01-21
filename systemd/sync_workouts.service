@@ -1,0 +1,9 @@
+[Unit]
+Description=Sync CrossFit workouts to rclone remote
+
+[Service]
+Type=oneshot
+ExecStart=/home/tomasz-wojcikowski/personal/crossfit/sync_workouts.sh
+WorkingDirectory=/home/tomasz-wojcikowski/personal/crossfit
+StandardOutput=journal
+StandardError=journal
