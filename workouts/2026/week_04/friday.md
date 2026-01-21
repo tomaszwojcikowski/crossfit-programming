@@ -47,15 +47,22 @@
 
 ---
 
-## Cooldown
+## Cooldown (5-7 min)
 
-*   **Flush (2-4 min):** Slow machine or casual walk.
-*   **Mobility:**
-    *   Puppy Pose (shoulder/chest): 60s. Sink the head below the arms; active reach.
-    *   Couch (psoas/quad): 45s/side. Keep the tailbone tucked and chest up.
-    *   Legs Up Wall (parasympathetic): 1-2 min. Absolute stillness; focus on the belly rising.
-*   **Debrief:**
-    *   *Breathing:* 1 min focused nasal breathing.
-    *   *Bright Spot:* "Highlight a smooth transition in the team AMRAP."
-    *   *Check:* Did the first 4 mins of the AMRAP feel 'easy'?
-    *   *Takeaway:* "Smooth is fast" on box step-overs.
+**Protocol: Metabolic Flush (Post-MetCon)**
+
+*   **Physiological Sighs (30s)**
+    *   Stay upright. Double inhale → long exhale, 5-10 cycles.
+
+*   **Active Flush (3 min)**
+    *   Machine or walk at 50-60% Max HR. Nasal breathing.
+
+*   **Mobility (3 min):**
+    *   **Couch Stretch:** 60s/side. Squeeze glute on stretching side.
+    *   **Puppy Pose:** 60s. Sink chest to floor, arms overhead.
+
+*   **Hydration:** Begin electrolyte replenishment.
+
+*   **Debrief (during mobility):**
+    *   *Bright Spot:* "Smooth transition in team AMRAP?"
+    *   *Takeaway:* "Smooth is fast" on step-overs.

@@ -48,15 +48,22 @@
 
 ---
 
-## Cooldown
+## Cooldown (5-7 min)
 
-*   **Flush (2-4 min):** Soft jog or walk. Focus on slow exhales.
-*   **Mobility:**
-    *   Lat Stretch on Rig (lat/triceps): 45s/side. Hang heavy into the rig toward the floor.
-    *   Hamstring Fold (posterior chain): 60s. Soft knees, hinge from hips, let the head hang.
-    *   Cross-body Shoulder (deltoid): 30s/side. Pull arm across; keep shoulder blade pinned down.
-*   **Debrief:**
-    *   *Breathing:* 1 min seated quiet breathing.
-    *   *Bright Spot:* "How did the team communication work today?"
-    *   *Check:* Technical single 1RM vs 'ugly' 1RM.
-    *   *Takeaway:* "Launch bar" uses the legs, saves the arms.
+**Protocol: Metabolic Flush (Post-MetCon)**
+
+*   **Physiological Sighs (30s)**
+    *   Stay upright. Double inhale → long exhale, 5-10 cycles.
+
+*   **Active Flush (3 min)**
+    *   Bike/row at 50-60% Max HR. Nasal breathing only.
+
+*   **Mobility (3 min):**
+    *   **Couch Stretch:** 60s/side. Squeeze glute on stretching side.
+    *   **Reclined Twist:** 60s/side. Release lumbar compression.
+
+*   **Hydration:** Begin electrolyte replenishment.
+
+*   **Debrief (during mobility):**
+    *   *Bright Spot:* "Clean partner transitions?"
+    *   *Takeaway:* "Launch bar" saves shoulders.

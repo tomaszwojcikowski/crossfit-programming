@@ -47,15 +47,21 @@
 
 ---
 
-## Cooldown
+## Cooldown (5-7 min)
 
-*   **Flush (2-4 min):** Easy machine or walking laps. Nasal breathing.
-*   **Mobility:**
-    *   Calf Smash (gastroc/soleus): 45s/side. Use a roller or wall to lean in; focus on the deep stretch.
-    *   Cat-cow (spinal mobility): 10 slow reps. Move one vertebrae at a time; exhale into cat.
-    *   Figure-4 (outer hip/glute): 45s/side. Pull the leg into the chest; keep the lower back flat.
-*   **Debrief:**
-    *   *Breathing:* 2 min downshift (eyes closed).
-    *   *Bright Spot:* "Which EMOM station felt the most consistent?"
-    *   *Check:* Pacing check – did you have 10s rest every round?
-    *   *Takeaway:* Consistent pace beats early speed in 25 mins.
+**Protocol: Metabolic Flush (Post-MetCon)**
+
+*   **Physiological Sighs (30s)**
+    *   Stay walking. Double inhale → long exhale, 5-10 cycles.
+
+*   **Active Flush (3 min)**
+    *   Machine or walk at 50-60% Max HR. Nasal breathing.
+
+*   **Mobility (3 min):**
+    *   **Wrist Relief:** 30s. Kneeling palms flat (flexors), then palms up (extensors).
+    *   **Calf Stretch:** 45s/side. Wall lean or foam roll.
+    *   **Cat-Cow:** 10 slow reps. Spinal mobility.
+
+*   **Debrief (during mobility):**
+    *   *Bright Spot:* "Most consistent EMOM station?"
+    *   *Takeaway:* Sustainable pace > early speed.

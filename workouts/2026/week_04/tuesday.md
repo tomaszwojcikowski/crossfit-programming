@@ -52,15 +52,20 @@
 
 ---
 
-## Cooldown
+## Cooldown (5-7 min)
 
-*   **Flush (2-4 min):** Easy bike or walk. Nasal breathing.
-*   **Mobility:**
-    *   Thread Needle (T-spine/shoulder): 45s/side. Reach the bottom hand through as far as possible.
-    *   Puppy Pose (upper back/triceps): 45s. Sink the chest toward the floor; keep hips high.
-    *   Forearm Stretch (wrist flexors): 30s/side. Fingers point back toward knees; lean weight back.
-*   **Debrief:**
-    *   *Breathing:* 1 min legs up wall (parasympathetic).
-    *   *Bright Spot:* "Share one success from the skill primer or HSW."
-    *   *Check:* Did you scale the BMU correctly to stay moving?
-    *   *Takeaway:* "Reach long" in the kip to save the shoulders.
+**Protocol: Structural Hygiene (Post-Gymnastics)**
+
+*   **Wrist Relief (60s)**
+    *   Kneeling forearm stretches—palms down, then palms up.
+
+*   **Walk & Breathe (2 min)**
+    *   Easy walk, nasal breathing.
+
+*   **Mobility (3-4 min):**
+    *   **Pec Minor Release:** Lacrosse ball, 90s/side. Against rig or wall below collarbone.
+    *   **Child's Pose with Side Reach:** 60s/side. Walk hands left/right to stretch lats.
+
+*   **Debrief (during mobility):**
+    *   *Bright Spot:* "Clean transition in skill work?"
+    *   *Takeaway:* "Reach long" saves shoulders.
