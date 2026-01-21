@@ -2,24 +2,26 @@
 
 Welcome to the CrossFit Workout Programming repository. This repository contains structured workouts, warmups, and cooldowns based on evidence-based principles.
 
-## 📅 Current Week
+## 🚀 Current Programming
 
-*   **[Week 04 (Jan 19-23, 2026)](workouts/2026/week_04/)** - *Click here for mobile-friendly view*
+*   **[Week 04 (Jan 19-23)](workouts/2026/week_04/)**
+*   **[Week 05 (Jan 26-30)](workouts/2026/week_05/)**
+*   **[Week 06 (Feb 02-06)](workouts/2026/week_06/)**
 
-## 📅 Programming Archive
+## 📖 Knowledge Base
 
-*   **[Week 05](week_05_2026.md)**
-*   **[Week 06](week_06_2026.md)**
+*   **[Programming Agent Guidelines](agents.md):** The source of truth for programming logic.
+*   **[Movement Warmups](guides/CrossFit_Movement_Warmups.md):** Library of movement preparation.
+*   **[Coach Quickguide](guides/Coach_Quickguide.md):** Cues and triage scripts.
 
-## 📖 Key Resources
+## 🔬 Research & Meta
 
-*   **[Programming Agent Guidelines](agents.md):** The source of truth for programming logic, RAMP protocols, and scaling.
-*   **[Coach Quickguide](Coach_Quickguide.md):** Tactical cues and triage scripts.
-*   **[Movement Warmups](CrossFit_Movement_Warmups.md):** Detailed library of movement preparation.
+*   **[RAMP Protocol](research/RAMP_Meta_Annotated.md):** Evidence base for warmups.
+*   **[PAP/PAPE Research](research/PAP_PAPE_Research.md):** Strength and power principles.
+*   **[Workout Template](guides/CrossFit_Workout_Complete.md):** Standard structure for new sessions.
 
-## 🛠 Project Tools
-
-*   `sync_workouts.sh`: Automates synchronization with the GitHub repository.
+## 🛠 Tools
+*   `./sync_workouts.sh`: Manual sync to GitHub.
 
 ---
 *Maintained by GitHub Copilot*
