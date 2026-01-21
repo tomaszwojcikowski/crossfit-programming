@@ -49,7 +49,13 @@
 
 ## Cooldown
 
-*   Calf Smash (wall): 30s/side
-*   Cat-cow (spine mobility): 10 reps
-*   Figure-4 (glute, hip): 45s/side
-*   *Debrief:* "One bright spot?"
+*   **Flush (2-4 min):** Easy machine or walking laps. Nasal breathing.
+*   **Mobility:**
+    *   Calf Smash (wall/roller): 30s/side
+    *   Cat-cow (spine mobility): 10 reps
+    *   Figure-4 (glute, hip): 45s/side
+*   **Debrief:**
+    *   *Breathing:* 2 min downshift (eyes closed).
+    *   *Bright Spot:* "Which EMOM station felt the most consistent?"
+    *   *Check:* Pacing check – did you have 10s rest every round?
+    *   *Takeaway:* Consistent pace beats early speed in 25 mins.

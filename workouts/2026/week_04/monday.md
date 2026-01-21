@@ -53,7 +53,13 @@
 
 ## Cooldown
 
-*   Pigeon (deep glute): 45s/side
-*   Couch (hip flexor): 45s/side
-*   Child's Pose (shoulder, back): 45s
-*   *Debrief:* "One bright spot?"
+*   **Flush (2-4 min):** Easy row or walk. Nasal breathing only. RPE 2-3.
+*   **Mobility:**
+    *   Pigeon (deep glute): 45s/side
+    *   Couch (hip flexor): 45s/side
+    *   Child's Pose (lat/back): 45s
+*   **Debrief:**
+    *   *Breathing:* 30s box breathing (4s in, 4s hold, 4s out, 4s hold).
+    *   *Bright Spot:* "What was one thing you did well today?"
+    *   *Check:* Did you hit the front squat percentages or RPE?
+    *   *Takeaway:* "Elbows high" applies to both FS and Cleans.

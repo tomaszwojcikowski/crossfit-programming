@@ -50,7 +50,13 @@
 
 ## Cooldown
 
-*   Lat Stretch (rig): 30s/side
-*   Hamstring Fold (posterior chain): 60s
-*   Cross-body Shoulder (pull arm across chest): 30s/side
-*   *Debrief:* "One bright spot?"
+*   **Flush (2-4 min):** Soft jog or walk. Focus on slow exhales.
+*   **Mobility:**
+    *   Lat Stretch (rig): 30s/side
+    *   Hamstring Fold (posterior chain): 60s
+    *   Cross-body Shoulder (deltoid): 30s/side
+*   **Debrief:**
+    *   *Breathing:* 1 min seated quiet breathing.
+    *   *Bright Spot:* "How did the team communication work today?"
+    *   *Check:* Technical single 1RM vs 'ugly' 1RM.
+    *   *Takeaway:* "Launch bar" uses the legs, saves the arms.

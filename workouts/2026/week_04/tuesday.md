@@ -54,7 +54,13 @@
 
 ## Cooldown
 
-*   Thread Needle (IT band, glute): 45s/side
-*   Puppy Pose (lat, shoulder): 45s
-*   Forearm Stretch (wrist, forearm): 30s/side
-*   *Debrief:* "One bright spot?"
+*   **Flush (2-4 min):** Easy bike or walk. Nasal breathing.
+*   **Mobility:**
+    *   Thread Needle (IT band, glute): 45s/side
+    *   Puppy Pose (lat, shoulder): 45s
+    *   Forearm Stretch (wrist, forearm): 30s/side
+*   **Debrief:**
+    *   *Breathing:* 1 min legs up wall (parasympathetic).
+    *   *Bright Spot:* "Share one success from the skill primer or HSW."
+    *   *Check:* Did you scale the BMU correctly to stay moving?
+    *   *Takeaway:* "Reach long" in the kip to save the shoulders.

@@ -49,7 +49,13 @@
 
 ## Cooldown
 
-*   Puppy Pose (lat, shoulder): 45s
-*   Couch (hip flexor): 45s/side
-*   Legs Up Wall (parasympathetic): 60s
-*   *Debrief:* "One bright spot?"
+*   **Flush (2-4 min):** Slow machine or casual walk.
+*   **Mobility:**
+    *   Puppy Pose (lat, shoulder): 45s
+    *   Couch (hip flexor): 45s/side
+    *   Legs Up Wall (parasympathetic): 60s
+*   **Debrief:**
+    *   *Breathing:* 1 min focused nasal breathing.
+    *   *Bright Spot:* "Highlight a smooth transition in the team AMRAP."
+    *   *Check:* Did the first 4 mins of the AMRAP feel 'easy'?
+    *   *Takeaway:* "Smooth is fast" on box step-overs.
