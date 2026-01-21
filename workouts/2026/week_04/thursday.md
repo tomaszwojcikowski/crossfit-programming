@@ -51,9 +51,9 @@
 
 *   **Flush (2-4 min):** Easy machine or walking laps. Nasal breathing.
 *   **Mobility:**
-    *   Calf Smash (wall/roller): 30s/side
-    *   Cat-cow (spine mobility): 10 reps
-    *   Figure-4 (glute, hip): 45s/side
+    *   Calf Smash (gastroc/soleus): 45s/side. Use a roller or wall to lean in; focus on the deep stretch.
+    *   Cat-cow (spinal mobility): 10 slow reps. Move one vertebrae at a time; exhale into cat.
+    *   Figure-4 (outer hip/glute): 45s/side. Pull the leg into the chest; keep the lower back flat.
 *   **Debrief:**
     *   *Breathing:* 2 min downshift (eyes closed).
     *   *Bright Spot:* "Which EMOM station felt the most consistent?"

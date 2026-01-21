@@ -51,9 +51,9 @@
 
 *   **Flush (2-4 min):** Slow machine or casual walk.
 *   **Mobility:**
-    *   Puppy Pose (lat, shoulder): 45s
-    *   Couch (hip flexor): 45s/side
-    *   Legs Up Wall (parasympathetic): 60s
+    *   Puppy Pose (shoulder/chest): 60s. Sink the head below the arms; active reach.
+    *   Couch (psoas/quad): 45s/side. Keep the tailbone tucked and chest up.
+    *   Legs Up Wall (parasympathetic): 1-2 min. Absolute stillness; focus on the belly rising.
 *   **Debrief:**
     *   *Breathing:* 1 min focused nasal breathing.
     *   *Bright Spot:* "Highlight a smooth transition in the team AMRAP."

@@ -56,9 +56,9 @@
 
 *   **Flush (2-4 min):** Easy bike or walk. Nasal breathing.
 *   **Mobility:**
-    *   Thread Needle (IT band, glute): 45s/side
-    *   Puppy Pose (lat, shoulder): 45s
-    *   Forearm Stretch (wrist, forearm): 30s/side
+    *   Thread Needle (T-spine/shoulder): 45s/side. Reach the bottom hand through as far as possible.
+    *   Puppy Pose (upper back/triceps): 45s. Sink the chest toward the floor; keep hips high.
+    *   Forearm Stretch (wrist flexors): 30s/side. Fingers point back toward knees; lean weight back.
 *   **Debrief:**
     *   *Breathing:* 1 min legs up wall (parasympathetic).
     *   *Bright Spot:* "Share one success from the skill primer or HSW."

@@ -52,9 +52,9 @@
 
 *   **Flush (2-4 min):** Soft jog or walk. Focus on slow exhales.
 *   **Mobility:**
-    *   Lat Stretch (rig): 30s/side
-    *   Hamstring Fold (posterior chain): 60s
-    *   Cross-body Shoulder (deltoid): 30s/side
+    *   Lat Stretch on Rig (lat/triceps): 45s/side. Hang heavy into the rig toward the floor.
+    *   Hamstring Fold (posterior chain): 60s. Soft knees, hinge from hips, let the head hang.
+    *   Cross-body Shoulder (deltoid): 30s/side. Pull arm across; keep shoulder blade pinned down.
 *   **Debrief:**
     *   *Breathing:* 1 min seated quiet breathing.
     *   *Bright Spot:* "How did the team communication work today?"

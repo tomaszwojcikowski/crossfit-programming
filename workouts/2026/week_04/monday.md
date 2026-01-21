@@ -55,9 +55,9 @@
 
 *   **Flush (2-4 min):** Easy row or walk. Nasal breathing only. RPE 2-3.
 *   **Mobility:**
-    *   Pigeon (deep glute): 45s/side
-    *   Couch (hip flexor): 45s/side
-    *   Child's Pose (lat/back): 45s
+    *   Pigeon (deep glute): 45s/side. Keep hips square to floor.
+    *   Couch (hip flexor/quad): 45s/side. Tightly squeeze the glute of the trailing leg.
+    *   Child's Pose (lat/lower back): 60s. Reach hands far forward; sink weight into heels.
 *   **Debrief:**
     *   *Breathing:* 30s box breathing (4s in, 4s hold, 4s out, 4s hold).
     *   *Bright Spot:* "What was one thing you did well today?"
