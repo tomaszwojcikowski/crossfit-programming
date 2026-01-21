@@ -2,7 +2,7 @@
 
 Welcome to the CrossFit Workout Programming repository. This repository contains structured workouts, warmups, and cooldowns based on evidence-based principles.
 
-## � Current Week
+## 📅 Current Week
 
 *   **[Week 04 (Jan 19-23, 2026)](workouts/2026/week_04/)** - *Click here for mobile-friendly view*
 
