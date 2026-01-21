@@ -112,8 +112,6 @@ Pick one option, keep consistent. Use RPE 7-8 if no 1RM. Offer 2-3 tiers.
 
 ## COACHING PLAYBOOK (For Group Classes)
 
-## COACHING PLAYBOOK (For Group Classes)
-
 **Whiteboard Brief (≤3:00):**
 - Stimulus: 1 sentence (sprint vs grind; skill vs engine)
 - Flow: lane layout + equipment + standards
@@ -159,6 +157,7 @@ Pick one option, keep consistent. Use RPE 7-8 if no 1RM. Offer 2-3 tiers.
 ## MOBILE-FRIENDLY FORMATTING
 
 No tables. Use round-by-round lists with bullets. Short lines (max ~80 chars). Equipment as lists. Blank lines after headers. Short coach cue sentences.
+Include brief descriptions for less common movements and target areas for mobility (e.g., 'Pigeon (deep glute): 45s/side').
 
 **Structure per Day:**
 - Setup (Equipment, Timing, Stimulus, Standards, Scaling A/B/C, Top Cues, Bottleneck fix)
@@ -171,10 +170,6 @@ No tables. Use round-by-round lists with bullets. Short lines (max ~80 chars). E
 - Cooldown + Debrief
 
 ---
-
-## MOBILE-FRIENDLY FORMATTING
-
-No tables. Use round-by-round lists with bullets. Short lines (max ~80 chars). Equipment as lists. Blank lines after headers. Short coach cue sentences.
 
 ## FUTURE IMPROVEMENTS
 
