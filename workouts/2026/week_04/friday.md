@@ -24,7 +24,9 @@
 
 ## Mobility (60-90s)
 
-*   Cossack squat, Band shoulder, Hip flexor
+*   **Cossack Squat (Adductors/Lateral Hip):** 30s/side. Wide stance, shift weight to one side, sink into deep squat on that leg while keeping opposite leg straight. Opens adductors and lateral hip for box step-over range and devil press wide stance.
+*   **Banded Shoulder Distraction (Glenohumeral Joint):** 30s/side. Loop band on rig, wrist inside (palm up), step back to create tension. Distracts shoulder joint to prepare for overhead devil press lockout and wall ball throws.
+*   **Hip Flexor Stretch (Psoas/Rectus Femoris):** 30s/side. Lunge position, back knee down, drive hips forward. Prepares hip flexors for repetitive box step-over hip extension and burpee bottom position.
 
 ---
 

@@ -22,10 +22,11 @@
 *   *Cues:* "Shoulder tension." "Fast elbows."
 
 ## Mobility (60-90s)
+*Pre-workout movement prep—dynamic positioning, not static stretching.*
 
-*   Lat stretch on rig: 30s/side
-*   Wrist mobility: 30s
-*   Front Rack (bench): 45s
+*   **Lat Stretch on Rig (Latissimus Dorsi):** 30s/side. Grab rig post with one hand, step back and sit hips away, arm extended. Opens lats for bar muscle-up pulling mechanics and overhead push press lockout.
+*   **Wrist Mobility (Flexion/Extension):** 30s total. Palms flat on floor (fingers toward knees) for flexors, then palms-up for extensors. Prepares wrists for barbell grip volume (hang power clean, push press) and BMU false grip.
+*   **Front Rack Stretch (Shoulders/Wrists):** 45s. Elbows on bench or box, press chest down toward floor. Opens shoulder external rotation and wrist extension required for front rack hang power clean position and barbell cycling efficiency.
 
 ---
 
@@ -54,9 +55,10 @@
 *   **Active Flush (3 min)**
     *   Row or bike at 50-60% Max HR. Nasal breathing.
 
-*   **Mobility (3 min):**
-    *   **Pec Minor Release:** 90s/side. Lacrosse ball below collarbone.
-    *   **Child's Pose with Side Reach:** 60s/side. Walk hands left/right.
+*   **Static Stretching (3 min):**
+    *Post-workout recovery—longer holds, parasympathetic downshift.*
+    *   **Pec Minor Release:** 90s/side. Lacrosse ball below collarbone. Releases shoulder tension from BMU pulling and overhead pressing volume.
+    *   **Child's Pose with Side Reach:** 60s/side. Walk hands left/right. Restores lat and serratus length after high-volume barbell cycling.
 
 *   **Debrief (during mobility):**
     *   *Bright Spot:* "Efficient partner transitions?"

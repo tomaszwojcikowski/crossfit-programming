@@ -22,10 +22,11 @@
 *   *Cues:* "Active shoulders." "Bar close."
 
 ## Mobility (60-90s)
+*Pre-workout movement prep—dynamic positioning, not static stretching.*
 
-*   Thoracic Extension (roller): 45s
-*   Wrist Mobility: 30s
-*   Ankle stretch (knee to wall): 30s/side
+*   **Thoracic Extension (T-spine Mobility):** 45s. Foam roller across mid-back, arms extended overhead. Opens thoracic vertebrae for vertical bar path in snatch pull and overhead receiving position.
+*   **Wrist Mobility (Circumduction):** 30s total. Interlace fingers, rotate wrists in circles both directions. Prepares wrists for hook grip, overhead lockout position, and barbell turnover in the snatch.
+*   **Ankle Stretch (Dorsiflexion):** 30s/side. Knee to wall drill, toes 4-6" away, drive knee forward. Essential for achieving deep squat receiving position in snatch and maintaining upright torso.
 
 ---
 

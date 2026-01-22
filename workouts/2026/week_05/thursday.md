@@ -22,10 +22,11 @@
 *   *Cues:* "Eyes on the horizon." "Stay light on feet."
 
 ## Mobility (60-90s)
+*Pre-workout movement prep—dynamic positioning, not static stretching.*
 
-*   Calf stretch on wall: 45s/side
-*   Cobra stretch (abs): 45s
-*   Wrist circles: 30s
+*   **Calf Stretch (Gastrocnemius/Soleus):** 45s/side. Lean into wall with back leg straight, heel down (targets gastrocnemius). Prepares calves for DU impact and 1800m total running volume to prevent cramping and Achilles strain.
+*   **Cobra Stretch (Hip Flexors/Abs):** 45s. Lie prone, press chest up with straight arms, hips on floor. Opens hip flexors and rectus abdominis for running stride length and counteracts V-up core flexion.
+*   **Wrist Circles (Joint Preparation):** 30s. Interlace fingers, rotate wrists in both directions. Prepares wrists for DU rope grip and push-up hand loading.
 
 ---
 

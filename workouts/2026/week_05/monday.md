@@ -16,16 +16,18 @@
 
 ## Warmup (RAMP)
 
-*   **R1 (2:00 easy):** 400m easy cardio, 10 Air squats, 10 Scap pulls
-*   **R2 (1:30 mod):** 300m mod cardio, 10 Goblet squats, 10 Bird-dogs
-*   **R3 (1:00 hard):** 200m fast cardio, 5 Box jumps (low), 5 Empty bar front squats
-*   *Cues:* "Stance wide." "Heels down."
+*   **R1 (2:00 easy):** 400m easy cardio, 10 Air squats, 10 Arm circles (5 fwd/5 back)
+*   **R2 (1:30 mod):** 300m mod cardio, 8 Empty bar front squats, 10 Glute bridges
+*   **R3 (1:00 hard):** 200m fast cardio, 5 Jump squats, 5 Empty bar front squats (add load)
+*   *Cues:* "Elbows high." "Drive the floor apart."
+*   *Rest:* 30-60s between rounds.
 
 ## Mobility (60-90s)
+*Pre-workout movement prep—dynamic positioning, not static stretching.*
 
-*   Ankle (knee to wall): 30s/side
-*   Couch Stretch: 30s/side
-*   Deep Squat Hold: 30s
+*   **Ankle Mobility (Dorsiflexion):** 30s/side. Face wall, toes 4-6" away, drive knee forward toward wall keeping heel down. Opens ankle dorsiflexion for deep front squat depth and box jump landing mechanics.
+*   **Couch Stretch (Hip Flexors/Quads):** 30s/side. Knee against wall, shin vertical, torso upright. Targets rectus femoris and iliopsoas to prepare for front squat hip extension and explosive box jump takeoff.
+*   **Deep Squat Hold (Global Hip/Ankle):** 30s. Sink into bottom of squat, heels down, torso upright. Primes full squat pattern for heavy front squat sets and reinforces ankle/hip mobility under load.
 
 ---
 
@@ -59,9 +61,10 @@
 *   **Active Flush (3 min)**
     *   Machine or walk at 50-60% Max HR. Nasal breathing.
 
-*   **Mobility (3 min):**
-    *   **Pigeon Pose:** 60s/side. Hips square to floor.
-    *   **Calf Stretch:** 60s/side. Wall lean, back leg straight.
+*   **Static Stretching (3 min):**
+    *Post-workout recovery—longer holds, parasympathetic downshift.*
+    *   **Pigeon Pose:** 60s/side. Hips square to floor. Releases deep glute tension from squats and box jumps.
+    *   **Calf Stretch:** 60s/side. Wall lean, back leg straight. Restores gastrocnemius/soleus length after jumping volume.
 
 *   **Debrief (during mobility):**
     *   *Bright Spot:* "Consistent machine pace?"

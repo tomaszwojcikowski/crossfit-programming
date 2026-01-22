@@ -22,10 +22,11 @@
 *   *Cues:* "Active shoulders." "Drive with legs."
 
 ## Mobility (60-90s)
+*Pre-workout movement prep—dynamic positioning, not static stretching.*
 
-*   Thoracic Extension (roller/medball): 45s
-*   Wrist stretch: 30s
-*   Lat stretch on rig: 30s/side
+*   **Thoracic Extension (T-spine Mobility):** 45s. Place foam roller or medball across mid-back (below shoulder blades), arms overhead. Gently extend over roller. Opens thoracic spine for overhead DB snatch lockout and proper pull-up shoulder mechanics.
+*   **Wrist Stretch (Flexors/Extensors):** 30s total. Kneeling position, palms flat (fingers toward knees) for flexors, then flip palms-up for extensors. Prepares wrists for DB grip, pull-up bar volume, and push-up hand loading.
+*   **Lat Stretch on Rig (Latissimus Dorsi):** 30s/side. Grab rig post, step back and sit hips away, arm extended. Lengthens lats for pull-up range and overhead DB snatch position.
 
 ---
 
