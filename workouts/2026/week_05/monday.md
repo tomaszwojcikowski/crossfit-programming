@@ -16,18 +16,16 @@
 
 ## Warmup (RAMP)
 
-*   **R1 (2:00 easy):** 400m easy cardio, 10 Air squats, 10 Arm circles (5 fwd/5 back)
-*   **R2 (1:30 mod):** 300m mod cardio, 8 Empty bar front squats, 10 Glute bridges
-*   **R3 (1:00 hard):** 200m fast cardio, 5 Jump squats, 5 Empty bar front squats (add load)
-*   *Cues:* "Elbows high." "Drive the floor apart."
+*   **R1 (2:00 easy):** 400m easy cardio, 10 Air squats, 30s plate driving wheel in squat
+*   **R2 (1:30 mod):** 300m mod cardio, 10 Squat with plate, 10 Hops on the plate
+*   **R3 (1:00 hard):** 200m fast cardio, Squats with plate on arms, jump on plate from knees
 *   *Rest:* 30-60s between rounds.
 
 ## Mobility (60-90s)
 *Pre-workout movement prep—dynamic positioning, not static stretching.*
 
-*   **Ankle Mobility (Dorsiflexion):** 30s/side. Face wall, toes 4-6" away, drive knee forward toward wall keeping heel down. Opens ankle dorsiflexion for deep front squat depth and box jump landing mechanics.
-*   **Couch Stretch (Hip Flexors/Quads):** 30s/side. Knee against wall, shin vertical, torso upright. Targets rectus femoris and iliopsoas to prepare for front squat hip extension and explosive box jump takeoff.
-*   **Deep Squat Hold (Global Hip/Ankle):** 30s. Sink into bottom of squat, heels down, torso upright. Primes full squat pattern for heavy front squat sets and reinforces ankle/hip mobility under load.
+*   **Ankle Rocks (Dorsiflexion):** 30s/side. Knee tracks over toes, heel stays down. Opens ankle for squat depth and box jump landing.
+*   **Couch Stretch (Hip flexors/quads):** 30s/side. Knee against wall, shin vertical, squeeze glute. Primes hip extension for squats and explosive jumps.
 
 ---
 
