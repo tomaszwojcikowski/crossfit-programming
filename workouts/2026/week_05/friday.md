@@ -47,19 +47,28 @@
 
 ## Cooldown (5-7 min)
 
-**Protocol: Structural Hygiene (Post-Gymnastics)**
+**Protocol: Structural Hygiene (Post-Gymnastics/Barbell)**
+*BMU + barbell cycling = wrist strain + anterior shoulder tightness + lactate.*
 
-*   **Wrist Relief (60s)**
-    *   Kneeling forearm stretches—palms down, then palms up.
+**1. Immediate Wrist Relief (60s)**
+*   **Kneeling Forearm Stretch:** 30s palms flat (fingers to knees), 30s palms up.
+    *Non-negotiable after BMU false grip + barbell volume.*
 
-*   **Active Flush (3 min)**
-    *   Row or bike at 50-60% Max HR. Nasal breathing.
+**2. Active Flush (3 min)**
+*   Easy row or bike at 50-60% Max HR.
+*   **Nasal breathing only** (maintains skeletal muscle pump for metabolite clearance).
+*   *Purpose: 23-min AMRAP produces significant lactate—flush it.*
 
-*   **Static Stretching (3 min):**
-    *Post-workout recovery—longer holds, parasympathetic downshift.*
-    *   **Pec Minor Release:** 90s/side. Lacrosse ball below collarbone. Releases shoulder tension from BMU pulling and overhead pressing volume.
-    *   **Child's Pose with Side Reach:** 60s/side. Walk hands left/right. Restores lat and serratus length after high-volume barbell cycling.
+**3. SMR & Stretch (3 min)**
+*BMU pulling + push press = pec minor/lat shortening. Address both.*
+*   **Pec Minor Release:** 60s/side. Lacrosse ball against rig post, just below collarbone.
+    *Releases anterior shoulder tightness from 200+ pulling reps.*
+*   **Banded Shoulder Distraction:** 60s/side. Band high on rig, wrist in loop (supinated), hinge and let arm stretch.
+    *Opens glenohumeral joint—essential after high-volume T2B and BMU.*
+*   **Child's Pose with Side Reach:** 45s/side. Walk hands L/R, sink hips back.
+    *Lat/serratus length—counteracts barbell cycling and overhead pressing.*
 
-*   **Debrief (during mobility):**
-    *   *Bright Spot:* "Efficient partner transitions?"
-    *   *Takeaway:* "Stay moving"—small sets preserve quality.
+**4. Debrief (during stretching)**
+*   *Downshift breathing:* Nasal, slow exhales.
+*   *Bright spot:* "Efficient partner transitions? Clear division of reps?"
+*   *Tech takeaway:* "Small sets, stay moving"—quality over sprint.

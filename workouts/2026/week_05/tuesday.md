@@ -53,18 +53,27 @@
 ## Cooldown (5-7 min)
 
 **Protocol: Metabolic Flush (Post-MetCon)**
+*High-volume gymnastics + DB work = systemic lactate + grip/shoulder fatigue.*
 
-*   **Physiological Sighs (30s)**
-    *   Stay upright. Double inhale → long exhale, 5-10 cycles.
+**1. Immediate Reset (30-45s)**
+*   **Physiological Sighs:** 5-10 cycles. Double inhale → long exhale.
+    *Stay upright or walking. Do NOT lie down (prevents venous pooling).*
 
-*   **Active Flush (3 min)**
-    *   Walk or machine at 50-60% Max HR. Nasal breathing.
+**2. Active Flush (4 min)**
+*   Easy walk or bike at 50-60% Max HR.
+*   **Nasal breathing only** (governs intensity, activates vagus nerve).
+*   *Purpose: Maintain skeletal muscle pump → flush metabolites via Cori cycle.*
 
-*   **Mobility (3 min):**
-    *   **Wrist Relief:** 30s. Kneeling palms flat, then palms up.
-    *   **Thread the Needle:** 60s/side. T-spine rotation.
-    *   **Pigeon Pose:** 60s/side. Hip rotators after squats.
+**3. Structural Restoration (3 min)**
+*Pull-up volume + push-ups = anterior shoulder tightness + wrist strain.*
+*   **Wrist Relief:** 45s total. Palms flat (fingers to knees), then palms up.
+    *Releases forearm flexors/extensors from grip volume.*
+*   **Thread the Needle:** 45s/side. Lie on side, reach under and rotate.
+    *T-spine rotation—counteracts rounded posture from push-ups.*
+*   **Pigeon Pose:** 45s/side. Hips square, relax forward.
+    *Hip rotators—restores length after 200+ air squats in Cindy.*
 
-*   **Debrief (during mobility):**
-    *   *Bright Spot:* "Smooth partner transitions?"
-    *   *Takeaway:* "Sustainable pace" over 30 min.
+**4. Debrief (during stretching)**
+*   *Downshift breathing:* Slow nasal exhales.
+*   *Bright spot:* "Clear rotation plan with partners?"
+*   *Tech takeaway:* "Sustainable pace beats redline" over 30 min.

@@ -52,18 +52,27 @@
 ## Cooldown (5-7 min)
 
 **Protocol: Hybrid (Neural Reset + Metabolic Flush)**
+*Heavy squats + explosive intervals = CNS stress + lactate accumulation.*
 
-*   **Physiological Sighs (30s)**
-    *   Double inhale → long exhale, 5-10 cycles.
+**1. Immediate Reset (60s)**
+*   **Spinal Decompression:** Dead hang from rig, 30-60s.
+    *Unloads intervertebral discs after heavy axial loading.*
+*   **Physiological Sighs:** 5-10 cycles. Double inhale (nose) → long exhale (mouth).
+    *Stay upright. Resets vagal tone after max effort.*
 
-*   **Active Flush (3 min)**
-    *   Machine or walk at 50-60% Max HR. Nasal breathing.
+**2. Active Flush (4 min)**
+*   Easy bike or row at 50-60% Max HR.
+*   **Nasal breathing only** (caps intensity, triggers parasympathetic).
+*   *Target: Lactate clearance via Cori cycle. 80% lactate threshold pace.*
 
-*   **Static Stretching (3 min):**
-    *Post-workout recovery—longer holds, parasympathetic downshift.*
-    *   **Pigeon Pose:** 60s/side. Hips square to floor. Releases deep glute tension from squats and box jumps.
-    *   **Calf Stretch:** 60s/side. Wall lean, back leg straight. Restores gastrocnemius/soleus length after jumping volume.
+**3. Static Stretching (2-3 min)**
+*Elevated muscle temp = optimal window for tissue lengthening.*
+*   **Couch Stretch:** 60s/side. Knee to wall, squeeze glute.
+    *Rectus femoris/iliopsoas—prevents anterior pelvic tilt after squats.*
+*   **Pigeon Pose:** 45s/side. Hips square, forward fold optional.
+    *Deep hip rotators—releases glute medius tension from box jumps.*
 
-*   **Debrief (during mobility):**
-    *   *Bright Spot:* "Consistent machine pace?"
-    *   *Takeaway:* "Drive through floor" for squats & jumps.
+**4. Debrief (during stretching)**
+*   *Downshift breathing:* 20s nasal, slow exhales.
+*   *Bright spot:* "Consistent splits on the machine?"
+*   *Tech takeaway:* "Push the floor apart" on all squatting.

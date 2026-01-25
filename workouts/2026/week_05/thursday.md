@@ -53,18 +53,27 @@
 ## Cooldown (5-7 min)
 
 **Protocol: Metabolic Flush (Post-MetCon)**
+*1800m running + DU + V-ups = calf stress + hip flexor fatigue + lactate.*
 
-*   **Physiological Sighs (30s)**
-    *   Stay walking. Double inhale → long exhale, 5-10 cycles.
+**1. Immediate Reset (30-45s)**
+*   **Physiological Sighs:** 5-10 cycles. Double inhale → long exhale.
+    *Keep walking. Head above heart to prevent dizziness.*
 
-*   **Active Flush (3 min)**
-    *   Easy walk or jog at 50-60% Max HR. Nasal breathing.
+**2. Active Flush (4 min)**
+*   Easy walk or light jog at 50-60% Max HR.
+*   **Nasal breathing only** (activates NO production via Bohr effect).
+*   *Target: Accelerate lactate clearance by 40% vs passive rest.*
 
-*   **Mobility (3 min):**
-    *   **Calf Stretch:** 60s/side. Wall lean or foam roll.
-    *   **Downward Dog:** 60s. Posterior chain stretch.
-    *   **Cobra:** 30s. Hip flexor/ab stretch.
+**3. Static Stretching (3 min)**
+*Running volume = gastrocnemius/soleus tightness. V-ups = hip flexor fatigue.*
+*   **Calf Stretch (gastrocnemius):** 45s/side. Wall lean, back leg straight, heel down.
+    *Restores calf length—prevents Achilles strain after 1800m.*
+*   **Downward Dog:** 60s. Press heels toward floor, spread fingers.
+    *Full posterior chain—hamstrings, calves, lats in one position.*
+*   **Reclined Twist:** 45s/side. Knee across body, opposite arm extended.
+    *QL/glute medius release—counteracts rotational stress from running.*
 
-*   **Debrief (during mobility):**
-    *   *Bright Spot:* "DU rhythm stay consistent?"
-    *   *Takeaway:* "Relaxed shoulders" = less fatigue.
+**4. Debrief (during stretching)**
+*   *Downshift breathing:* Slow nasal exhales.
+*   *Bright spot:* "DU rhythm stay consistent under fatigue?"
+*   *Tech takeaway:* "Relaxed shoulders, fast wrists" = less rope trips.

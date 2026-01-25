@@ -52,17 +52,26 @@
 ## Cooldown (5-7 min)
 
 **Protocol: Neural Reset (Post-Olympic Lifting)**
+*1RM snatch = maximal CNS arousal + spinal loading. Low lactate, high neural stress.*
 
-*   **Spinal Decompression (60s)**
-    *   Dead hang from pull-up bar (use straps if needed).
+**1. Spinal Decompression (60-90s)**
+*   **Dead Hang:** 60s on rig. Use straps if grip is fried.
+    *Unloads lumbar/thoracic discs after heavy overhead catches.*
+*   *Breathe:* Slow nasal inhales, long exhales while hanging.
 
-*   **Walk & Breathe (2 min)**
-    *   Easy walk, nasal breathing. Box breathing pattern (4-4-4-4).
+**2. Walk & Box Breathe (3 min)**
+*   Easy walk around gym. **No cyclic cardio needed** (lactate is minimal).
+*   **Box Breathing:** Inhale 4s → Hold 4s → Exhale 4s → Hold 4s.
+    *Regulates autonomic balance. Critical for calming "fried" CNS.*
 
-*   **Mobility (3-4 min):**
-    *   **Thoracic Extension:** 90s. Foam roller mid-back, arms overhead.
-    *   **Child's Pose with Side Reach:** 60s/side. Walk hands to each side.
+**3. SMR & Stretch (3 min)**
+*Overhead snatches = lat/thoracic tightness + hip flexor compression.*
+*   **Glute Smash:** 90s/side. Lacrosse ball on glute medius, shift weight.
+    *Releases deep hip tension from squat receiving position.*
+*   **Child's Pose with Side Reach:** 45s/side. Walk hands L/R.
+    *Lengthens lats and serratus after overhead lockout volume.*
 
-*   **Debrief (during mobility):**
-    *   *Bright Spot:* "Heavy single technically clean?"
-    *   *Takeaway:* "Stay patient" on the pull.
+**4. Debrief (supine, 2 min)**
+*   Lie on back, legs up wall or extended. Continue box breathing.
+*   *Bright spot:* "Heavy single clean? No misses?"
+*   *Tech takeaway:* "Stay patient" on the pull—bar close, then fast.
