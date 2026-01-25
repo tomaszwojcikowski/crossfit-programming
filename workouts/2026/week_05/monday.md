@@ -17,7 +17,7 @@
 ## Warmup (RAMP)
 
 *   **R1 (2:00 easy):** 400m easy cardio, 10 Air squats, 30s plate driving wheel in squat
-*   **R2 (1:30 mod):** 300m mod cardio, 10 Squat with plate, 10 Hops on the plate
+*   **R2 (1:30 mod):** 300m mod cardio, 10 Squat with plate on the back, 10 Hops on the plate
 *   **R3 (1:00 hard):** 200m fast cardio, Squats with plate on arms, jump on plate from knees
 *   *Rest:* 30-60s between rounds.
 
