@@ -36,10 +36,10 @@
 
 **[ Reset Window: 3-5:00 ]**
 *   *Action:* Clear racks. Stage boxes. Quick water.
-*   *Test:* 10 cal sprint + 3 box jumps. Check timing.
 
 **Prep (Movement Primer):**
-*   10 Air squats → 5 Box jumps → 5 Cal machine sprint
+*   10 box step-ups, 5 box jumps (step down), 5 box jumps (plyo)
+*   *Test:* 10 cal sprint + 3 box jumps. Check timing.
 
 **B) Conditioning: 3 Rounds (1' ON / 1' OFF)**
 *   12/10 Cal Machine
