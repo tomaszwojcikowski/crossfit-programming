@@ -4,29 +4,29 @@
 *   **Time:** 60:00 Cap | **Equip:** Jump Rope
 *   **Stimulus:** Skill under pressure + sustained aerobic effort.
 *   **Standards:** Both feet leave floor together (DU). Chest to deck (Push-ups).
-*   **Scaling Priority:** Volume → Complexity → Load
+*   **Scaling Priority:** Load → Volume → Complexity
 *   **Scaling:**
     *   **A:** DU as written
     *   **B:** Reduce DU reps OR practice 30s per round
     *   **C:** Single unders (60 reps)
-*   **Top Cues:** "Relax the shoulders." "Fast wrists." "Breathe on the run."
+*   **Top Cues:** "Spin the rope fast." "Stay light on the ground." "Run tall and smooth."
 *   **Bottleneck:** Running lane space. Group starts together.
 
 ---
 
 ## Warmup (RAMP)
+*Stimulus: Skill (DU) under fatigue + 1800m running. Prime calves and core.*
 
-*   **R1 (2:00 easy):** 400m easy jog, 10 Scap push-ups, 20 Calf raises
-*   **R2 (1:30 mod):** 300m mod jog, 10 Hollow rocks, 20 Single unders
-*   **R3 (1:00 hard):** 200m fast run, 5 V-ups, 10 Double unders or attempts
-*   *Cues:* "Eyes on the horizon." "Stay light on feet."
+*   **R1 (2:00 easy):** 400m easy jog + 10 Calf raises + 8 Air squats
+*   **R2 (1:30 mod):** 300m moderate jog + 10 Hollow rocks + 20 Single unders
+*   **R3 (1:00 hard):** 200m fast run + 5 V-ups + 10 DU attempts
+*   *Cues:* "Bounce off the ground." "Spin the rope fast."
 
 ## Mobility (60-90s)
-*Pre-workout movement prep—dynamic positioning, not static stretching.*
+*Open calves for DU impact + hip flexors for running stride.*
 
-*   **Calf Stretch (Gastrocnemius/Soleus):** 45s/side. Lean into wall with back leg straight, heel down (targets gastrocnemius). Prepares calves for DU impact and 1800m total running volume to prevent cramping and Achilles strain.
-*   **Cobra Stretch (Hip Flexors/Abs):** 45s. Lie prone, press chest up with straight arms, hips on floor. Opens hip flexors and rectus abdominis for running stride length and counteracts V-up core flexion.
-*   **Wrist Circles (Joint Preparation):** 30s. Interlace fingers, rotate wrists in both directions. Prepares wrists for DU rope grip and push-up hand loading.
+*   **Calf Stretch:** 45s/side. Wall lean, back leg straight. (1800m running + DU bounce)
+*   **Cobra:** 45s. Press chest up, hips down. (Opens hip flexors for stride length)
 
 ---
 
@@ -75,5 +75,5 @@
 
 **4. Debrief (during stretching)**
 *   *Downshift breathing:* Slow nasal exhales.
-*   *Bright spot:* "DU rhythm stay consistent under fatigue?"
-*   *Tech takeaway:* "Relaxed shoulders, fast wrists" = less rope trips.
+*   *Bright spot examples:* "DU rhythm stayed calm?" "Held pace on the runs?" "V-ups unbroken?"
+*   *Tech takeaway:* "Spin the rope fast, jump low."

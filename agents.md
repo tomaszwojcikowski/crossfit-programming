@@ -49,6 +49,27 @@ Empty bar/light implement, 3-6 reps per drill, progressive complexity.
 
 ---
 
+## KINESTHETIC AWARENESS & BREATHING
+
+**Teaching Athletes to Feel Movement:**
+- Ask athletes to experiment with timing (e.g., different pause lengths in press to find efficient gear)
+- Use "lift toes slightly" cue to find heel balance (monitor for secondary effects)
+- Teach difference between "good" and "bad" mechanics through internal feedback
+
+**Breathing as Stabilization:**
+- **Diaphragmatic breathing**: Stabilizes spine during heavy lifts
+- **Concentric phase**: Exhale during force exertion
+- **Eccentric phase**: Inhale to maintain core pressure and power output
+- Use for both performance and cooldown (nasal breathing for parasympathetic activation)
+
+**Tactile Feedback Tools:**
+- **Stick Trick**: PVC pipes beside barbell to guide straight bar path (deadlifts)
+- **Depth Marker**: Medicine ball or object to establish squat depth consistency
+- **Rig Stability**: Squat between PVC pipes or next to rig to prevent twisting
+- **Partner Resistance**: Hand pressure on knees to cue "push out" in squat
+
+---
+
 ## COOLDOWN (2-4 min)
 
 1. Easy cyclical (bike/row/jog), nasal breathing, RPE 2-3/10
@@ -59,6 +80,12 @@ Empty bar/light implement, 3-6 reps per drill, progressive complexity.
 ## SCALING & REGRESSIONS
 
 Pick one option, keep consistent. Use RPE 7-8 if no 1RM. Offer 2-3 tiers.
+
+**Scaling Hierarchy (in order):**
+1. **Load Management**: Reduce weight/implement to maintain movement pattern and tempo (RPE or % of 1RM)
+2. **Volume Adjustment**: Reduce reps/rounds to maintain intended time domain
+3. **Movement Substitution**: Replace with similar pattern that preserves stimulus
+4. **Range of Motion**: Limit depth/height for joint restrictions
 
 **Priority Hierarchy:** Load → Volume → Movement Complexity
 
@@ -104,15 +131,35 @@ Pick one option, keep consistent. Use RPE 7-8 if no 1RM. Offer 2-3 tiers.
 
 **Session Timing:** Warmup 8-12 min, Mobility 60-90s, **Strength/Skill 10-20 min**, **Reset Window 3-5 min**, **Prep 2-4 min**, Conditioning 12-25 min, Cooldown 2-4 min. **Total: 60 min (group start).**
 
-**Coach Cues:** External focus (action on object, not body), 1 idea at a time, under 10 words, action-focused, in quotes.
-- Example ✓: "Push the floor apart." "Launch the bar up." "Kick toes to bar."
-- Avoid ✗: "Widen stance" / "Keep elbows high" / "Squeeze shoulder blades."
+**Coach Cues:** External focus (action on object, not body), 1 idea at a time, under 10 words, action-focused, in quotes. External cues focusing on outcome/environment are more effective for motor learning than internal cues focusing on body parts.
+- Example ✓: "Push the floor apart." "Launch the bar up." "Kick toes to bar." "Press the bar through the ceiling."
+- Avoid ✗: "Widen stance" / "Keep elbows high" / "Squeeze shoulder blades." / "Squeeze your quads."
+
+**Three Cueing Modalities:**
+- **Verbal**: Short, specific, actionable (external focus preferred)
+- **Visual**: Demonstrate contrast between fault and correct movement
+- **Tactile**: Use touch or objects (hand under elbows, medicine ball depth marker)
 
 ---
 
 ## COACHING PLAYBOOK (For Group Classes)
 
+**Six Core Coaching Competencies:**
+1. **Teaching**: Distill complex mechanics into 1-2 salient points, use multiple modalities
+2. **Seeing**: Identify faults in real-time through relentless observation
+3. **Correcting**: Use triage principle—address most severe fault first (safety before efficiency)
+4. **Demonstration**: Provide accurate visual standard (use proxy athlete if needed)
+5. **Group Management**: Pre-arrange equipment, manage transitions, ensure personal attention
+6. **Presence & Attitude**: Eye contact, positive energy, use names, authentic engagement
+
 **Whiteboard Brief (≤3:00):**
+Answer 4 key questions to eliminate uncertainty:
+1. What are the movements?
+2. What is the intended stimulus (how should it feel)?
+3. What are the scaling options?
+4. What are the logistics of room flow?
+
+**Brief Structure:**
 - Stimulus: 1 sentence (sprint vs grind; skill vs engine)
 - Flow: lane layout + equipment + standards
 - Scaling: A/B/C options (preserve stimulus, not intensity)
@@ -186,17 +233,39 @@ Include brief descriptions for less common movements and target areas for mobili
 **Pre-session:** Equipment staged, machines functional/subs ready, whiteboard populated, percentages calculated
 **Warmup:** All 3 rounds complete, light sweat, no fatigue, movement prep done, ROM checked
 **Workout:** Tc announced, scaling explained, standards clarified, start protocol clear
+**During Workout:** Apply threshold training—push athletes until technique degrades, then back off to maintain mechanics
 **Cooldown:** Full cooldown complete, log notes, address technique issues
+
+**Professional Presence (Throughout Session):**
+- Maintain eye contact and positive energy
+- Use athletes' names consistently
+- Never sit while athletes are working
+- Mirror athlete posture/energy to build rapport
+- Pre-script whiteboard delivery for clarity
 
 ---
 
 ## EVIDENCE BASE
 
+**Ten Domains of Physical Competence:**
+1. Cardiovascular/Respiratory Endurance (oxygen delivery systems)
+2. Stamina (energy processing: glycogen/ATP)
+3. Strength (maximal force application)
+4. Flexibility (joint range of motion)
+5. Power (maximum force in minimum time)
+6. Speed (minimize movement cycle time)
+7. Coordination (integrate distinct patterns)
+8. Agility (minimize transition time)
+9. Balance (control center of gravity)
+10. Accuracy (control movement direction/intensity)
+
+**Warmup & Conditioning Principles:**
 1. Warmup 5-10 min achieves 1-2°C temp increase (optimal)
 2. Dynamic > static pre-workout (avoid 5-8% strength deficit)
 3. PAP timing 3-7 min rest after heavy loads
 4. Chronic stretching: small flexibility gains when separate
 5. Progressive intensity R1→R2→R3 enhances force production
+6. Routine is the enemy—vary stimulus, energy systems, modal combinations
 
 **Sources:** `RAMP_Meta_Annotated.md`, `CrossFit_Movement_Warmups.md`, `week_04_2026_warmups_cooldowns.md`
 

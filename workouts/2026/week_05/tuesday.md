@@ -4,33 +4,40 @@
 *   **Time:** 60:00 Cap | **Equip:** DBs (22.5/15), Pull-up bar, Machine
 *   **Stimulus:** High volume gymnastics + steady engine work.
 *   **Standards:** DB head touches floor. Chest to deck on push-ups. Chin over bar.
-*   **Scaling Priority:** Complexity → Volume → Load
+*   **Scaling Priority:** Load → Volume → Complexity
 *   **Scaling:**
     *   **A:** As written (22.5/15 DB, Cindy as written)
     *   **B:** 17.5/12.5 DB, Banded pull-ups/Incline push-ups
     *   **C:** DB Snatches to hang, Ring rows, Box push-ups
-*   **Top Cues:** "Punch the ceiling." "Keep the core tight." "Breathe on the squats."
+*   **Top Cues:** "Launch the DB to the ceiling." "Push the floor away." "Quick feet on turns."
 *   **Bottleneck:** Pull-up bar space. Assign lanes for each team.
 
 ---
 
 ## Warmup (RAMP)
+*Stimulus: High-volume gymnastics + steady engine. Build heat, spare grip.*
 
-*   **R1 (2:00 easy):** Easy shuttle runs, 10 Scap pulls, 10 Push-ups to Down Dog
-*   **R2 (1:30 mod):** Moderate shuttle runs, 5 Kip swings, 10 Alt DB Snatches (light)
-*   **R3 (1:00 hard):** Fast shuttle runs, 3 Pull-ups, 5 Down ups
-*   *Cues:* "Active shoulders." "Drive with legs."
+*   **R1 (2:00 easy):** 2:00 easy shuttle runs + 8 Inchworms + 8 Air squats
+*   **R2 (1:30 mod):** 1:30 moderate shuttle runs + 8 Push-ups + 10 Alt DB snatches (light)
+*   **R3 (1:00 hard):** 1:00 hard shuttle runs + 5 Down ups
+*   *Cues:* "Push the floor away." "Quick feet on turns."
 
 ## Mobility (60-90s)
-*Pre-workout movement prep—dynamic positioning, not static stretching.*
+*Open T-spine for overhead + wrists for volume.*
 
-*   **Thoracic Extension (T-spine Mobility):** 45s. Place foam roller or medball across mid-back (below shoulder blades), arms overhead. Gently extend over roller. Opens thoracic spine for overhead DB snatch lockout and proper pull-up shoulder mechanics.
-*   **Wrist Stretch (Flexors/Extensors):** 30s total. Kneeling position, palms flat (fingers toward knees) for flexors, then flip palms-up for extensors. Prepares wrists for DB grip, pull-up bar volume, and push-up hand loading.
-*   **Lat Stretch on Rig (Latissimus Dorsi):** 30s/side. Grab rig post, step back and sit hips away, arm extended. Lengthens lats for pull-up range and overhead DB snatch position.
+*   **T-spine Extension:** 45s. Foam roller under mid-back, arms overhead. (DB snatch lockout + pull-up ROM)
+*   **Wrist Stretch:** 30s. Palms flat, fingers toward knees. (Grip endurance for 30 min)
 
 ---
 
 ## Workout
+
+**Prep (Movement-Specific Primer, 3-5 min):**
+*   2 rounds:
+    *   5 Scap pulls + 3 Pull-ups (or scale)
+    *   5 Push-ups + 5 Air squats
+    *   5 Alt DB snatches (light)
+*   *Goal:* Find your pull-up and push-up scale before the clock.
 
 **Team of 3 Conditioning**
 
@@ -75,5 +82,5 @@
 
 **4. Debrief (during stretching)**
 *   *Downshift breathing:* Slow nasal exhales.
-*   *Bright spot:* "Clear rotation plan with partners?"
-*   *Tech takeaway:* "Sustainable pace beats redline" over 30 min.
+*   *Bright spot examples:* "Clear rotation plan?" "Transitions smooth?" "Kept moving when tired?"
+*   *Tech takeaway:* "Sustainable pace beats redline."

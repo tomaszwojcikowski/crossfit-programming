@@ -15,17 +15,18 @@
 ---
 
 ## Warmup (RAMP)
+*Stimulus: Heavy squats + explosive intervals. Prime legs and hip drive.*
 
-*   **R1 (2:00 easy):** 400m easy cardio, 10 Air squats, 30s plate driving wheel in squat
-*   **R2 (1:30 mod):** 300m mod cardio, 10 Squat with plate on the back, 10 Hops on the plate
-*   **R3 (1:00 hard):** 200m fast cardio, Squats with plate on arms, jump on plate from knees
+*   **R1 (2:00 easy):** 2:00 easy machine + 10 Air squats + 8 Reverse lunges (alt)
+*   **R2 (1:30 mod):** 1:30 moderate machine + 8 Tempo air squats (3s down) + 6 Squat jumps
+*   **R3 (1:00 hard):** 1:00 hard machine + 5 Explosive squat jumps (stick landing)
 *   *Rest:* 30-60s between rounds.
 
 ## Mobility (60-90s)
-*Pre-workout movement prep—dynamic positioning, not static stretching.*
+*Open ankles for squat depth + hips for explosive drive.*
 
-*   **Ankle Rocks (Dorsiflexion):** 30s/side. Knee tracks over toes, heel stays down. Opens ankle for squat depth and box jump landing.
-*   **Couch Stretch (Hip flexors/quads):** 30s/side. Knee against wall, shin vertical, squeeze glute. Primes hip extension for squats and explosive jumps.
+*   **Ankle Rocks:** 30s/side. Knee forward over toes, heel down. (Squat depth + box landing)
+*   **Couch Stretch:** 30s/side. Knee to wall, squeeze glute. (Hip extension for jumps)
 
 ---
 

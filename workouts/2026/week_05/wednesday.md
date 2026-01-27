@@ -4,33 +4,40 @@
 *   **Time:** 60:00 Cap | **Equip:** Barbell, Plates, (Lifting shoes)
 *   **Stimulus:** High-skill technical volume followed by heavy single.
 *   **Standards:** Full squat (hip crease below knee). Locked out overhead.
-*   **Scaling Priority:** Complexity → Load → Volume
+*   **Scaling Priority:** Load → Volume → Complexity
 *   **Scaling:**
     *   **A:** As written (full snatch)
     *   **B:** Power Snatch + Overhead Squat (if limited depth)
     *   **C:** Snatch Pulls + Snatch Balance practice (focus on speed)
-*   **Top Cues:** "Punch the bar up." "Sit tall." "Fast feet."
+*   **Top Cues:** "Punch the bar to the ceiling." "Stand up under the bar." "Stomp and stick."
 *   **Bottleneck:** Barbell space. No shared bars for 1RM.
 
 ---
 
 ## Warmup (RAMP)
+*Stimulus: Prime positions for snatch—T-spine + ankles + hip hinge.*
 
-*   **R1 (2:00 easy):** Row/Bike, 10 Pass-throughs, 10 Overhead squats (PVC)
-*   **R2 (1:30 mod):** Row/Bike, 10 Snatch grip DL, 10 Muscle snatches (PVC/Empty bar)
-*   **R3 (1:00 hard):** Row/Bike, 5 Snatch balances, 5 Squat snatches (Empty bar)
-*   *Cues:* "Active shoulders." "Bar close."
+*   **R1 (2:00 easy):** 2:00 easy machine + 10 Pass-throughs (PVC) + 8 OHS (PVC)
+*   **R2 (1:30 mod):** 1:30 moderate machine + 8 Inchworms + 6 Bodyweight squats
+*   **R3 (1:00 hard):** 1:00 hard machine + 5 Inch worms + 5 Squat jumps
+*   *Cues:* "Press overhead." "Stomp and stick."
 
 ## Mobility (60-90s)
-*Pre-workout movement prep—dynamic positioning, not static stretching.*
+*Open T-spine for vertical bar path + ankles for receiving position.*
 
-*   **Thoracic Extension (T-spine Mobility):** 45s. Foam roller across mid-back, arms extended overhead. Opens thoracic vertebrae for vertical bar path in snatch pull and overhead receiving position.
-*   **Wrist Mobility (Circumduction):** 30s total. Interlace fingers, rotate wrists in circles both directions. Prepares wrists for hook grip, overhead lockout position, and barbell turnover in the snatch.
-*   **Ankle Stretch (Dorsiflexion):** 30s/side. Knee to wall drill, toes 4-6" away, drive knee forward. Essential for achieving deep squat receiving position in snatch and maintaining upright torso.
+*   **T-spine Extension:** 45s. Foam roller mid-back, arms overhead. (Vertical catch position)
+*   **Ankle Rocks:** 30s/side. Knee to wall drill. (Deep squat receiving)
 
 ---
 
 ## Workout
+
+**Prep (Movement-Specific Primer, 3-5 min):**
+*   Build from empty bar:
+    *   5 Pass-throughs → 5 Muscle snatches
+    *   5 Snatch-grip RDL → 5 Snatch balances
+    *   3 Squat snatches (build weight, stay crisp)
+*   *Goal:* Find opening weight for EMOM. Zero misses.
 
 **A) 16' EMOM (Technical Build)**
 *   Minute 1: 2 Squat Snatches
@@ -73,5 +80,5 @@
 
 **4. Debrief (supine, 2 min)**
 *   Lie on back, legs up wall or extended. Continue box breathing.
-*   *Bright spot:* "Heavy single clean? No misses?"
-*   *Tech takeaway:* "Stay patient" on the pull—bar close, then fast.
+*   *Bright spot examples:* "Heavy single with no misses?" "Stayed patient on the pull?" "Position felt solid?"
+*   *Tech takeaway:* "Drag the bar, then punch fast."
