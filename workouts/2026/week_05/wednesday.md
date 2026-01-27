@@ -25,8 +25,8 @@
 ## Mobility (60-90s)
 *Open T-spine for vertical bar path + ankles for receiving position.*
 
-*   **T-spine Extension:** 45s. Foam roller mid-back, arms overhead. (Vertical catch position)
-*   **Ankle Rocks:** 30s/side. Knee to wall drill. (Deep squat receiving)
+*   **Thoracic Rotation:** 45s/side. Half-kneeling, hand behind head, rotate chest open. (Vertical catch position)
+*   **Hip Flexor Stretch:** 30s/side. Lunge position, reach overhead. (Hip extension)
 
 ---
 
