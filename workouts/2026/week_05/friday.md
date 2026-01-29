@@ -15,12 +15,12 @@
 ---
 
 ## Warmup (RAMP)
-*Stimulus: High-volume BMU + barbell cycling. Build pulling + hip drive.*
+*Stimulus: High-volume BMU + barbell cycling. Build pulling mechanics + hip drive + shoulder stability.*
 
-*   **R1 (2:00 easy):** 2:00 easy machine + 8 Deadlifts (empty bar) + 8 Strict press
-*   **R2 (1:30 mod):** 1:30 moderate machine + 6 Hang power cleans + 6 Push press
-*   **R3 (1:00 hard):** 1:00 hard machine + 4 Hang cleans + 4 Push press (build speed)
-*   *Cues:* "Jump the bar to the shoulders." "Pop the bar off the shoulders."
+*   **R1 (2:00 easy):** 2:00 easy row + 8 Scap pulls (rig) + 5 Deadlifts (empty bar)
+*   **R2 (1:30 mod):** 1:30 moderate row + 8 Kip swings + 6 Hang power cleans
+*   **R3 (1:00 hard):** 1:00 hard row + 5 Explosive pull-ups + 5 Push press (build speed)
+*   *Cues:* "Snap the bar down to you." "Jump the bar to the shoulders."
 
 ## Mobility (60-90s)
 *Open lats for pulling + front rack for barbell cycling.*
