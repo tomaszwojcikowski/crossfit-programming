@@ -40,7 +40,7 @@
 
 **[ Reset Window: 4:00 ]**
 *   *Action:* Clear floor. Prep for running.
-*   *Goal:* Decrease heart rate.
+*   1 lap run, 5 V-ups, 5 push-ups, 10 DU
 
 **B) Conditioning: 6 Rounds for Time (Tc: 18:00)**
 *   3 Lap Run (~300m)
