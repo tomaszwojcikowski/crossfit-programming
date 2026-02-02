@@ -15,18 +15,20 @@
 ---
 
 ## Warmup (RAMP)
-*Stimulus: Machine + STO + box jumps + pull-ups. Prime shoulders, hips, and engine.*
+*Stimulus: Machine + jump prep + pull prep. Prime shoulders, hips, and engine (no bar).*
 
-*   **R1 (2:00 easy):** 2:00 easy machine + 8 Air squats + 8 Shoulder press (empty bar)
-*   **R2 (1:30 mod):** 1:30 moderate machine + 8 Box step-ups + 6 Push press (light)
-*   **R3 (1:00 hard):** 1:00 hard machine + 5 Box jumps (step down) + 5 Explosive pull-ups
-*   *Cues:* "Press through the ceiling." "Land soft."
+*   **R1 (2:00 easy):** 2:00 easy machine + 8 Air squats + 6 Inchworms
+*   **R2 (1:30 mod):** 1:30 moderate machine + 10 push-ups + 8 Hollow rocks
+*   **R3 (1:00 hard):** 1:00 hard machine + 5 Broad jumps (stick landing) + 5 Scap pulls (from hang) + kip swings
+*   *Cues:* "Jump and stick." "Stay long in the hang."
 
 ## Mobility (60-90s)
-*Open shoulders for STO + hips for box jumps.*
+*Open overhead/lat for STO + ankles/hips for box jumps.*
 
-*   **Front Rack Stretch:** 45s. Elbows on box, press chest down. (STO catch + cycling)
-*   **Pigeon Pose:** 30s/side. Hips square, relax forward. (Box jump landing + recovery)
+*   **Overhead Lat Stretch (Rig/Box):** 30s/side. Hands high, hips back.
+    *(Overhead lockout + pull-up shoulder comfort.)*
+*   **Deep Squat Hold + Heel Rocks:** 30s total. Sit low, gently rock heels.
+    *(Ankles + landing position for box jumps.)*
 
 ---
 

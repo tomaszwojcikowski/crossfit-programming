@@ -15,11 +15,11 @@
 ---
 
 ## Warmup (RAMP)
-*Stimulus: High-rep KB + HSPU + heavy single clean. Prime hips, shoulders, and pulling mechanics.*
+*Stimulus: High-rep KB + HSPU + heavy single clean. Prime hips, shoulders, and pulling mechanics (no machines).*
 
-*   **R1 (2:00 easy):** 2:00 easy machine + 10 KB deadlifts + 8 Shoulder taps (plank)
-*   **R2 (1:30 mod):** 1:30 moderate machine + 8 KB swings (light) + 5 Pike push-ups
-*   **R3 (1:00 hard):** 1:00 hard machine + 5 KB swings (working) + 3 Kip swings to wall (or wall walk)
+*   **R1 (2:00 easy):** 2:00 easy cardio (walk/jog or jumping jacks) + 10 KB deadlifts + 8 Shoulder taps (slow)
+*   **R2 (1:30 mod):** 1:30 moderate cardio (shuttle runs) + 8 KB swings russian + 5 Pike push-ups
+*   **R3 (1:00 hard):** 1:00 hard cardio (shuttle runs) + 5 KB swings (american) + 3 wall walks
 *   *Cues:* "Snap the hips." "Press through the floor."
 
 ## Mobility (60-90s)
@@ -63,7 +63,7 @@
     *Non-negotiable after 200 HSPU reps (team total) + KB grip.*
 
 **2. Active Flush (3 min)**
-*   Easy row or bike at 50-60% Max HR.
+*   Easy walk or light jog at RPE 2-3/10.
 *   **Nasal breathing only** (maintains skeletal muscle pump for metabolite clearance).
 *   *Purpose: Extended grind produces sustained lactate—flush it.*
 
