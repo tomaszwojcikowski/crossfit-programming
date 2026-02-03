@@ -26,7 +26,16 @@
 - Rest 30-60s between rounds
 
 **Equipment:** Max 1 extra item beyond cardio. Stage all before starting.
-**Cardio:** Row, bike, ski, run, rope, shuttle runs. Subs: jumping jacks, high knees, mountain climbers (2x time).
+**Cardio (preferred defaults):** If machines available: row/bike/ski. If no machines: shuttle runs/jog/rope.
+Subs: jumping jacks, high knees, mountain climbers (2x time).
+
+**Warmup Preferences (from past workouts in this repo):**
+- Keep R1/R2/R3 cardio as a clear time block (2:00 / 1:30 / 1:00) with rising intensity.
+- Default to machine cardio only when explicitly available; otherwise write the warmup as no-machine (shuttles/jacks).
+- Keep the warmup “implement-light”: 0–1 implement total (often bodyweight + rig).
+- Prefer **no barbell in the warmup**; move barbell touchpoints into **Movement Prep** (empty bar/light implement).
+- If you need shoulder/overhead prep without a bar: use scap pulls/kip swings, inchworms, wall walks, hollow/arch.
+- Always preserve the intended stimulus by offering a quick cardio swap (machine ↔ shuttles ↔ jacks/high knees).
 
 ---
 
