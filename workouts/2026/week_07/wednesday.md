@@ -29,8 +29,8 @@
 ## Mobility (60-90s)
 *Open shoulders for KB overhead + hips for goblet squats and lunges.*
 
-*   **Overhead Reach (Active):** 30s. Reach arms overhead, pull ribs down, squeeze glutes. (Shoulder flexion for KB lockout)
-*   **Deep Squat Hold:** 45s. Weight in heels, elbows push knees out. (Hip/ankle mobility for goblet squats)
+*   **Lat Stretch on Rig:** 30-40s/side. Grab rig upright, step back, sink hips, lean away from anchor. (Lat/shoulder mobility for KB snatches and overhead lunges)
+*   **Couch Stretch:** 30-40s/side. Rear knee down, foot against wall/box, drive hips forward. (Hip flexor opening for reverse lunges and squat depth)
 
 ---
 
