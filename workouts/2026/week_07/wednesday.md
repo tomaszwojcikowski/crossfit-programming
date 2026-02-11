@@ -19,9 +19,9 @@
 
 *Equipment: Machine OR shuttle run area, Kettlebell (light), Floor space*
 
-*   **R1 (2:00 easy):** 2:00 easy machine (OR 30s shuttle runs) + 10 KB deadlifts (light) + 8 Push-ups (slow, quality)
-*   **R2 (1:30 mod):** 1:30 moderate machine (OR 20s shuttle runs) + 8 KB goblet squats (light) + 6 KB swings (light) + 6 Push-ups (moderate speed)
-*   **R3 (1:00 hard):** 1:00 hard machine (OR 15s shuttle runs) + 5 KB snatches/arm (light) + 5 Explosive push-ups (clap or fast)
+*   **R1 (2:00 easy):** 10 shuttle runs + 10 KB deadlifts (light) + 8 Push-ups (slow, quality)
+*   **R2 (1:30 mod):** KB walking lunges + 8 KB goblet squats (light) + 6 KB swings (light) + 6 Push-ups (moderate speed)
+*   **R3 (1:00 hard):** KB explosive lunges + 5 KB snatches/arm (light) + 5 Explosive push-ups (clap or fast)
 *   *Rest:* 30-60s between rounds.
 
 *Machine Sub: If no machines, use shuttle runs (10m out/back) OR high knees (2x time).*
