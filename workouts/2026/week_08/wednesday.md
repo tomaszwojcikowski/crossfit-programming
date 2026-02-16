@@ -21,7 +21,7 @@
 
 *   **R1 (2:00 easy):** 20 Box step-ups (slow pace) + 30s bar hang + 5+5 Hanging knee raises
 *   **R2 (1:30 mod):** 15 Box step-overs (moderate pace) + 10s Lsit + 8 Toes to hip height + 6 KB swings (amercian)
-*   **R3 (1:00 hard):** 10 Burpee box jump + 5 Toes-to-bar (singles) + 5 KB swings (light)
+*   **R3 (1:00 hard):** 10 Box jump, low hips + 5 Toes-to-bar (singles) + 5 KB swings (light)
 *   *Rest:* 30-60s between rounds.
 
 ## Mobility (90s)
