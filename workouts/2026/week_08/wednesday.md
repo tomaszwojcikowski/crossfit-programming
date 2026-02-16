@@ -33,6 +33,12 @@
 
 ---
 
+## Toes to bar practice (2 mins)
+
+Use kettlebell on the floor to practice the movement.
+
+---
+
 ## Workout
 
 **Prep (Movement Primer):**
