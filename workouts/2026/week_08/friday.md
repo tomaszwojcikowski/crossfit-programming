@@ -19,8 +19,10 @@
 
 *Equipment: Pull-up rig, Box, Light DB*
 
-*   **R1 (2:00 easy):** 20 Box step-ups (no weight, slow pace) + 10 Scap pulls on rig + 8 DB deadlifts (light)
-*   **R2 (1:30 mod):** 15 Box step-ups (no weight, moderate pace) + 8 Active hangs (5s hold) + 6 DB hang snatches (light)
+
+*   **R0** 2:00 row
+*   **R1 (2:00 easy):** 20 Box step-ups (no weight, slow pace) + 4 Active hangs (5s hold) + 8 DB high pull (light)
+*   **R2 (1:30 mod):** 15 Box step-ups (no weight, moderate pace) + 2x5 Scap pulls on rig + 6 DB hang snatches (light)
 *   **R3 (1:00 hard):** 10 Box step-overs (no weight, fast pace) + 5 Kip swings + 5 DB snatches (light)
 *   *Rest:* 30-60s between rounds.
 
@@ -29,7 +31,7 @@
 
 *   **Lat Stretch on Rig:** 30s/side. Hang from bar, relax one arm. (Pull-up range)
 *   **Couch Stretch:** 30s/side. Knee to wall, squeeze glute. (Hip extension for step-overs)
-*   **Ankle Stretch on Wall:** 30s/side. Toes on wall, knee forward. (Ankle dorsiflexion for box step-overs)
+*   **Ankle Stretch on box:** 30s/side. (Ankle dorsiflexion for box step-overs)
 
 ---
 
@@ -38,8 +40,7 @@
 **Prep (Movement Primer):**
 *Test all movements at game pace. Coordinate partner splits.*
 
-*   5 Pull-ups (or scaled version) + 5 Box step-overs w/DB (game weight) + 5 Cal machine + 10 DB hang snatches (alternating)
-*   **Partner Planning:** Decide split strategy (e.g., "I do 12 pull-ups, you do 12" OR "Switch every 6 reps")
+*   5 Strict Pull-ups (or scaled version) + 5 Box step-overs w/DB (game weight) + 10 DB hang snatches (alternating)
 *   *Total Time: 3-4:00*
 
 **Conditioning: 24:00 AMRAP (Team of 2)**
@@ -75,10 +76,4 @@
     *Deep glute (piriformis)—releases hip from step-overs.*
 *   **Lying Quad Stretch:** 45s/side. Side-lying, pull heel to glute.
     *Rectus femoris—releases quad tension from box step-overs.*
-
----
-
-**Debrief Prompts:**
-*   "One bright spot?" (Teamwork: "We kept the machine moving fast." / Pacing: "Pull-ups stayed in small, crisp sets.")
-*   Stimulus check: "Did you maintain consistent round times or slow down in later rounds?"
-*   Takeaway: "What movement was the biggest challenge for your team today?"
+    **Wrists stretch** 60s
