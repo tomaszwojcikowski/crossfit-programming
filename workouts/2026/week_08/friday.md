@@ -21,17 +21,17 @@
 
 
 *   **R0** 2:00 row
-*   **R1 (2:00 easy):** 20 Box step-ups (no weight, slow pace) + 4 Active hangs (5s hold) + 8 DB high pull (light)
-*   **R2 (1:30 mod):** 15 Box step-ups (no weight, moderate pace) + 2x5 Scap pulls on rig + 6 DB hang snatches (light)
-*   **R3 (1:00 hard):** 10 Box step-overs (no weight, fast pace) + 5 Kip swings + 5 DB snatches (light)
+*   **R1 (2:00 easy):** Row + 4 dead + active hangs (5s hold) + 10 synchro bodyweigth good mornings
+*   **R2 (1:30 mod):** A) 10 Box step-ups / B) 6 DB high pull + 10 synchro alt lunges
+*   **R3 (1:00 hard):** A) 10 Box step-overs / B) 10 DB snatches + 5 synchro Kip swings
 *   *Rest:* 30-60s between rounds.
 
-## Mobility (90s)
-*Open shoulders for pulling + hips for stepping + ankles for box control.*
+## Mobility (60-90s)
+*Quick dynamic opening for pull + step + overhead positions.*
 
-*   **Lat Stretch on Rig:** 30s/side. Hang from bar, relax one arm. (Pull-up range)
-*   **Couch Stretch:** 30s/side. Knee to wall, squeeze glute. (Hip extension for step-overs)
-*   **Ankle Stretch on box:** 30s/side. (Ankle dorsiflexion for box step-overs)
+*   **Active Lat Opener on Rig:** 20s/side, then 4 scap pulls. (Shoulder flexion for pull-ups)
+*   **Half-Kneeling Hip Flexor Rocks:** 8 reps/side. (Hip extension for box step-overs)
+*   **Ankle Knee-over-Toe Rocks on Box:** 8 reps/side. (Ankle dorsiflexion for stable step-over)
 
 ---
 
