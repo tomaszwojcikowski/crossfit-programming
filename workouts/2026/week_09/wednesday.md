@@ -20,23 +20,24 @@
 
 *Equipment: Cardio Machine, Cones*
 
-*   **R1 (2:00 easy):** 2:00 Machine (easy pace) + 10 Air squats + 10 Push-ups
-*   **R2 (1:30 mod):** 1:30 Machine (moderate pace) + 8 Shuttle runs + 8 Down ups
-*   **R3 (1:00 hard):** 1:00 Machine (hard pace) + 5 Shuttle runs + 5 Down ups
+*   **R1 (2:00 easy):** 3-4 lap run + 10 Air squats + 60s plank
+*   **R2 (1:30 mod):** 1:00 row + 8 Shuttle runs + 8 push ups + 2 russian push ups
+*   **R3 (1:00 hard):** 1:00 bike + 5 burpee Shuttle runs
 *   *Rest:* 30-60s between rounds.
 
-## Mobility (90s)
-*Open hips and shoulders.*
+## Mobility (Before Main Workout, 3 min)
+*Open hips and shoulders before the endurance intervals.*
 
-*   **Couch Stretch:** 45s/side. Open up hips after rowing and biking.
-*   **Thread the Needle:** 45s/side. Release upper back and shoulders.
+*   **World's Greatest Stretch Flow:** 60s alternating. Open hips and T-spine dynamically.
+*   **Squat-to-Stand with Reach:** 60s continuous. Prep ankles, hamstrings, and overhead position.
+*   **Inchworm to Push-up + Shoulder Tap:** 60s continuous. Prime shoulders and trunk control.
 
 ---
 
 ## Movement Prep (4 min)
 *Practice transitions and pacing.*
 
-*   100m Row + 4 Shuttle runs + 200m AAB + 15s Plank + 4 Down ups
+*   100m Row + 4 Shuttle runs + 200m AAB + 4 Down ups
 
 ---
 
