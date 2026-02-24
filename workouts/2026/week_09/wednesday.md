@@ -21,7 +21,7 @@
 *Equipment: Cardio Machine, Cones*
 
 *   **R1 (2:00 easy):** 3-4 lap run + 10 Air squats + 60s plank
-*   **R2 (1:30 mod):** 1:00 row + 8 Shuttle runs + 8 push ups + 2 russian push ups
+*   **R2 (1:30 mod):** 1:00 row + 8 push ups + 2 russian push ups
 *   **R3 (1:00 hard):** 1:00 bike + 5 burpee Shuttle runs
 *   *Rest:* 30-60s between rounds.
 
@@ -30,9 +30,11 @@
 
 *   **World's Greatest Stretch Flow:** 60s alternating. Open hips and T-spine dynamically.
 *   **Squat-to-Stand with Reach:** 60s continuous. Prep ankles, hamstrings, and overhead position.
-*   **Inchworm to Push-up + Shoulder Tap:** 60s continuous. Prime shoulders and trunk control.
+*   **Reverse inchworm:** 60s continuous. Prime shoulders and trunk control.
 
 ---
+
+## Practice row (2 min)
 
 ## Movement Prep (4 min)
 *Practice transitions and pacing.*
