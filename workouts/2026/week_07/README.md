@@ -7,13 +7,13 @@
 
 ---
 
-## Weekly Structure
+## Daily Workouts
 
-- **Monday:** Front Squat E2M + Thruster/Pull-up intervals
-- **Tuesday:** Deadlift 1RM testing + Heavy DL/Burpee chipper
-- **Wednesday:** Team KB conditioning (snatches, goblets, lunges)
-- **Thursday:** 8RFT mixed modal (run, walls, devil press, T2B)
-- **Friday:** Team BMU/Clean & Jerk ascending ladder
+- **[Monday](monday.md)** – Front Squat E2M + Thruster/Pull-up intervals
+- **[Tuesday](tuesday.md)** – Deadlift 1RM testing + Heavy DL/Burpee chipper
+- **[Wednesday](wednesday.md)** – Team KB conditioning (snatches, goblets, lunges)
+- **[Thursday](thursday.md)** – 8RFT mixed modal (run, walls, devil press, T2B)
+- **[Friday](friday.md)** – Team BMU/Clean & Jerk ascending ladder
 
 ---
 

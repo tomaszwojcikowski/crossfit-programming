@@ -7,13 +7,13 @@
 
 ---
 
-## Weekly Structure
+## Daily Workouts
 
-- **Monday:** Snatch complex progression + Overhead Squat 1RM
-- **Tuesday:** Front Squat E2M + Wall Ball/Cal/DU AMRAP
-- **Wednesday:** Team AMRAP (T2B, burpees, KB, box jumps)
-- **Thursday:** Barbell complex intervals (hang clean, press, thruster, OH lunge)
-- **Friday:** Team AMRAP (pull-ups, box step-overs w/DB, cal, DB snatches)
+- **[Monday](monday.md)** – Snatch complex progression + Overhead Squat 1RM
+- **[Tuesday](tuesday.md)** – Front Squat E2M + Wall Ball/Cal/DU AMRAP
+- **[Wednesday](wednesday.md)** – Team AMRAP (T2B, burpees, KB, box jumps)
+- **[Thursday](thursday.md)** – Barbell complex intervals (hang clean, press, thruster, OH lunge)
+- **[Friday](friday.md)** – Team AMRAP (pull-ups, box step-overs w/DB, cal, DB snatches)
 
 ---
 

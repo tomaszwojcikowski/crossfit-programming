@@ -1,5 +1,15 @@
 # WEEK 06 (02-06/02/2026) AKTUALNY TYDZIEŃ
 
+## Daily Workouts
+
+- **[Monday](monday.md)** – Front Squats & WB/DU For Time
+- **[Tuesday](tuesday.md)**
+- **[Wednesday](wednesday.md)**
+- **[Thursday](thursday.md)**
+- **[Friday](friday.md)**
+
+---
+
 ## MONDAY
 
 ### A) WARM UP

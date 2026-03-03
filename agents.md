@@ -225,6 +225,17 @@ Include brief descriptions for less common movements and target areas for mobili
 - Main Conditioning
 - Cooldown + Debrief
 
+**Weekly README structure** (`workouts/2026/week_XX/README.md`):
+- Brief overview/heading with date range
+- **Daily Workouts** section (always near the top) with linked bullets:
+  - `- **[Monday](monday.md)** – one-line description`
+  - `- **[Tuesday](tuesday.md)** – one-line description`
+  - `- **[Wednesday](wednesday.md)** – one-line description`
+  - `- **[Thursday](thursday.md)** – one-line description`
+  - `- **[Friday](friday.md)** – one-line description`
+- Optional: Equipment Needs, Focus Areas, Scaling Notes
+- Links use relative paths (`monday.md`, not full paths) for GitHub mobile compatibility
+
 ---
 
 ## FUTURE IMPROVEMENTS
