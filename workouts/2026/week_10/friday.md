@@ -20,9 +20,9 @@
 
 *Equipment: Floor space*
 
-*   **R1 (2:00 easy):** 2:00 easy shuttles + 8 air squats + 8 inchworms
-*   **R2 (1:30 mod):** 1:30 moderate shuttles + 10 hip hinges + 8 pike push-ups
-*   **R3 (1:00 hard):** 1:00 fast shuttles + 5 burpees + 6 broad jumps
+*   **R1 (2:00 easy):** 4 lap run + 8 air squats + 8 inchworms + push up
+*   **R2 (1:30 mod):** 2 lap run + 8 barbell good morning + 8 strict press
+*   **R3 (1:00 hard):** 10 synchro burpee broad jumps 180 + 4 hang muscle clean
 *   *Rest:* 30-60s between rounds.
 
 ## Mobility (90s)
@@ -77,11 +77,3 @@
 *   Pigeon Pose (deep glute): 60s/side
 *   Puppy Pose (lats/chest): 60s
 *   Child's Pose (spine reset): 60s
-
-**3) Debrief (3:00)**
-*   One bright spot.
-*   Stimulus check: where did team lose most time (barbell or burpees)?
-*   One takeaway: "Short sets, quick switches."
-
-**4) Logistics (4:00)**
-*   Log scores + clean lanes + reset bars.
