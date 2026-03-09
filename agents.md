@@ -216,14 +216,20 @@ No tables. Use round-by-round lists with bullets. Short lines (max ~80 chars). E
 Include brief descriptions for less common movements and target areas for mobility (e.g., 'Pigeon (deep glute): 45s/side').
 
 **Structure per Day:**
-- Setup (Equipment, Timing, Stimulus, Standards, Scaling A/B/C, Top Cues, Bottleneck fix)
+- Setup (Equipment, Timing, Stimulus, Scaling, Top Cues)
 - Warmup (RAMP: R1/R2/R3)
-- Mobility
-- Strength/Skill Work
+- Post-Warmup Mobility
+- Strength/Skill Work or Movement Prep
 - Reset Window (if applicable)
-- Prep (movement-specific primers)
+- Movement Prep (if not already covered above)
 - Main Conditioning
 - Cooldown + Debrief
+
+**Readability First:**
+- Prefer the simpler Week 11 style over a denser coach sheet.
+- Keep Setup concise; Standards, Bottleneck fix, and a third scaling tier are optional.
+- Use short section headers and short bullets rather than packing every coaching detail into Setup.
+- It is acceptable for lighter days to omit Strength/Skill or Reset Window when the class flow does not need them.
 
 **Weekly README structure** (`workouts/2026/week_XX/README.md`):
 - Brief overview/heading with date range
@@ -296,19 +302,19 @@ Include brief descriptions for less common movements and target areas for mobili
 When generating workouts, warmups, or cooldowns:
 
 1. RAMP structure (3 rounds, progressive intensity)
-2. Equipment list at top (bullet format)
-3. Scaling options for technical movements (A/B/C preserve stimulus)
-4. Time caps for all timed pieces
-5. **External cues only** (action on object, not body parts)
-6. Mobile format (no tables, short lines ~80 chars, bullets)
-7. Post-warmup mobility 60-90s
-8. **Prep after strength/skill, before main conditioning (fresh reps)**
-9. Reset windows for group synchronization (3-5 min between parts)
-10. Cooldown 2-4 min + 2-3 stretches + debrief prompts
-11. Equipment staging noted + bottleneck fixes
-12. **Single group start (all athletes start together)**
-13. **Hard 60-minute cap with explicit timing blocks**
-14. Debrief structure: breathing → bright spot → score check → takeaway → logistics
+2. Keep the day layout readable and concise; prefer the simpler Week 11 format
+3. Equipment list at top (bullet format)
+4. Scaling options should usually be A/B; add C only when it materially helps preserve stimulus
+5. Time caps for timed pieces whenever relevant to class flow
+6. **External cues only** (action on object, not body parts)
+7. Mobile format (no tables, short lines ~80 chars, bullets)
+8. Post-warmup mobility 60-90s
+9. **Prep after strength/skill, before main conditioning (fresh reps)** when there is a distinct skill or loading demand
+10. Reset windows for group synchronization (3-5 min between parts) when needed
+11. Cooldown 2-4 min with 1-3 debrief prompts; exact order can be flexible
+12. Equipment staging or bottleneck notes are useful, but optional when the setup is obvious
+13. **Single group start (all athletes start together)**
+14. **Hard 60-minute cap with explicit timing blocks**
 
 ---
 

@@ -13,10 +13,10 @@
   - 10 x Air squats
 - **R2 ACTIVATE (1:30 moderate):** Machine
   - 10 m Bear crawl
-  - 10 x Band pull-aparts
+  - 8 x Scap pull-ups
 - **R3 POTENTIATE (1:00 hard):** Machine
   - 2 x Wall walks
-  - 5 x Medball cleans (light)
+  - 6 x Broad jumps
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)
@@ -38,5 +38,7 @@
 
 ## Cooldown & Debrief (4 min)
 1. 2 min extremely slow pedaling (Nasal breathing)
-2. Thread the needle: 60s/side
-3. Takeaway: "Pacing the max output minutes."
+2. Puppy dog pose: 45s
+3. Thread the needle: 45s/side
+4. Figure-4 glute stretch: 45s/side
+5. Takeaway: "Pacing the max output minutes."

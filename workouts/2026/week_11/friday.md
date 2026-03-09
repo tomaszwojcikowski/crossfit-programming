@@ -17,7 +17,7 @@
   - 8 x Kip swings
 - **R3 POTENTIATE (1:00 hard):** Calorie Bike (Sprint)
   - 5 x Burpees
-  - 4 x Strict pull-ups or ring rows
+  - 4 x Jumping pull-ups
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)
@@ -40,5 +40,6 @@
 ## Cooldown & Debrief (4 min)
 1. Slow walking (nasal down-regulation)
 2. Pec/shoulder stretch against wall: 60s/side
-3. Figure-4 glute stretch: 60s/side
-4. Bright spot: "Stayed unbroken on C&J." Or "Partner transitions were perfect."
+3. Forearm wall stretch: 45s/side
+4. Figure-4 glute stretch: 45s/side
+5. Bright spot: "Stayed unbroken on C&J." Or "Partner transitions were perfect."
