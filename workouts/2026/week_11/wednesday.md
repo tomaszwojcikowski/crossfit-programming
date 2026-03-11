@@ -6,6 +6,7 @@
 - Stimulus: Aerobic engine with odd-object and gymnastic intervals.
 - Scaling A: Medball over shoulder (30/20 kg). Wall walks instead of HSW.
 - Scaling B: Light MB cleans. Bear crawl.
+- Pregnancy: Box plank shoulder taps or elevated shoulder taps instead of inversion. Light medball clean to shoulder or sandbag to box. Machine pace stays smooth at conversational effort.
 
 ## Warmup (10 min)
 - **R1 RAISE (2:00 easy):** Machine
@@ -29,11 +30,11 @@
 
 ## Main Conditioning: 30' EMOM
 **Every minute on the minute for 30 minutes (5 rounds):**
-- **Minute 1:** Max meters Handstand Walk (or max Bear Crawl/Wall Walks)
+- **Minute 1:** Max meters Handstand Walk (or max Bear Crawl/Wall Walks; pregnancy: box plank shoulder taps or elevated shoulder taps)
 - **Minute 2:** Rest
-- **Minute 3:** Max Sandbag/D-Ball over the Shoulders (50/30 kg)
+- **Minute 3:** Max Sandbag/D-Ball over the Shoulders (50/30 kg) or light medball clean to shoulder / sandbag to box
 - **Minute 4:** Rest
-- **Minute 5:** Max calories Machine (Target: min. 20/15 cal)
+- **Minute 5:** Max calories Machine (Target: min. 20/15 cal; pregnancy: steady conversational pace)
 - **Minute 6:** Rest
 
 ## Cooldown & Debrief (4 min)
