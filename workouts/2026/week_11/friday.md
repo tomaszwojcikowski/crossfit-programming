@@ -13,16 +13,16 @@
   - 10 x Scap pull-ups
   - 10 x Lunges
 - **R2 ACTIVATE (1:30 moderate):** Calorie Bike
-  - 8 x Push-ups
+  - 8 x Combo Push-ups (PU + shoulder tap x2, PU + knee tap x2, PU + toe tap x2) x4
   - 8 x Kip swings
 - **R3 POTENTIATE (1:00 hard):** Calorie Bike (Sprint)
-  - 5 x Burpees
-  - 4 x Jumping pull-ups
+  - 5 x Burpees (or foot jumps)
+  - 4 x strict pull-ups
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)
 - Lat stretch on rig: 45s/side
-- Thoracic extension on roller: 45s
+- Thoracic extension with bar: 45s
 
 ## Movement Prep (6 min)
 - Barbell touchpoints: Deadlift, Clean pull, Muscle clean, Front squat, Jerk.
