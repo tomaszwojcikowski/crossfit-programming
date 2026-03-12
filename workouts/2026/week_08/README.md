@@ -1,5 +1,11 @@
 # Week 08 (16-20 Feb 2026)
 
+## Source Screenshot
+
+[Open source screenshot](../../../assets/images/week_08_source.jpg)
+
+![Week 08 source screenshot](../../../assets/images/week_08_source.jpg)
+
 ## Overview
 
 **Focus:** Olympic lifting technique and mixed modal conditioning

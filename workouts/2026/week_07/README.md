@@ -1,5 +1,11 @@
 # Week 07 (09-13 Feb 2026)
 
+## Source Screenshot
+
+[Open source screenshot](../../../assets/images/week_07_source.jpg)
+
+![Week 07 source screenshot](../../../assets/images/week_07_source.jpg)
+
 ## Overview
 
 **Focus:** Mixed modal strength and conditioning

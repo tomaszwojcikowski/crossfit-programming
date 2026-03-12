@@ -1,5 +1,11 @@
 # WEEK 06 (02-06/02/2026) AKTUALNY TYDZIEŃ
 
+## Source Screenshot
+
+[Open source screenshot](../../../assets/images/week_06_source.jpg)
+
+![Week 06 source screenshot](../../../assets/images/week_06_source.jpg)
+
 ## Daily Workouts
 
 - **[Monday](monday.md)** – Front Squats & WB/DU For Time

@@ -1,5 +1,11 @@
 # Week 04 (19-23 Jan 2026)
 
+## Source Screenshot
+
+[Open source screenshot](../../../assets/images/week_04_source.jpg)
+
+![Week 04 source screenshot](../../../assets/images/week_04_source.jpg)
+
 ## Coach Playbook
 
 **Whiteboard (≤3:00):**

@@ -1,5 +1,11 @@
 # Week 11 (09-13/03/2026)
 
+## Source Screenshot
+
+[Open source screenshot](../../../assets/images/week_11_source.jpeg)
+
+![Week 11 source screenshot](../../../assets/images/week_11_source.jpeg)
+
 **Weekly Focus:** 2026 Open Workout 26.1 Practice and Heavy Volume
 
 ## Daily Workouts

@@ -1,5 +1,11 @@
 # Week 05 (26-30 Jan 2026)
 
+## Source Screenshot
+
+[Open source screenshot](../../../assets/images/week_05_source.jpg)
+
+![Week 05 source screenshot](../../../assets/images/week_05_source.jpg)
+
 ## Coach Playbook
 
 **Whiteboard (≤3:00):**
