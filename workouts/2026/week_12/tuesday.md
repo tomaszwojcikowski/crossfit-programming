@@ -6,6 +6,10 @@
 - Stimulus: Team sprint intervals with repeatable engine output and rope efficiency.
 - Scaling A: Keep calories, lower double unders only if needed to stay inside each interval target.
 - Scaling B: 160 single unders or 100 double-under attempts instead of 200 DU.
+- Pregnancy substitutions (no jump, DU only): Keep low impact while matching DU time domain (about 1:30-2:00 work).
+  - 200 DU -> 100 fast alternating line step-overs
+  - or 200 DU -> 80 plate toe taps (alternating)
+  - or 200 DU -> 60 high-knee march steps/side in place
 - Top Cues: "Sprint the calories." "Relax the rope shoulders."
 
 ## Warmup (10 min)
