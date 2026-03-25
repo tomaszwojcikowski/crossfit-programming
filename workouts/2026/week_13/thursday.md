@@ -50,6 +50,6 @@
 
 ## Cooldown & Debrief (4 min)
 1. 2 min easy walk, nasal breathing
-2. Sleeper stretch (posterior shoulder): 45s/side
+2. Sleeper stretch (posterior shoulder): 45s/side — lie on side, arm at 90°, use free hand to gently press wrist toward floor
 3. Child's pose: 60s
 4. Bright spot: "I broke early and kept every set clean."
