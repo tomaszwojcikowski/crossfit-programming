@@ -40,6 +40,8 @@
 - 30 Burpee Deadlift KB
 - 60 Russian Swings (24/20 kg)
 
+**Expected rounds:** 2-3 rounds (fit teams: 3+, ~7-9 min/round; average: 2-3, ~10-12 min/round)
+
 ## Cooldown & Debrief (4 min)
 1. 2 min easy walk, nasal breathing
 2. Pigeon (deep glute): 45s/side

@@ -129,6 +129,20 @@ Pick one option, keep consistent. Use RPE 7-8 if no 1RM. Offer 2-3 tiers.
 **For Time:** Short 5-8 min (high skill/intensity), Mid 10-15 min (mixed), Long 18-25 min (endurance). Always Tc.
 **Intervals:** X min ON / Y min OFF, ratios 1:1, 2:1, 3:1. Use finish targets for pacing.
 
+**Workout Estimations (always include):**
+- **AMRAP:** Add expected rounds note after the movement list.
+  - Format: `Expected rounds: X-Y (fit: Y+, ~N min/round; average: X-Y, ~N min/round)`
+  - Rep rate benchmarks: Barbell cycling ~4-6s/rep, DB clean & jerk / thrusters ~3-5s/rep, KB swings / SDLHP ~2-4s/rep, Burpees ~6-8s/rep, Burpee box jump over / burpee deadlift ~8-12s/rep, Box jumps / step-overs ~4-7s/rep, Pull-ups / chin-ups ~3-5s/rep, T2B / hanging knee raises / HSPU ~4-7s/rep, DU ~1-2s/rep, Assault bike cal ~5-8s/cal.
+  - For team workouts, estimate by format:
+    - split-any-way continuous work: divide reps by number of partners, then add 10-20s per movement for handoffs
+    - alternating sets or fixed turns: estimate one athlete's work rate, then add transition time each switch
+    - single-station bottlenecks: do not divide linearly; estimate from station throughput first
+- **For Time:** Add expected finish window in the time cap line.
+  - Format: `Time cap: N min (expected: X-Y min)`
+  - Use same rep rate benchmarks above.
+- **EMOM:** Note if athletes are expected to finish early or it's a true race-the-clock.
+  - Format: `Target: ~N reps remaining per minute` or note if 40-50% work/rest ratio is intended.
+
 ---
 
 ## LOGISTICS & SESSION FLOW
@@ -315,6 +329,7 @@ When generating workouts, warmups, or cooldowns:
 12. Equipment staging or bottleneck notes are useful, but optional when the setup is obvious
 13. **Single group start (all athletes start together)**
 14. **Hard 60-minute cap with explicit timing blocks**
+15. **Always include workout estimations** (expected rounds for AMRAP, expected finish window for For Time, work/rest note for EMOM) — see CONDITIONING section for formats and rep rate benchmarks
 
 ---
 
