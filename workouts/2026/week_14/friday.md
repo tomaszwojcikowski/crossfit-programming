@@ -10,6 +10,7 @@
   Burpee pull-ups → burpee + jumping pull-up.
 - Scaling B: Single-arm devil press with lighter DB. Ring rows instead of pull-ups.
   Down-up + jumping pull-up instead of burpee pull-up. Lunges unloaded.
+- Logistics: One team per rig bay and dumbbell pair. Agree on the handoff signal before Part 1 so the class can start together.
 - Top Cues: "Hinge hard on the burpee — push the floor away." "Pull elbows back, not down."
 
 ## Warmup (10 min)
@@ -21,7 +22,7 @@
   - 6 x Down-ups
 - **R3 POTENTIATE (1:00 hard):** Hard shuttle runs
   - 4 x Kipping pull-ups or jumping pull-ups
-  - 2 x Devil press (light)
+  - 4 x Fast alternating lunges
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)

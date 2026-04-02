@@ -8,8 +8,16 @@
 
 **Weekly Focus:** Squat strength, long team mixed-modal work, snatch positioning, and a short heavy team grind.
 
+## Lesson Planning Notes
+
+- Keep the week on a hard 60-minute class clock with single-start logistics.
+- Preserve stimulus through load and volume changes before swapping movement patterns.
+- Use movement prep, not the main warm-up, for empty-bar or workout-load rehearsal.
+- Solve equipment bottlenecks on paper before class starts, especially Wed and Fri.
+- Keep Monday as a placeholder until the missing source is recovered rather than inventing a false session.
+
 ## Daily Workouts
-- **[Monday](monday.md)** - Empty
+- **[Monday](monday.md)** - Placeholder only: source image shows warm-up but not the training piece
 - **[Tuesday](tuesday.md)** – Back Squat E2MOM build, then "Salatka jarzynowa" descending chipper
 - **[Wednesday](wednesday.md)** – Team of 2, 25' AMRAP: DU + hang squat cleans + T2B + pull-ups
 - **[Thursday](thursday.md)** – 12' squat snatch EMOM with pauses, then 5 rounds for time of run + snatch + OHS
@@ -30,3 +38,4 @@
 - **Team pacing** (Wed, Fri): small sets, fast handoffs, no dead stops
 - **Snatch positions** (Thu): patience below the knee and stability in the catch
 - **Simple conditioning density** (Tue): unbroken movement through a descending rep ladder
+- **Class logistics** (weekwide): single-start flow, lane clarity, and stimulus-preserving scales

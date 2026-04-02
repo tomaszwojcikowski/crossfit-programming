@@ -6,6 +6,7 @@
 - Stimulus: Technical squat snatch work under fatigue control, then a short mixed piece where the run drives breathing before overhead positions.
 - Scaling A: Use power snatch + overhead squat if full squat snatch is not stable. Reduce run distance slightly if space is limited.
 - Scaling B: Snatch pull + muscle snatch for the EMOM. Conditioning load to 35/20 kg and overhead squats to front squats if needed.
+- Logistics: Pre-mark the run distance and keep all bars facing the same direction so athletes return to a consistent start point.
 - Top Cues: "Stay over the bar below the knee." "Punch up into the catch." "Set the feet before the overhead squat."
 
 ## Warmup (10 min)

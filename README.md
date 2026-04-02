@@ -22,6 +22,7 @@ Welcome to the CrossFit Workout Programming repository. This repository contains
 *   **[Programming Agent Guidelines](agents.md):** The source of truth for programming logic.
 *   **[Movement Warmups](guides/CrossFit_Movement_Warmups.md):** Library of movement preparation.
 *   **[Coach Quickguide](guides/Coach_Quickguide.md):** Cues and triage scripts.
+*   **[Weekly README Block Template](guides/Weekly_README_Block_Template.md):** Copy-paste block for weekly lesson-planning notes.
 
 ## 🔬 Research & Meta
 

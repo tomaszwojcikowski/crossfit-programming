@@ -7,6 +7,7 @@
   Two full A→B cycles with 2' rests. Continuous output, clean handoffs.
 - Scaling A: Reduce machine cals to 35/28. Box jumps → step-overs. Clean → hang power clean.
 - Scaling B: Bike/row cals 25/20. Box step-overs only. Cleans 60/40 or DB hang cleans.
+- Logistics: One team owns one bike lane, one row lane, one box, and one bar for the full class. Rehearse handoffs before the first AMRAP.
 - Top Cues: "Share cals in chunks of 10." "Jump through the ground." "Elbows up on the catch."
 
 ## Warmup (10 min)
@@ -18,7 +19,7 @@
   - 8 x Good mornings (bodyweight)
 - **R3 POTENTIATE (1:00 hard):** Hard bike or row
   - 5 x Box jumps
-  - 3 x Hang power cleans (empty bar)
+  - 3 x Jump-and-shrug reps
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)
@@ -27,6 +28,7 @@
 
 ## Movement Prep (3 min)
 - 3 x Box jumps — land and absorb
+- 3 x Empty-bar hang power cleans
 - 3 x Power clean @ working weight
 - 1 x Team handoff rehearsal on machine
 

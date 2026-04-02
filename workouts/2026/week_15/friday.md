@@ -6,6 +6,7 @@
 - Stimulus: Short heavy team grind with repeated upper-body pressing, fast burpees, and a single heavy hinge each round.
 - Scaling A: HSPU to 3-5 abmat reps or box pike push-ups. Deadlift to 100/70 kg.
 - Scaling B: Pike push-ups to a box, down-up over bar instead of burpee over bar, deadlift to 80/60 kg.
+- Logistics: One team per bar and wall lane. Alternate full rounds to preserve a clean single-start flow.
 - Top Cues: "Kick straight up to the wall." "Stay tight over the bar on the burpee." "Set the back before the pull."
 
 ## Warmup (10 min)
@@ -14,10 +15,10 @@
   - 8 x Scap push-ups
 - **R2 ACTIVATE (1:30 moderate):** Moderate shuttle runs
   - 4 x Pike push-ups
-  - 5 x Empty-bar deadlifts
+  - 6 x Hip hinges with reach
 - **R3 POTENTIATE (1:00 hard):** Hard shuttle runs
   - 2 x Burpee over bar
-  - 1 x Deadlift @ workout load
+  - 3 x Fast pike push-ups or wall-facing shoulder taps
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)
@@ -27,6 +28,7 @@
 ## Movement Prep (4 min)
 - 3 x HSPU or scaled pressing reps
 - 2 x Burpee over bar
+- 3 x Empty-bar deadlifts
 - 1 x Deadlift @ workout load
 - Agree on team switching before the clock starts
 

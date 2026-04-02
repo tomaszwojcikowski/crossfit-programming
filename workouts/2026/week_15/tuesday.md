@@ -6,6 +6,7 @@
 - Stimulus: Back squat strength first, then a descending conditioning ladder with simple movements and constant transitions.
 - Scaling A: Keep the squat percentages. Reduce goblet squat load one tier and choose a sustainable machine pace.
 - Scaling B: Goblet squats lighter again or to air squats if needed. Push-ups to elevated push-ups. Down-ups instead of burpees stay the same.
+- Logistics: One lane per athlete. Keep the machine and goblet implement next to the floor station before the strength block starts.
 - Top Cues: "Brace before you sit." "Keep the ladder smooth - no redlining early."
 
 ## Warmup (10 min)
@@ -13,7 +14,7 @@
   - 8 x Squat-to-stand
   - 8 x Glute bridges
 - **R2 ACTIVATE (1:30 moderate):** Moderate machine or shuttle runs
-  - 6 x Empty-bar back squats
+  - 8 x Tempo air squats
   - 6 x Push-ups
 - **R3 POTENTIATE (1:00 hard):** Hard machine or shuttle runs
   - 4 x Down-ups
@@ -36,9 +37,10 @@
 - 1 @ 87%
 
 ## Reset Window (4 min)
-- Strip the rack. Set one implement for goblet squats and get onto the machine quickly.
+- Strip the rack. Keep one implement and one machine assigned per athlete so the class starts together without crossing lanes.
 
 ## Movement Prep (3 min)
+- 3 x Empty-bar back squats
 - 3 x Down-ups
 - 5 x Goblet squats @ workout load
 - 5 x Push-ups

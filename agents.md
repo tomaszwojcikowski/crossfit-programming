@@ -1,6 +1,6 @@
 # CrossFit Workout Programming Agent Guidelines
 
-**Last Updated:** 18 stycznia 2026
+**Last Updated:** 2 April 2026
 **Purpose:** Document rules and principles for creating CrossFit workouts, warmups, and cooldowns.
 
 ---
@@ -253,17 +253,30 @@ Include brief descriptions for less common movements and target areas for mobili
   - `- **[Wednesday](wednesday.md)** – one-line description`
   - `- **[Thursday](thursday.md)** – one-line description`
   - `- **[Friday](friday.md)** – one-line description`
-- Optional: Equipment Needs, Focus Areas, Scaling Notes
+- Recommended: Lesson Planning Notes, Equipment Needs, Focus Areas
+- Optional: Scaling Notes
 - Links use relative paths (`monday.md`, not full paths) for GitHub mobile compatibility
+
+**Weekly README block template:**
+
+```md
+## Lesson Planning Notes
+
+- Keep the week on a hard 60-minute class clock with single-start flow.
+- Preserve stimulus with load and volume changes before changing movement patterns.
+- Keep warm-ups implement-light and move workout-load rehearsal into Movement Prep.
+- Solve bottlenecks before class starts, especially on team and station-heavy days.
+- Use built-in rest windows for recovery and reset, not extra teaching drift.
+```
 
 ---
 
 ## FUTURE IMPROVEMENTS
 
-**Research:** See [PAP/PAPE research and protocols](PAP_PAPE_Research.md)
+**Research:** See [PAP/PAPE research and protocols](PAP_PAPE_Research.md) and [Functional Fitness Lesson Planning Reference](research/Functional_Fitness_Lesson_Planning_Reference.md)
 **Coaching:** See [Coach_Quickguide.md](Coach_Quickguide.md) and [The_Science_and_Art_of_HIFT.md](The_Science_and_Art_of_HIFT.md)
 **Programming:** Athlete tiers for auto-scaling, RPE tracking, video drill library
-**Documentation:** Session templates, equipment sub matrix, scaling flowchart
+**Documentation:** Session templates, equipment sub matrix, scaling flowchart, [Weekly README block template](guides/Weekly_README_Block_Template.md)
 **Tech:** Auto-timer tool, load calculator, demo video library
 
 ---
@@ -307,7 +320,7 @@ Include brief descriptions for less common movements and target areas for mobili
 5. Progressive intensity R1→R2→R3 enhances force production
 6. Routine is the enemy—vary stimulus, energy systems, modal combinations
 
-**Sources:** `RAMP_Meta_Annotated.md`, `CrossFit_Movement_Warmups.md`, `week_04_2026_warmups_cooldowns.md`
+**Sources:** `RAMP_Meta_Annotated.md`, `CrossFit_Movement_Warmups.md`, `week_04_2026_warmups_cooldowns.md`, `research/Functional_Fitness_Lesson_Planning_Reference.md`
 
 ---
 

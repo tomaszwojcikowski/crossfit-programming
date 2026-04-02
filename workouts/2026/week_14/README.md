@@ -8,6 +8,15 @@
 
 Transcribed from the weekly board.
 
+## Lesson Planning Notes
+
+- Keep the whole week on a hard 60-minute class clock with single-start flow.
+- Preserve stimulus with load and volume changes before changing movement patterns.
+- Keep warm-ups implement-light and move barbell or workout-load rehearsal into
+	Movement Prep.
+- Solve bottlenecks before class starts, especially on Wed, Thu, and Fri.
+- Use the rest built into interval formats as recovery, not as extra teaching time.
+
 ## Daily Workouts
 - **[Monday](monday.md)** – Back Squat E2MOM (70–85%) + Open 2026 QuarterFinals palindrome chipper (shuttle / OHS / lateral burpees)
 - **[Tuesday](tuesday.md)** – 2 Rounds for Time: farmer carry + wall balls + bearhug carry + DU + machine cals
@@ -31,3 +40,4 @@ Transcribed from the weekly board.
 - **Gymnastics capacity** (Thu): T2B, rope, wall walks, HSW in a 30-min EMOM
 - **Grip endurance** (Tue): back-to-back carry variations
 - **Team pacing** (Wed, Fri): clean handoffs, constant output
+- **Room flow** (weekwide): pre-staged lanes, protected stations, no traffic crossovers

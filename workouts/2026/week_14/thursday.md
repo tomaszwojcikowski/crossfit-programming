@@ -9,6 +9,7 @@
 - Scaling A: Rope climb → 2 rope pulls from floor. Wall walks 3 → 2. HSW 5 m → wall taps x10.
 - Scaling B: Hanging knee raises instead of T2B. Rope: 3 x low ring rows or lay-to-stand rope.
   Wall walks → inchworm to wall tap. Bear crawl 10 m instead of HSW.
+- Logistics: Assign fixed lanes for rig, rope, wall, and run return so athletes never cross during the EMOM. Keep Minute 6 fully clear.
 - Top Cues: "Kick toes to bar." "Heels to wall first — then lift hips." "Tight midline on the walk."
 
 ## Warmup (10 min)
@@ -19,8 +20,8 @@
   - 6 x Kip swings
   - 6 x Push-up to down-dog
 - **R3 POTENTIATE (1:00 hard):** Hard shuttle runs
-  - 4 x T2B singles or 6 x hanging knee raises
-  - 1 x Wall walk + bear crawl back
+  - 4 x Beat swings or 6 x hanging knee raises
+  - 20 x Bear crawl steps
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)

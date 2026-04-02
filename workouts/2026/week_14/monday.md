@@ -7,6 +7,7 @@
   a palindrome chipper mixing shuttle runs, overhead squats, and lateral burpees.
 - Scaling A: Keep squat percentages. OHS → front squat or pressing snatch balance if overhead is limiting.
 - Scaling B: Reduce OHS load one tier or swap to DB overhead carry + DB thruster. Burpees → down-ups.
+- Logistics: One bar and one shuttle lane per athlete. Stage cones before the squat block so the class can reset fast.
 - Top Cues: "Drive the floor away." "Push the bar to the ceiling on OHS." "Stay low on the shuttle turn."
 
 ## Warmup (10 min)
@@ -14,11 +15,11 @@
   - 8 x Squat-to-stand
   - 8 x Ankle rolls
 - **R2 ACTIVATE (1:30 moderate):** Shuttle runs
-  - 6 x Goblet squats (light)
+  - 8 x Tempo air squats
   - 6 x PVC pass-throughs
 - **R3 POTENTIATE (1:00 hard):** Hard shuttle runs
   - 5 x Box jumps or squat jumps
-  - 5 x Overhead squat (PVC or empty bar)
+  - 5 x Press in squat with PVC
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)
@@ -40,6 +41,7 @@
 - Strip racks, set up barbell for OHS. Stage shuttle run cones (7.5 m).
 
 ## Movement Prep (2 min)
+- 3 x Empty-bar overhead squats
 - 3 x Lateral burpee over bar
 - 3 x OHS (working weight)
 - 1 x Shuttle run turn practice (how to stay low and accelerate out)

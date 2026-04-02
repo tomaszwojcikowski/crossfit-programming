@@ -9,6 +9,7 @@
 - Scaling A: Reduce carry loads by one tier. Single unders (2x count) instead of DU.
 - Scaling B: Farmer carry to 200m with lighter implement; sandbag → light plate bearhug.
   Reduce wall ball target or load.
+- Logistics: Set one carry lane and one machine per athlete before the clock starts. Keep wall balls at the lane start to avoid backtracking.
 - Top Cues: "Tall spine on the carry." "Find the rhythm — let the ball do the work."
 
 ## Warmup (10 min)
@@ -16,10 +17,10 @@
   - 10 x Glute bridges
   - 8 x Calf raises
 - **R2 ACTIVATE (1:30 moderate):** Shuttle runs
-  - 8 x Goblet squats (light)
+  - 8 x Air squats
   - 10 x Single unders / 10 x DU attempts
 - **R3 POTENTIATE (1:00 hard):** Hard shuttle runs
-  - 5 x Wall balls (light)
+  - 5 x Squat jumps
   - 5 x Fast DU
 - Rest 30s between rounds
 
