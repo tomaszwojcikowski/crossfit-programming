@@ -13,13 +13,13 @@
 - Top Cues: "Tall spine on the carry." "Find the rhythm — let the ball do the work."
 
 ## Warmup (10 min)
-- **R1 RAISE (2:00 easy):** Jog / shuttle runs
+- **R1 RAISE (2:00 easy):** Easy row / bike / ski
   - 10 x Glute bridges
   - 8 x Calf raises
-- **R2 ACTIVATE (1:30 moderate):** Shuttle runs
+- **R2 ACTIVATE (1:30 moderate):** Jump rope rhythm build
   - 8 x Air squats
   - 10 x Single unders / 10 x DU attempts
-- **R3 POTENTIATE (1:00 hard):** Hard shuttle runs
+- **R3 POTENTIATE (1:00 hard):** Fast rope cadence or pogo bursts
   - 5 x Squat jumps
   - 5 x Fast DU
 - Rest 30s between rounds

@@ -16,10 +16,10 @@
 - **R1 RAISE (2:00 easy):** Jog / shuttle runs
   - 8 x Scap pull-ups on rig
   - 6 x Hollow rocks
-- **R2 ACTIVATE (1:30 moderate):** Shuttle runs
+- **R2 ACTIVATE (1:30 moderate):** Shuttle build-ups with relaxed turn
   - 6 x Kip swings
   - 6 x Push-up to down-dog
-- **R3 POTENTIATE (1:00 hard):** Hard shuttle runs
+- **R3 POTENTIATE (1:00 hard):** 10 m acceleration out-and-backs
   - 4 x Beat swings or 6 x hanging knee raises
   - 20 x Bear crawl steps
 - Rest 30s between rounds

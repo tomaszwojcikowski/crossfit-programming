@@ -14,10 +14,10 @@
 - **R1 RAISE (2:00 easy):** Jog / shuttle runs
   - 8 x Squat-to-stand
   - 8 x Ankle rolls
-- **R2 ACTIVATE (1:30 moderate):** Shuttle runs
+- **R2 ACTIVATE (1:30 moderate):** Lateral line shuffles over a floor mark
   - 8 x Tempo air squats
   - 6 x PVC pass-throughs
-- **R3 POTENTIATE (1:00 hard):** Hard shuttle runs
+- **R3 POTENTIATE (1:00 hard):** 7.5 m shuttle accelerations with sharp turns
   - 5 x Box jumps or squat jumps
   - 5 x Press in squat with PVC
 - Rest 30s between rounds

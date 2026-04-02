@@ -20,9 +20,9 @@
 ## WARMUP PROTOCOLS (8-12 min)
 
 **3 Rounds, 3 Stations:**
-- **R1 RAISE:** Cardio 2:00 easy, basic movement, mobility (6-10 reps)
-- **R2 ACTIVATE:** Cardio 1:30 moderate, activation (8-12), dynamic ROM (8-10)
-- **R3 POTENTIATE:** Cardio 1:00 hard, explosive drill (5-8), movement primer
+- **R1 RAISE:** Cardio 2:00 easy, simple cyclical or linear movement
+- **R2 ACTIVATE:** Cardio 1:30 moderate, workout-adjacent rhythm or footwork
+- **R3 POTENTIATE:** Cardio 1:00 hard, short specific burst that matches the day's demand
 - Rest 30-60s between rounds
 
 **Equipment:** Max 1 extra item beyond cardio. Stage all before starting.
@@ -36,6 +36,17 @@ Subs: jumping jacks, high knees, mountain climbers (2x time).
 - Prefer **no barbell in the warmup**; move barbell touchpoints into **Movement Prep** (empty bar/light implement).
 - If you need shoulder/overhead prep without a bar: use scap pulls/kip swings, inchworms, wall walks, hollow/arch.
 - Always preserve the intended stimulus by offering a quick cardio swap (machine ↔ shuttles ↔ jacks/high knees).
+- Do not default to the same generic cardio description in all three phases.
+- Make the cardio block change purpose across the round:
+  - **R1:** temperature and breathing
+  - **R2:** rhythm, bounce, footwork, or directional pattern
+  - **R3:** fast turnover, acceleration, or event-specific burst
+- Match the cardio choice to the piece when practical:
+  - running / shuttle workouts: jog, shuttle build-ups, acceleration turns
+  - jump rope workouts: pogo hops, single-under rhythm, fast rope cadence
+  - machine workouts: easy flush, moderate build, short surge on the same machine
+  - burpee or box-jump workouts: line hops, quick feet, low-amplitude bounce
+- Use hard cardio in R3 to potentiate, not to create fatigue.
 
 ---
 

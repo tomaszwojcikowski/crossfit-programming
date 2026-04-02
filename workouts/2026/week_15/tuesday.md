@@ -13,10 +13,10 @@
 - **R1 RAISE (2:00 easy):** Easy machine or shuttle runs
   - 8 x Squat-to-stand
   - 8 x Glute bridges
-- **R2 ACTIVATE (1:30 moderate):** Moderate machine or shuttle runs
+- **R2 ACTIVATE (1:30 moderate):** Quick step-and-go footwork
   - 8 x Tempo air squats
   - 6 x Push-ups
-- **R3 POTENTIATE (1:00 hard):** Hard machine or shuttle runs
+- **R3 POTENTIATE (1:00 hard):** 6-8 s machine surges or short shuttle bursts
   - 4 x Down-ups
   - 5 x Goblet squats (light)
 - Rest 30s between rounds

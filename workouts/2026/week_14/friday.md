@@ -17,10 +17,10 @@
 - **R1 RAISE (2:00 easy):** Jog / shuttle runs
   - 10 x Glute bridges
   - 8 x Good mornings (bodyweight)
-- **R2 ACTIVATE (1:30 moderate):** Shuttle runs
+- **R2 ACTIVATE (1:30 moderate):** Fast feet over a floor line
   - 8 x Scap pull-ups on rig
-  - 6 x Down-ups
-- **R3 POTENTIATE (1:00 hard):** Hard shuttle runs
+  - 6 x Alternating reverse lunges
+- **R3 POTENTIATE (1:00 hard):** Short burpee-pop-up bursts
   - 4 x Kipping pull-ups or jumping pull-ups
   - 4 x Fast alternating lunges
 - Rest 30s between rounds

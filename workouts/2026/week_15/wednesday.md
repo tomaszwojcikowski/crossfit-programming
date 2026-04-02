@@ -10,13 +10,13 @@
 - Top Cues: "Stay relaxed on the rope." "Meet the bar fast in the squat." "Break gymnastics before form breaks you."
 
 ## Warmup (10 min)
-- **R1 RAISE (2:00 easy):** Easy shuttle runs or jump rope
+- **R1 RAISE (2:00 easy):** Easy pogo rope or shuttle bounce
   - 8 x Good mornings
   - 8 x Air squats
-- **R2 ACTIVATE (1:30 moderate):** Moderate jump rope
+- **R2 ACTIVATE (1:30 moderate):** Jump rope rhythm build
   - 6 x Kip swings
   - 6 x Tempo air squats
-- **R3 POTENTIATE (1:00 hard):** Fast jump rope
+- **R3 POTENTIATE (1:00 hard):** Fast rope cadence burst
   - 4 x Squat jumps
   - 3 x Toes-to-bar singles or hanging knee raises
 - Rest 30s between rounds

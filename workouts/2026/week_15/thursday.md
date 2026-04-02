@@ -13,10 +13,10 @@
 - **R1 RAISE (2:00 easy):** Easy jog or shuttle runs
   - 8 x Squat-to-stand
   - 8 x PVC pass-throughs
-- **R2 ACTIVATE (1:30 moderate):** Moderate jog or shuttle runs
+- **R2 ACTIVATE (1:30 moderate):** Run build-ups with smooth turn-around
   - 5 x Snatch grip RDL (PVC or empty bar)
   - 5 x Overhead squats (PVC or empty bar)
-- **R3 POTENTIATE (1:00 hard):** Fast shuttle runs
+- **R3 POTENTIATE (1:00 hard):** Short acceleration reps
   - 3 x Muscle snatch
   - 2 x Squat snatch (light)
 - Rest 30s between rounds

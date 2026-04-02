@@ -13,10 +13,10 @@
 - **R1 RAISE (2:00 easy):** Easy jog or shuttle runs
   - 8 x Glute bridges
   - 8 x Scap push-ups
-- **R2 ACTIVATE (1:30 moderate):** Moderate shuttle runs
+- **R2 ACTIVATE (1:30 moderate):** Fast feet over the bar line
   - 4 x Pike push-ups
   - 6 x Hip hinges with reach
-- **R3 POTENTIATE (1:00 hard):** Hard shuttle runs
+- **R3 POTENTIATE (1:00 hard):** Down-up pace bursts
   - 2 x Burpee over bar
   - 3 x Fast pike push-ups or wall-facing shoulder taps
 - Rest 30s between rounds

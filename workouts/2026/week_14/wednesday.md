@@ -14,10 +14,10 @@
 - **R1 RAISE (2:00 easy):** Easy bike or row
   - 8 x Hip circles
   - 8 x Air squats
-- **R2 ACTIVATE (1:30 moderate):** Moderate bike or row
+- **R2 ACTIVATE (1:30 moderate):** Moderate bike or row with cadence build
   - 6 x Box step-overs
   - 8 x Good mornings (bodyweight)
-- **R3 POTENTIATE (1:00 hard):** Hard bike or row
+- **R3 POTENTIATE (1:00 hard):** 6-8 s hard bike or row surges
   - 5 x Box jumps
   - 3 x Jump-and-shrug reps
 - Rest 30s between rounds
