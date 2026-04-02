@@ -15,6 +15,7 @@ Welcome to the CrossFit Workout Programming repository. This repository contains
 *   **[Week 12 (Mar 16-20)](workouts/2026/week_12/)** | [source screenshot](assets/images/week_12_source.jpeg)
 *   **[Week 13 (Mar 23-27)](workouts/2026/week_13/)**
 *   **[Week 14 (Mar 30–Apr 03)](workouts/2026/week_14/)** | [source screenshot](assets/images/week_14_source.jpeg)
+*   **[Week 15 (Apr 06-10)](workouts/2026/week_15/)** | [source screenshot](assets/images/week_15_source.jpeg)
 
 ## 📖 Knowledge Base
 
