@@ -10,13 +10,13 @@
 - Top Cues: "Brace before you sit." "Keep the ladder smooth - no redlining early."
 
 ## Warmup (10 min)
-- **R1 RAISE (2:00 easy):** Easy machine or shuttle runs
+- **R1 RAISE (2:00 easy):** Easy bike or row flush
   - 8 x Squat-to-stand
   - 8 x Glute bridges
-- **R2 ACTIVATE (1:30 moderate):** Quick step-and-go footwork
+- **R2 ACTIVATE (1:30 moderate):** Low line hops, bounce side-to-side
   - 8 x Tempo air squats
   - 6 x Push-ups
-- **R3 POTENTIATE (1:00 hard):** 6-8 s machine surges or short shuttle bursts
+- **R3 POTENTIATE (1:00 hard):** 3 x 5s hard machine efforts, easy spin between
   - 4 x Down-ups
   - 5 x Goblet squats (light)
 - Rest 30s between rounds

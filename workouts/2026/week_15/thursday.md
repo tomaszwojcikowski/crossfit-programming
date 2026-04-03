@@ -10,15 +10,15 @@
 - Top Cues: "Stay over the bar below the knee." "Punch up into the catch." "Set the feet before the overhead squat."
 
 ## Warmup (10 min)
-- **R1 RAISE (2:00 easy):** Easy jog or shuttle runs
+- **R1 RAISE (2:00 easy):** Easy jog
   - 8 x Squat-to-stand
   - 8 x PVC pass-throughs
-- **R2 ACTIVATE (1:30 moderate):** Run build-ups with smooth turn-around
-  - 5 x Snatch grip RDL (PVC or empty bar)
-  - 5 x Overhead squats (PVC or empty bar)
-- **R3 POTENTIATE (1:00 hard):** Short acceleration reps
-  - 3 x Muscle snatch
-  - 2 x Squat snatch (light)
+- **R2 ACTIVATE (1:30 moderate):** Jog with 5s acceleration build each length
+  - 5 x PVC snatch-grip good mornings
+  - 5 x PVC overhead squats
+- **R3 POTENTIATE (1:00 hard):** 2 x 25m hard sprint efforts, walk back
+  - 3 x Squat jumps
+  - 3 x PVC snatch balance
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)
