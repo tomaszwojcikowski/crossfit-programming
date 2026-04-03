@@ -16,7 +16,7 @@
 - **R2 ACTIVATE (1:30 moderate):** Low lateral line hops
   - 4 x Inchworms
   - 6 x Hip hinges with reach
-- **R3 POTENTIATE (1:00 hard):** 3 x 5s sprawl-and-pop bursts
+- **R3 POTENTIATE (1:00 hard):** 3 x 5s fast burpees
   - 3 x Wall-facing shoulder taps (2s hold each)
   - 4 x Fast alternating lunges
 - Rest 30s between rounds

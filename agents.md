@@ -354,6 +354,7 @@ When generating workouts, warmups, or cooldowns:
 13. **Single group start (all athletes start together)**
 14. **Hard 60-minute cap with explicit timing blocks**
 15. **Always include workout estimations** (expected rounds for AMRAP, expected finish window for For Time, work/rest note for EMOM) — see CONDITIONING section for formats and rep rate benchmarks
+16. Use standard exercise names whenever possible (for example: burpee sprawl, line hops, shuttle runs, wall-facing shoulder taps). If a drill is uncommon, describe it in plain language instead of inventing a nickname.
 
 ---
 
