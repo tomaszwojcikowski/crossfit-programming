@@ -22,13 +22,14 @@ Welcome to the CrossFit Workout Programming repository. This repository contains
 *   **[Programming Agent Guidelines](agents.md):** The source of truth for programming logic.
 *   **[Movement Warmups](guides/CrossFit_Movement_Warmups.md):** Library of movement preparation.
 *   **[Coach Quickguide](guides/Coach_Quickguide.md):** Cues and triage scripts.
+*   **[Lesson Planning Audit, Weeks 11-15](guides/Lesson_Planning_Audit_Weeks_11_15.md):** Concrete improvements for the current workout block.
 *   **[Weekly README Block Template](guides/Weekly_README_Block_Template.md):** Copy-paste block for weekly lesson-planning notes.
 
 ## 🔬 Research & Meta
 
 *   **[RAMP Protocol](research/RAMP_Meta_Annotated.md):** Evidence base for warmups.
 *   **[PAP/PAPE Research](research/PAP_PAPE_Research.md):** Strength and power principles.
-*   **[Workout Template](guides/CrossFit_Workout_Complete.md):** Standard structure for new sessions.
+*   **[Workout Template](guides/CrossFit_Workout_Complete.md):** Repo-standard daily workout template for new sessions.
 
 ## 🛠 Tools
 *   `./sync_workouts.sh`: Manual sync to GitHub.

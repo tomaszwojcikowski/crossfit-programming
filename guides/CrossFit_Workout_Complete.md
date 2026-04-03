@@ -1,4 +1,185 @@
-# CrossFit Workout: Front Squat Strength + Barbell Complex
+# Daily Workout Template
+
+Purpose: copy-paste template for future daily workout files.
+
+This replaces the older long-form coach sheet style with the repo's current
+standard:
+
+- hard 60-minute class clock
+- single group start
+- readable on a phone
+- warm-up stays implement-light
+- barbell or workout-load rehearsal lives in Movement Prep
+- scaling preserves stimulus
+- every conditioning piece includes an estimate
+
+Use this with `agents.md` and
+`research/Functional_Fitness_Lesson_Planning_Reference.md`.
+
+## Non-negotiables
+
+- Keep the full class inside 60 minutes.
+- Answer four questions fast: movements, stimulus, scales, room flow.
+- Use RAMP with clear R1 / R2 / R3 progression.
+- Keep post-warmup mobility to 60-90 seconds.
+- Add Movement Prep before the main conditioning piece whenever the workout has
+  technical, rhythmic, or loading demand.
+- Keep scaling order: load, then volume, then complexity.
+- Use external coach cues only.
+- Add an expected finish window, expected rounds, or work-rest target to every
+  conditioning piece.
+
+## Setup checklist
+
+Before finalizing a daily file, check:
+
+1. Is the primary adaptation obvious?
+2. Does the timeline fit a real single-start 60-minute class?
+3. Does the warm-up prepare the exact patterns used later?
+4. Is there a clear bridge into the metcon?
+5. Do Scaling A and B preserve the intended stimulus?
+6. Are bottlenecks solved on paper?
+7. Does the conditioning piece include an estimate?
+8. Would this read cleanly on a phone?
+
+## Copy-paste template
+
+```md
+# Day (DD/MM/YYYY)
+
+**Setup**
+- Equipment:
+- Timing: 60 min hard cap
+- Stimulus:
+- Scaling A:
+- Scaling B:
+- Logistics:
+- Top Cues: "" ""
+
+## Warmup (10 min)
+- **R1 RAISE (2:00 easy):**
+  -
+  -
+- **R2 ACTIVATE (1:30 moderate):**
+  -
+  -
+- **R3 POTENTIATE (1:00 hard):**
+  -
+  -
+- Rest 30s between rounds
+
+## Post-Warmup Mobility (60-90s)
+-
+-
+
+## Strength / Skill (optional, 10-20 min)
+-
+-
+
+## Reset Window (optional, 3-5 min)
+-
+
+## Movement Prep (2-5 min)
+-
+-
+-
+
+## Main Conditioning
+-
+-
+
+**Time cap:** X min (expected: X-Y min)
+
+Or, for AMRAP:
+
+**Expected rounds:** X-Y (fit: Y+, ~N min/round; average: X-Y, ~N min/round)
+
+Or, for EMOM / intervals:
+
+**Target:** finish in ~X-Ys and keep ~Zs to reset each round
+
+## Cooldown & Debrief (2-4 min)
+1. 60-90s easy cyclical, nasal breathing
+2.
+3. Bright spot: ""
+4. Takeaway: ""
+```
+
+## Writing rules for each section
+
+### Setup
+
+- `Stimulus` should be one sentence and coachable at the whiteboard.
+- `Scaling A` should usually keep the same movement pattern at lower load.
+- `Scaling B` can reduce complexity or range if needed.
+- `Logistics` is required for team days, machine days, rig days, and any piece
+  with shared lanes or shared equipment.
+- `Top Cues` should stay short, external, and action-focused.
+
+### Warmup
+
+- R1 should raise temperature and breathing.
+- R2 should add rhythm, direction change, bounce, or patterning.
+- R3 should feel like the first fast reps of the workout.
+- Do not default to the same machine line three times.
+- Prefer no barbell in the warm-up. If shoulder or bar path prep is needed, use
+  PVC, rig, bodyweight, or light implement options first.
+
+### Post-Warmup Mobility
+
+- Keep it short and specific.
+- Use 2-3 positions max.
+- Do not turn this into long static stretching.
+
+### Strength / Skill
+
+- Include this only when it supports the day's main adaptation.
+- If strength or skill is the priority, shorten the metcon.
+- If heavy loading is used before explosive work, leave 3-7 minutes before the
+  high-intent effort.
+
+### Reset Window
+
+- Use it to change equipment, regroup the class, and protect pacing.
+- Do not fill it with extra teaching drift.
+
+### Movement Prep
+
+- This is where workout-load rehearsal belongs.
+- Use 3-6 crisp reps per drill.
+- Rehearse the first barbell touch, first gymnastics set, first turn, or first
+  handoff that matters in the metcon.
+
+### Main Conditioning
+
+- Every piece needs an estimate.
+- For `For Time`, add an expected finish range.
+- For `AMRAP`, add expected rounds.
+- For `EMOM` or intervals, add the intended work-rest balance.
+- State whether the piece is a sprint, grind, interval, or aerobic effort.
+
+### Cooldown & Debrief
+
+- Keep it short enough that coaches will actually run it.
+- Use easy cyclical downshift first.
+- Add one bright-spot or takeaway prompt, not a speech.
+
+## Good defaults
+
+- Warm-up: 8-12 min
+- Mobility: 60-90s
+- Strength / Skill: 10-20 min when needed
+- Reset Window: 3-5 min when needed
+- Movement Prep: 2-5 min
+- Conditioning: 12-25 min in most standard classes
+- Cooldown: 2-4 min
+
+## Use these files as models
+
+- `workouts/2026/week_14/monday.md`
+- `workouts/2026/week_14/thursday.md`
+- `workouts/2026/week_14/friday.md`
+- `workouts/2026/week_13/friday.md`# CrossFit Workout: Front Squat Strength + Barbell Complex
 
 **Date:** January 15, 2026
 **Duration:** 60-75 minutes
