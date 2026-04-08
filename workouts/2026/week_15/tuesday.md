@@ -70,7 +70,7 @@
 - 5 cal machine
 - 5 Push-ups
 
-**Time cap:** 20 min (expected: 13-17 min)
+**Time cap:** 20 min (expected: 14-18 min)
 
 ## Cooldown & Debrief (4 min)
 1. 90s easy walk or bike, nasal breathing

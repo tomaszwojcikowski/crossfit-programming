@@ -42,7 +42,7 @@
 - 120 Double Unders
 - 60 Pull-Ups
 
-**Expected rounds:** 0.8-1.1 (fit: finish 1 full round or start back on rope; average: reach the final pull-up block)
+**Expected rounds:** 2.1-2.5 (fit teams: 2.5+, ~9-10 min/round; average: 2.1-2.4, ~10-12 min/round)
 
 ## Cooldown & Debrief (4 min)
 1. 90s easy walk, nasal breathing

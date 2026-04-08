@@ -39,7 +39,7 @@
 - 3 Burpee Over the Bar
 - 1 Deadlift (120/80 kg)
 
-**Time cap:** 26 min (expected: 18-24 min)
+**Time cap:** 26 min (expected: 22-26 min)
 
 ## Cooldown & Debrief (4 min)
 1. 90s easy walk, nasal breathing

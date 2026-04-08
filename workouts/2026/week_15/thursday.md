@@ -51,7 +51,7 @@
 - 5 Squat Snatches (50/30 kg)
 - 5 Overhead Squats
 
-**Time cap:** 18 min (expected: 12-16 min)
+**Time cap:** 18 min (expected: 11-15 min)
 
 ## Cooldown & Debrief (4 min)
 1. 90s easy walk, nasal breathing
