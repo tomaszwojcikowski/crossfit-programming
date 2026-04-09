@@ -12,9 +12,9 @@
 ## Warmup (10 min)
 - **R1 RAISE (2:00 easy):** Easy jog or shuttle runs
   - 8 x Glute bridges
-  - 8 x Scap push-ups
-- **R2 ACTIVATE (1:30 moderate):** Low lateral line hops
-  - 4 x Down-dog to pike shifts
+  - 8 x push-ups
+- **R2 ACTIVATE (1:30 moderate):** down ups
+  - 4 x Down-dog to pike push-ups
   - 6 x Hip hinges with reach
 - **R3 POTENTIATE (1:00 hard):** 3 x 5s fast burpees
   - 2 x Wall kick-ups to heel touch
