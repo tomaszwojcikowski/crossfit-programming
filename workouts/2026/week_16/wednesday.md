@@ -65,8 +65,8 @@ Increase by feel — positions, not a number.
 - 5 Hang Squat Snatches
 - 1 Rope Climb
 
-**Expected rounds:** 5-7 (fit: 6-7, ~85-100s/round;
-average: 4-5, ~105-130s/round)
+**Expected rounds:** 5-7 (fit: 6-7, ~1:25-1:40/round;
+average: 4-5, ~1:45-2:10/round)
 
 ## Cooldown & Debrief (3 min)
 1. 90s easy walk, nasal breathing

@@ -142,7 +142,8 @@ Pick one option, keep consistent. Use RPE 7-8 if no 1RM. Offer 2-3 tiers.
 
 **Workout Estimations (always include):**
 - **AMRAP:** Add expected rounds note after the movement list.
-  - Format: `Expected rounds: X-Y (fit: Y+, ~N min/round; average: X-Y, ~N min/round)`
+  - Format: `Expected rounds: X-Y (fit: Y+, ~M:SS-M:SS/round; average: X-Y, ~M:SS-M:SS/round)`
+  - Express per-round times in mm:ss (e.g. `~1:25-1:40/round`), not in raw seconds.
   - Rep rate benchmarks: Barbell cycling ~4-6s/rep, DB clean & jerk / thrusters ~3-5s/rep, KB swings / SDLHP ~2-4s/rep, Burpees ~6-8s/rep, Burpee box jump over / burpee deadlift ~8-12s/rep, Box jumps / step-overs ~4-7s/rep, Pull-ups / chin-ups ~3-5s/rep, T2B / hanging knee raises / HSPU ~4-7s/rep, DU ~1-2s/rep, Assault bike cal ~5-8s/cal.
   - For team workouts, estimate by format:
     - split-any-way continuous work: divide reps by number of partners, then add 10-20s per movement for handoffs
