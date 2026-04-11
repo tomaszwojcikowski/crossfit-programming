@@ -1,6 +1,6 @@
 # CrossFit Workout Programming Agent Guidelines
 
-**Last Updated:** 2 April 2026
+**Last Updated:** 11 April 2026
 **Purpose:** Document rules and principles for creating CrossFit workouts, warmups, and cooldowns.
 
 ---
@@ -355,6 +355,14 @@ When generating workouts, warmups, or cooldowns:
 14. **Hard 60-minute cap with explicit timing blocks**
 15. **Always include workout estimations** (expected rounds for AMRAP, expected finish window for For Time, work/rest note for EMOM) — see CONDITIONING section for formats and rep rate benchmarks
 16. Use standard exercise names whenever possible (for example: burpee sprawl, line hops, shuttle runs, wall-facing shoulder taps). If a drill is uncommon, describe it in plain language instead of inventing a nickname.
+17. **When a source image is provided**, rename it to `assets/images/week_XX_source.<ext>` (matching the week number) and add a Source Screenshot block at the top of the weekly README, immediately after the `# Week XX` heading:
+    ```md
+    ## Source Screenshot
+
+    [Open source screenshot](../../../assets/images/week_XX_source.<ext>)
+
+    ![Week XX source screenshot](../../../assets/images/week_XX_source.<ext>)
+    ```
 
 ---
 
