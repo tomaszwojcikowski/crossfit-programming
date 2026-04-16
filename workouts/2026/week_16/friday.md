@@ -63,10 +63,26 @@
 - 5 Thrusters (60/35 kg)
 
 **Expected rounds (individual I-go efforts):**
-Fit teams: clear blocks 1 and 2, get 2-4 rounds into block 3
+Fit teams: clear blocks 1 and 2, get 1-3 rounds into block 3
+(~17-19 individual rounds).
+Average teams: clear block 1, reach 4-6 rounds into block 2
+(~12-14 individual rounds).
+
+**Scale A expected rounds:**
+Note: B1 is slower than Rx (extra CTB + ring dip volume);
+B2 is faster (hanging knee raises vs T2B).
+Fit: clear block 1, get 5-8 rounds into block 2
+(~13-16 individual rounds).
+Average: complete 5-7 rounds of block 1
+(~5-7 individual rounds).
+
+**Scale B expected rounds:**
+Note: faster per round (jumping MU, KKR, light load, down-ups)
+but athletes at this tier carry less capacity into later blocks.
+Fit: clear blocks 1 and 2, get 2-4 rounds into block 3
 (~18-20 individual rounds).
-Average teams: clear block 1, reach 5-7 rounds into block 2
-(~12-15 individual rounds).
+Average: clear block 1, get 3-5 rounds into block 2
+(~11-13 individual rounds).
 
 ## Cooldown & Debrief (4 min)
 1. 90s easy walk, nasal breathing
