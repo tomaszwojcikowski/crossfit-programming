@@ -259,6 +259,7 @@ Include brief descriptions for less common movements and target areas for mobili
 
 **Weekly README structure** (`workouts/2026/week_XX/README.md`):
 - Brief overview/heading with date range
+- If a source screenshot exists, add a `## Source Screenshot` block immediately after the `# Week XX` heading
 - **Daily Workouts** section (always near the top) with linked bullets:
   - `- **[Monday](monday.md)** – one-line description`
   - `- **[Tuesday](tuesday.md)** – one-line description`
@@ -268,6 +269,12 @@ Include brief descriptions for less common movements and target areas for mobili
 - Recommended: Lesson Planning Notes, Equipment Needs, Focus Areas
 - Optional: Scaling Notes
 - Links use relative paths (`monday.md`, not full paths) for GitHub mobile compatibility
+
+**When processing a new week from a source image:**
+- Rename the uploaded image to `assets/images/week_XX_source.<ext>` before updating docs.
+- Add the Source Screenshot block to `workouts/2026/week_XX/README.md` immediately after the title.
+- Update the root `README.md` entry for the new week and link the source screenshot there as well.
+- Keep the file extension from the actual asset (`.jpg`, `.jpeg`, `.png`, etc.) instead of forcing one format.
 
 **Weekly README block template:**
 
