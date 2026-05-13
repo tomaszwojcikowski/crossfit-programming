@@ -51,5 +51,5 @@ Split work any way between partners.
 ## Cooldown & Debrief (3 min)
 1. 60-90s easy spin or walk, nasal breathing
 2. Child's pose: 45s
-3. Front rack stretch: 30s/side
+3. Overhead triceps + lat stretch: 30s/side
 4. Bright spot: "We kept the snatches clean because the machine pace never got reckless."
