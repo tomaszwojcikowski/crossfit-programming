@@ -22,6 +22,7 @@ Welcome to the CrossFit Workout Programming repository. This repository contains
 *   **[Week 19 (May 04-08)](workouts/2026/week_19/)** | [source screenshot](assets/images/week_19_source.jpeg)
 *   **[Week 20 (May 11-15)](workouts/2026/week_20/)** | [source screenshot](assets/images/week_20_source.jpeg)
 *   **[Week 21 (May 18-22)](workouts/2026/week_21/)** | [source screenshot](assets/images/week_21_source.jpeg)
+*   **[Week 22 (May 25-29)](workouts/2026/week_22/)** | [source screenshot](assets/images/week_22_source.jpeg)
 
 ## 📖 Knowledge Base
 
