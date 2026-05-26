@@ -9,16 +9,16 @@
 - Logistics: Keep one lane per athlete with wall, rig, and carry path close together. The rest station matters here, so do not let athletes drift into extra practice between minutes.
 - Top Cues: "Make each rep look the same." "Own the line before you move." "Breathe behind the ball."
 
-## Warmup (10 min)
+## Warmup (8 min)
 - **R1 RAISE (2:00 easy):** Easy row, bike, jog, or shuttle runs
-	- 20s Hollow hold
-	- 20s Arch hold
+  - 20s Hollow hold
+  - 20s Arch hold
 - **R2 ACTIVATE (1:30 moderate):** Shuttle build-ups or moderate machine cadence
-	- 4 x Scap pull-ups
-	- 10m Light medball bear-hug carry
+  - 4 x Scap pull-ups
+  - 20s Box plank shoulder taps
 - **R3 POTENTIATE (1:00 hard):** 2 x 15s short machine surge or fast shuttle acceleration
-	- 2 x Wall-walk steps or 1 wall walk
-	- 5m Handstand walk attempt or scale
+  - 1 x Wall walk
+  - 5m Bear crawl or handstand walk scale
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)
@@ -26,10 +26,13 @@
 - Wrist extension rocks: 30-45s
 
 ## Movement Prep (6 min)
-- 2 wall walks
-- 4 hanging knee raises or toes-to-bar
-- 5m handstand walk attempt or scale
-- 10m medball bear-hug carry
+- 2 rounds:
+  - 1 wall walk
+  - 4 hanging knee raises or toes-to-bar
+  - 5m handstand walk attempt or scale
+  - 10m medball bear-hug carry
+
+Round 2 should look sharper than round 1, not more fatiguing.
 
 ## Main Conditioning: 30' EMOM
 1. 4 Wall Walks

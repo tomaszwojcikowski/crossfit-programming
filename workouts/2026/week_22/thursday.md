@@ -9,13 +9,13 @@
 - Logistics: Set all five stations in one lane before class. Athletes should know exactly where the rope, box, target, and pull-up bar are before the first 2-minute clock starts.
 - Top Cues: "Finish the buy-in, then settle." "Switch hands with intent." "Hang long, not tense."
 
-## Warmup (10 min)
+## Warmup (8 min)
 - **R1 RAISE (2:00 easy):** Easy rope skip, jog, bike, or shuttle runs
-  - 8 x Light Russian swings
   - 20s Active hang
+  - 6 x Bodyweight good mornings
 - **R2 ACTIVATE (1:30 moderate):** Double-under timing practice or pogo hops
-  - 4 x Alternating dumbbell snatches light/side
-  - 4 x Box step-overs bodyweight
+  - 6 x Box step-overs bodyweight
+  - 10 x Fast rope turns
 - **R3 POTENTIATE (1:00 hard):** 2 x 15s fast rope cadence
   - 2 x Burpees to target
   - 10s Dead hang
@@ -25,10 +25,15 @@
 - Forearm stretch: 30-45s/side
 - Hamstring fold: 45s
 
-## Movement Prep (5 min)
-- 10 double-unders or 20 single-unders
-- 4 box step-overs with the dumbbell
-- 10s active hang
+## Movement Prep (6 min)
+- 2 rounds:
+  - 8 light Russian swings
+  - 6 alternating dumbbell snatches light total
+  - 4 box step-overs with the dumbbell
+  - 10 double-unders or 20 single-unders
+  - 10s active hang
+
+Move the second round faster than the first so athletes feel the 2-minute window pace.
 
 ## Main Conditioning: 3 Sets
 Each set includes:

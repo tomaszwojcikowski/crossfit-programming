@@ -9,16 +9,16 @@
 - Logistics: Keep one bar, one machine or shuttle lane, one rope, and one dumbbell pair per athlete. The alternating 2-minute format only works if all stations are staged before the strength piece ends.
 - Top Cues: "Stay tall in the rack." "Push hard, then settle fast." "Keep the dumbbells close."
 
-## Warmup (10 min)
+## Warmup (8 min)
 - **R1 RAISE (2:00 easy):** Easy bike, row, jog, or shuttle runs
   - 6 x Air squats
   - 20 x Rope hops
-- **R2 ACTIVATE (1:30 moderate):** Shuttle build-ups or quick rope rhythm
-  - 5 x Empty-bar front squats
-  - 4 x Alternating dumbbell deadlifts light
+- **R2 ACTIVATE (1:30 moderate):** Machine build or shuttle rhythm
+  - 6 x Squat-to-stand
+  - 20 x Fast rope hops
 - **R3 POTENTIATE (1:00 hard):** 2 x 15s machine surge or fast shuttle accelerations
-  - 3 x Empty-bar thrusters
-  - 2 x Light devil presses
+  - 4 x Jump squats
+  - 10 x Fast line hops
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)
@@ -29,10 +29,21 @@
 **Every 2:30 for 5 sets:**
 - 6 Front Squats
 
+Build with intent before set 1:
+- Empty bar x5
+- ~40% x5
+- ~55% x4
+- ~65% x3
+- ~72% x2
+
 Source note preserved: the board shows **5x6 @ 80% 1RM + 2 kg from previous week**.
 
 ## Reset Window (3 min)
 - Set the bar to workout load, place the dumbbells, and clear the rope lane.
+- Then 1 quick primer:
+  - 10 easy rope turns
+  - 2 light devil presses
+  - 2 workout-load front squats
 
 ## Main Conditioning: Every 2:00 for 8 Sets
 Alternate between:

@@ -20,6 +20,7 @@ Transcribed from the week 22 source board provided in chat.
 ## Lesson Planning Notes
 
 - Keep the week on a hard 60-minute class clock with single-start flow.
+- Warmups this week are intentionally shorter: brief pulse-raise first, then sharper feeder sets and movement prep with intent.
 - Monday and Tuesday both center on front-rack stamina; keep loads honest so athletes can still move with intent in the conditioning.
 - Wednesday and Thursday are skill-fatigue days. Prioritize movement quality before chasing extra reps or meters.
 - Friday is long and partner-dependent. Stage lanes early and brief the run standard before the class starts.

@@ -9,28 +9,34 @@
 - Logistics: One bar per team and one shared run lane. Partners run together, then split the barbell work any way unless they choose a fixed set pattern.
 - Top Cues: "Run together, lift smooth." "Catch and stand before the next rep." "Save the shoulders for the last bar."
 
-## Warmup (10 min)
+## Warmup (8 min)
 - **R1 RAISE (2:00 easy):** Easy jog, shuttle runs, or bike
-	- 6 x Reverse lunges total
-	- 6 x Air squats
+  - 6 x Reverse lunges total
+  - 6 x Air squats
 - **R2 ACTIVATE (1:30 moderate):** Shuttle build-ups or moderate run cadence
-	- 4 x Empty-bar muscle cleans
-	- 4 x Empty-bar front squats
+  - 6 x High pulls to chest
+  - 6 x Tall dip-and-drive reps
 - **R3 POTENTIATE (1:00 hard):** 2 x 15s fast shuttle efforts
-	- 2 x Empty-bar clean and jerks
-	- 3 x Empty-bar push press
+  - 4 x Snap-down to quarter squat
+  - 4 x Fast pogo hops
 - Rest 30s between rounds
 
 ## Post-Warmup Mobility (90s)
 - Front-rack stretch on rig: 45s/side
 - Hip flexor stretch: 45s/side
 
-## Movement Prep (6 min)
-- 3 power cleans
-- 3 clean and jerks
-- 5 shoulder-to-overhead
+## Movement Prep (8 min)
+- Empty bar:
+  - 3 muscle cleans
+  - 3 front squats
+  - 3 push presses
+- Then build with intent:
+  - 3 power cleans
+  - 2 clean and jerks
+  - 3 shoulder-to-overhead
+  - 2 power cleans at first workout load
 
-Build to the first working load, then strip the bar once for the second and third stations.
+Use 3-4 quick feeder jumps to reach the first load, then strip the bar once for the second and third stations.
 
 ## Main Conditioning: Team of 2 - 2 Rounds For Time
 - 1 Lap run together
