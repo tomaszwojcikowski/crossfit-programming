@@ -1,0 +1,68 @@
+---
+description: CrossFit programming and documentation standards for this repository
+globs:
+  - "workouts/**/*.md"
+  - "README.md"
+  - "agents.md"
+  - "guides/**/*.md"
+alwaysApply: true
+---
+
+# CrossFit Programming Rule
+
+Use `agents.md` in the repo root as the primary source of truth.
+
+## Non-negotiables
+
+- Keep classes within a hard 60-minute cap.
+- Program for single-group start unless explicitly overridden.
+- Keep markdown mobile-friendly: short sections, short bullets, no tables.
+- Preserve stimulus when scaling, in this order: load, volume, complexity/ROM.
+- Include estimates in every conditioning piece:
+  - For Time: `Time cap: N min (expected: X-Y min)`
+  - AMRAP: `Expected rounds: X-Y (...)`
+  - EMOM/intervals: `Target: ...`
+
+## Daily workout structure
+
+For files like `monday.md` to `friday.md`, use this section order when possible:
+
+1. `# Day (DD/MM/YYYY)`
+2. `**Setup**` (Equipment, Timing, Stimulus, Scaling A/B, Logistics, Top Cues)
+3. `## Warmup (8-12 min)` with R1/R2/R3 RAMP blocks
+4. `## Post-Warmup Mobility (60-90s)`
+5. `## Strength / Skill` (optional)
+6. `## Reset Window` (optional)
+7. `## Movement Prep` (before main conditioning)
+8. `## Main Conditioning`
+9. `## Cooldown` or `## Cooldown & Debrief`
+
+## Warmup and coaching
+
+- Keep warmup implement-light and movement-specific.
+- Prefer no barbell in warmup; put barbell rehearsal in Movement Prep.
+- Use external, action-oriented coach cues; one cue idea at a time.
+
+## Weekly README and source image workflow
+
+When adding `workouts/2026/week_XX/`:
+
+- Ensure `workouts/2026/week_XX/README.md` has: title, Source Screenshot (if present), Overview, Daily Workouts, Lesson Planning Notes.
+- Use relative links (`monday.md`, etc.) in weekly README.
+- If source image exists, store as `assets/images/week_XX_source.<ext>`.
+- Update root `README.md` under Current Programming with week and screenshot link.
+
+## Canonical references
+
+Prefer and align with:
+
+- `agents.md`
+- `guides/CrossFit_Workout_Complete.md`
+- `guides/CrossFit_Movement_Warmups.md`
+- `guides/Coach_Quickguide.md`
+- `guides/Weekly_README_Block_Template.md`
+- `research/RAMP_Meta_Annotated.md`
+- `research/PAP_PAPE_Research.md`
+- `research/Functional_Fitness_Lesson_Planning_Reference.md`
+
+If guidance conflicts, follow `agents.md` and the most recent week format in `workouts/2026/`.
