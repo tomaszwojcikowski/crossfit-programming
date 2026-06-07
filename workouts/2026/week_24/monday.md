@@ -10,19 +10,13 @@
 - Top Cues: "Brace before you sit." "Dip straight, drive straight." "Set the back, then pull."
 
 ## Warmup (10 min)
-- **R1 RAISE (2:00 easy):** Easy jog, bike, row, or shuttle runs
-  - 8 x Air squats
-  - 6 x Bootstrappers
-- **R2 ACTIVATE (1:30 moderate):** Build squat rhythm
-  - 5 x Empty-bar front squats
-  - 5 x Empty-bar push press
-- **R3 POTENTIATE (1:00 hard):** 2 x 15s acceleration efforts with easy walk back
-  - 3 x Hip hinges with reach
-  - 2 x Wall kick-ups to heel touch
-- Rest 30s between rounds
+- Run 1 lap
+- 8 * Cossack Squats
+- 8 * HR Push Ups
+- 8 * 1.5 Squats
+- 8 * WB Clean & Press
 
 ## Post-Warmup Mobility (90s)
-- Front-rack stretch on rig: 45s/side
 - Hamstring fold: 45s
 
 ## Strength A: Front Squat (13 min)
