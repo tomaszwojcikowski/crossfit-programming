@@ -11,7 +11,7 @@
 
 ## Warmup (10 min)
 - **R1 RAISE (2:00 easy):** Easy jog, row, or shuttle runs
-  - 8 x Bootstrappers
+  - 8 x Inchworms
   - 8 x Dead bugs
 - **R2 ACTIVATE (1:30 moderate):** Press and hinge rhythm
   - 5 x Pike push-ups or box shoulder taps
