@@ -2,10 +2,10 @@
 
 **Setup**
 - Equipment: Box (60/50 cm), barbell, plates (40/25 kg), open run lane
-- Timing: 60 min hard cap
-- Stimulus: Partner engine with three shared runs and high-rep barbell cycling. Teams should stay moving without sprinting the first box-jump round.
-- Scaling A: Box to 50/40 cm or fast step-ups. Hang snatches to 30/20 kg or dumbbell hang snatches. Down-ups from hands-elevated.
-- Scaling B: Box step-ups for 40 reps total. Hang snatches to kettlebell snatches or power snatches from blocks. Down-ups to 30 synchronized reps.
+- Timing: 60 min hard cap (~45 min planned: warmup 10, mobility 1.25, prep 4, AMRAP 27, cooldown 3)
+- Stimulus: Partner engine with three shared 350 m runs and high-rep barbell cycling. Teams should stay moving without sprinting the first box-jump round.
+- Scaling A: Box to 50/40 cm or fast step-ups. Hang snatches to 30/20 kg or dumbbell hang snatches. Down-ups from hands-elevated. Run to 175 m (half lap) together.
+- Scaling B: Box step-ups for 40 reps total. Hang snatches to kettlebell snatches or power snatches from blocks. Down-ups to 30 synchronized reps. Run to 175 m (half lap) together.
 - Logistics: One team per box and barbell. Box jumps and snatches are I-go-you-go; runs and down-ups stay together.
 - Top Cues: "Step off the box and keep turning over." "Keep the bar close on the hang snatch." "Chest and hips hit together on the down-up."
 
@@ -27,7 +27,7 @@
 - Hip flexor stretch: 30s/side
 
 ## Movement Prep (4 min)
-- 60-90 m run together
+- 175 m run together (half lap)
 - 8 x Box jumps total, alternating singles
 - 8 x Hang snatches @ workout load, alternating singles
 - 6 x Synchronized down-ups
@@ -35,13 +35,13 @@
 ## Main Conditioning: Team of 2 — 27' AMRAP
 
 - 40 Box Jumps (60/50 cm, I go, you go)
-- 1 Lap Run (together)
+- 1 Lap Run (350 m, together)
 - 40 Hang Snatches (40/25 kg, I go, you go)
-- 1 Lap Run (together)
+- 1 Lap Run (350 m, together)
 - 40 Down-Ups (together)
-- 1 Lap Run (together)
+- 1 Lap Run (350 m, together)
 
-**Expected rounds:** 1 full round plus a partial second for most teams; strong teams may finish 2 rounds.
+**Expected rounds:** 1 full round ~12-14 min (1,050 m running plus work); most teams finish 1 round and into round 2; fast teams may complete 2 rounds.
 
 ## Cooldown & Debrief (3 min)
 1. 60-90s easy walk, nasal breathing

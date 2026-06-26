@@ -2,8 +2,8 @@
 
 **Setup**
 - Equipment: Rack, barbell, plates, machine (rower, bike, or ski)
-- Timing: 60 min hard cap
-- Stimulus: Heavy back squat max effort, then short engine intervals with burpee volume accumulated during rest windows.
+- Timing: 60 min hard cap (~58 min planned: warmup 10, mobility 1.5, squat ramp 5, 1RM 10, reset 3, prep 3, conditioning 20-25, cooldown 3)
+- Stimulus: Heavy back squat max effort, then paired work each on-minute: machine calories plus burpees on the line, accumulating to 100 burpees across the intervals.
 - Scaling A: 1RM attempt only if back squat mechanics are solid; otherwise work to a heavy triple. Machine calories to 10/8. Burpees to step-back burpees.
 - Scaling B: Heavy 3-5 rep test instead of true 1RM. Machine calories to 8/6. Burpees to elevated hand-release burpees or 80 total.
 - Logistics: One rack per athlete for the squat test. Pre-stage machines and a clear burpee line before the strength block ends.
@@ -49,12 +49,17 @@ Find a 1-rep max back squat.
 
 ## Main Conditioning: 1' ON / 1' OFF x 10
 
-- **ON:** 12/10 Machine Calories
-- **OFF:** Burpee on the Line (accumulate reps)
+Each **ON** minute:
+- 12/10 Machine Calories
+- Burpee on the Line with any time left in the minute (accumulate reps)
 
-**Finish:** 100 Burpees completed (across all rest windows)
+Each **OFF** minute: Rest
 
-**Target:** hold machine pace each on-minute; use off-minutes to chip away at burpees without redlining early.
+**Finish:** 100 Burpees completed
+
+**Time cap:** 20 min intervals (expected: 20-25 min total; burpees usually done by interval 8-10)
+
+**Target:** hit 12/10 cals in 35-50s, then 8-12 burpees each on-minute; rest fully on off-minutes.
 
 ## Cooldown (3 min)
 1. 60-90s easy walk, nasal breathing

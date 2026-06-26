@@ -38,6 +38,12 @@ When adding a new week, update all of these together:
 
 ---
 
+## Gym Conventions
+
+- **Lap run:** 1 lap = 350 m. Write `1 Lap Run` in workouts unless a different distance is explicitly stated.
+
+---
+
 ## Daily File Structure (`monday.md` etc.)
 
 Use this order unless there is a clear reason not to:

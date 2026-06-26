@@ -2,7 +2,7 @@
 
 **Setup**
 - Equipment: Med ball (14/10 kg), rope, dumbbells (10/7.5 kg), wall space
-- Timing: 60 min hard cap
+- Timing: 60 min hard cap (~45 min planned: warmup 10, mobility 1.5, prep 5, EMOM 25, cooldown 3)
 - Stimulus: Five-station EMOM mixing cyclical power, pulling, isolation, and max-effort pressing. Athletes should hit each minute with intent and use the rest minute to reset.
 - Scaling A: Med ball to 12/8 kg. Rope climbs to 1 rope climb or 3 rope pulls from seated. HSPU to 6 box-pike HSPU or 8 dumbbell push presses.
 - Scaling B: Med ball to ground-to-shoulder. Rope climbs to rope pulls or strict pull-ups. HSPU to elevated push-ups or seated dumbbell press.

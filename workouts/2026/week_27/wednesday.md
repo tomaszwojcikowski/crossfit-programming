@@ -2,11 +2,11 @@
 
 **Setup**
 - Equipment: Jump rope, open run lane
-- Timing: 60 min hard cap
-- Stimulus: Unbroken double-under skill work, then a steady engine AMRAP pairing rope turnover with running.
-- Scaling A: Ladder to single unders at 2:1 (20-30-40-50-60-50-40-30-20). AMRAP to 35 double unders / 70 single unders.
-- Scaling B: Ladder to 15-20-25-30-35-30-25-20-15 single unders unbroken. Run to 200-300 m.
-- Logistics: Assign jump-rope lanes before the ladder. Define the lap route and a clear turnaround before the AMRAP starts.
+- Timing: 60 min hard cap (~50 min planned: warmup 10, mobility 1.25, skill 8, reset 3, prep 4, AMRAP 20, cooldown 3)
+- Stimulus: Unbroken double-under skill work, then a steady engine AMRAP pairing rope turnover with a 350 m lap run.
+- Scaling A: Ladder to single unders at 2:1 (20-30-40-50-60-50-40-30-20). AMRAP to 35 double unders / 70 single unders. Run to 175 m (half lap).
+- Scaling B: Ladder to 15-20-25-30-35-30-25-20-15 single unders unbroken. Run to 175 m (half lap).
+- Logistics: Assign jump-rope lanes before the ladder. Mark the 350 m lap route and turnaround before the AMRAP starts.
 - Top Cues: "Hands stay low and wrists turn fast." "Land tall on the run." "Breathe at the turnaround, then pick the rope back up."
 
 ## Warmup (10 min)
@@ -36,19 +36,19 @@ Miss a set? Restart that set or drop to single unders at 2:1 for that round only
 **Time cap:** 8 min (expected: 6-8 min)
 
 ## Reset Window (3 min)
-- Claim rope lane and review lap route.
+- Claim rope lane and review the 350 m lap route.
 
 ## Movement Prep (4 min)
 - 30 x Single unders
 - 20 x Double unders or 40 x single unders
-- 1 x Lap run @ moderate pace
+- 175 m run @ moderate pace (half lap)
 
 ## Main Conditioning: 20' AMRAP
 
 - 50 Double Unders / 100 Single Unders
-- 1 Lap Run
+- 1 Lap Run (350 m)
 
-**Expected rounds:** 3-5 rounds with consistent rope breaks and controlled runs.
+**Expected rounds:** 4-6 for most athletes (~2:45-3:30/round); 7-8 for fast rope-and-run pairs (~2:15-2:30/round).
 
 ## Cooldown (3 min)
 1. 60-90s easy walk, nasal breathing

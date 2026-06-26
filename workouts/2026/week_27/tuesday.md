@@ -2,7 +2,7 @@
 
 **Setup**
 - Equipment: Barbell, plates (50/30 kg), pull-up rig
-- Timing: 60 min hard cap
+- Timing: 60 min hard cap (~48 min planned: warmup 10, mobility 1.5, prep 5, conditioning 28, cooldown 3)
 - Stimulus: Alternating barbell cycling and gymnastics under a steady clock. Athletes should move fast but never sacrifice positions on thrusters or overhead squats.
 - Scaling A: Load to 40/25 kg if 50/30 breaks down on OHS. Pull-ups to banded or jumping pull-ups; chin-ups to supinated ring rows.
 - Scaling B: Thrusters to front squats + push press. OHS to back squats or goblet squats. Pulling to ring rows or assisted reps.
@@ -39,7 +39,7 @@ Alternate A and B (7 rounds each):
 - **A:** 6 Thrusters (50/30 kg) + 6 Pull-Ups
 - **B:** 6 Overhead Squats (50/30 kg) + 6 Chin-Ups
 
-**Target:** finish each set in 60-90s, leaving 30-60s to recover before the next window.
+**Target:** finish each set in 60-90s, leaving 30-60s to recover before the next window (~28 min total).
 
 ## Cooldown (3 min)
 1. 60-90s easy walk, nasal breathing
