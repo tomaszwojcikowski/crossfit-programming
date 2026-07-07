@@ -2,9 +2,9 @@
 
 ## Source Screenshot
 
-[Open source screenshot](../../../assets/images/week_28_source.png)
+[Open source screenshot](../../../assets/images/week_28_source.jpeg)
 
-![Week 28 source screenshot](../../../assets/images/week_28_source.png)
+![Week 28 source screenshot](../../../assets/images/week_28_source.jpeg)
 
 ## Overview
 
