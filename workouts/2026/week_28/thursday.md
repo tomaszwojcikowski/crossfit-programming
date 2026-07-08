@@ -29,7 +29,7 @@
   * Floor Station:
     * 6 Narrow air squats -> 4 Assisted pistols
     * 1 Wall walk -> 3-5 HSPU (or Pike push-ups)
-    * 10 Empty bar or light DB Bench/Floor Press
+    * 10 Light DB Bench/Floor Press
     * 5 V-Ups practice
 
 ## Post-Warmup Mobility (90s)
