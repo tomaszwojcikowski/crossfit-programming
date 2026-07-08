@@ -11,7 +11,8 @@
 
 ## Warmup (10 min)
 - 0-3 Min: General Blood Flow (3 Min AMRAP)  
-  * 10 Up-Downs10 Alt Cossack Squats (5/side)
+  * 10 Up-Downs
+  * 10 Alt Cossack Squats (5/side)
   * 10 Hollow Rocks
 - 3-7 Min: Mobility (Coach-Led)
   * 2 x 10 Scapular Push-ups
