@@ -22,9 +22,9 @@
 - 7-12 Min: Specific Prep & Scaling
   * Split the 15 athletes into two groups (Rig vs. Floor) to avoid bottlenecks, then swap.
   * Rig Station:
-    * 5 Scapular rows
+    * 5 Scapular pull ups
     * 5 Kip swings
-    * 5 Ring rows (establish WOD scale)
+    * 5 Ring row or pull ups
     * 5 Toes-to-Bar or Knee Raises
   * Floor Station:
     * 6 Narrow air squats -> 4 Assisted pistols
