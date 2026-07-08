@@ -10,19 +10,26 @@
 - Top Cues: "Kip the pull-up early—don't wait until you're tired." "Press the heel into the floor on the pistol." "Lock the elbows out fully on every bench rep."
 
 ## Warmup (10 min)
-- **R1 RAISE (2:00 easy):** Easy jog, row, or shuttle
-  - 8 x Air squats
-  - 6 x Dead bugs
-- **R2 ACTIVATE (1:30 moderate):** Build pulling and pressing rhythm
-  - 5 x Scap pull-ups
-  - 5 x Ring rows or pull-up negatives
-  - 6 x Glute bridges single leg
-  - 6 x Push-ups
-- **R3 POTENTIATE (1:00 hard):** 2 x 15s fast turnover
-  - 4 x Pull-ups or scale
-  - 4 x V-ups
-  - 3 x HSPU or scale
-- Rest 30s between rounds
+- 0-3 Min: General Blood Flow (3 Min AMRAP)  
+  * 10 Up-Downs10 Alt Cossack Squats (5/side)
+  * 10 Hollow Rocks
+- 3-7 Min: Mobility (Coach-Led)
+  * 2 x 10 Scapular Push-ups
+  * 1 Min/side Deep Runner's Lunge (Ankle/calf stretch)
+  * 5 Pike to Down Dog (5-second hold)
+  * 30 sec Wrist Circles & Stretches
+- 7-12 Min: Specific Prep & Scaling
+  * Split the 15 athletes into two groups (Rig vs. Floor) to avoid bottlenecks, then swap.
+  * Rig Station:
+    * 5 Scapular rows
+    * 5 Kip swings
+    * 5 Ring rows (establish WOD scale)
+    * 5 Toes-to-Bar or Knee Raises
+  * Floor Station:
+    * 6 Narrow air squats -> 4 Assisted pistols
+    * 1 Wall walk -> 3-5 HSPU (or Pike push-ups)
+    * 10 Empty bar or light DB Bench/Floor Press
+    * 5 V-Ups practice
 
 ## Post-Warmup Mobility (90s)
 - Lat stretch on rig: 45s/side
