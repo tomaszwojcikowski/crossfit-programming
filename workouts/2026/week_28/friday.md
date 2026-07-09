@@ -64,7 +64,7 @@ Complete this mini-round at intended WOD intensity to test transitions.
 ### C) 8' AMRAP
 - 200 Double Unders / 450 Single Unders (split anyhow)
 - 10 Synchro Down-Ups
-- 50 KB Snatch (22.5/15 kg, split anyhow)
+- 50 KB Snatch (24/16 kg, split anyhow)
 - 10 Synchro Down-Ups
 
 **Expected rounds:** 1 round + into DU/SU for most teams.
