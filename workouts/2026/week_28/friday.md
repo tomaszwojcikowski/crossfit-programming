@@ -10,31 +10,34 @@
 - Top Cues: "Drive the foot into the machine—don't just spin." "Lock the arm at the top of the snatch." "Jump on the wall ball—full hip extension."
 
 ## Warmup (10 min)
-- **R1 RAISE (2:00 easy):** Easy row, bike, or jog
-  - 8 x Air squats
-  - 6 x Down-ups easy
-- **R2 ACTIVATE (1:30 moderate):** Build machine and implement rhythm
-  - 10 cal row or bike @ moderate pace
-  - 6 x DB hang power snatches alternating
-  - 5 x Wall balls
-- **R3 POTENTIATE (1:00 hard):** 2 x 15s hard machine push
-  - 6 x KB snatches alternating
-  - 20 x Double unders or 40 x single unders
-  - 4 x Synchro down-ups with partner
-- Rest 30s between rounds
+0-4 Min: General Cardio & Partner Timing
+- 2 Mins: Partner 1 on Row/Bike (easy pace) while Partner 2 does Spiderman Lunges. Switch at 1 minute.
+- 10 Synchro Air Squats.
+- 10 Synchro Good Mornings: Prep the posterior chain for snatches.
 
-## Post-Warmup Mobility (90s)
-- Hip flexor stretch: 45s/side
-- Wrist extension rocks: 45s
+4-8 Min: Mobility (Hips, Calves, & Shoulders)
+- 10 Down Dog with Calf Pumps: Essential ankle prep for the 200 Double Unders.
+- 10 Cossack Squats: Open hips for deep Wall Balls.
+- 10 Scapular Push-ups: Shoulder prep for the plank portion of the Down-Ups.
+  
+8-12 Min: Specific Prep & Load Build-Up
+- Jump Rope: 30 Single Unders -> 15 Double Unders (or Double Under practice).
+- DB/KB Snatch (Start light, finish at WOD weight):
+  - 5 Deadlifts
+  - 5 High Pulls
+  - 5 Snatches (per arm).
+- Wall Balls:
+  - 5 Medball Front Squats
+  -  5 Medball Push Presses
+  - 5 full Wall Balls.
 
-## Movement Prep (5 min)
-- 10 cal row @ AMRAP A pace
-- 6 x Synchro down-ups with partner
-- 6 x DB snatch alternating @ AMRAP A load
-- 10 cal AAB @ AMRAP B pace
-- 5 x Wall balls
-- 6 x KB snatch alternating @ AMRAP C load
-- 20 x Double unders or 40 x single unders
+12-15 Min: WOD Primer (Run as a Team)
+Complete this mini-round at intended WOD intensity to test transitions.
+  - 10 Cal Row or Bike (Split: 5 cals each)
+  - 4 Synchro Down-Ups
+  - 8 DB or KB Snatches (Split: 4 reps each)
+  - 4 Synchro Down-Ups
+  - 20 Double Unders (Split: 10 reps each)
 
 ## Main Conditioning: Team of 2 — 3 AMRAPs
 
