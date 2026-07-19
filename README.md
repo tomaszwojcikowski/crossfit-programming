@@ -34,6 +34,7 @@ Welcome to the CrossFit Workout Programming repository. This repository contains
 ## 📖 Knowledge Base
 
 *   **[Programming Agent Guidelines](agents.md):** The source of truth for programming logic.
+*   **[CMED-PP BikeErg 8-Week Block](programs/cmed_pp_bikeerg_8_week_block.md):** No-running aerobic and strength cycle for time-constrained training.
 *   **[Movement Warmups](guides/CrossFit_Movement_Warmups.md):** Library of movement preparation.
 *   **[Coach Quickguide](guides/Coach_Quickguide.md):** Cues and triage scripts.
 *   **[Lesson Planning Audit, Weeks 11-15](guides/Lesson_Planning_Audit_Weeks_11_15.md):** Concrete improvements for the current workout block.
