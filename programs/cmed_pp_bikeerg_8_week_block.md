@@ -211,7 +211,7 @@ session duration.
 - 20 minutes at the best sustainable, even effort
 - 5 minutes easy
 - Target: RPE 8 through 15 minutes; build only in the final 5 minutes
-- Total: 34-36 minutes
+- Total: 36-38 minutes
 
 **Thursday**
 
@@ -298,7 +298,7 @@ session duration.
 - 1:30 easy between intervals
 - 5-6 minutes easy
 - Target: RPE 7; fast cadence without strain
-- Total: 25-27 minutes
+- Total: 26-28 minutes
 
 **Thursday**
 
@@ -359,7 +359,7 @@ session duration.
 - 2:30 easy between intervals
 - 5-7 minutes easy
 - Target: RPE 7-8; final interval matches the first
-- Total: 36-38 minutes
+- Total: 36-39 minutes
 
 **Thursday**
 
@@ -417,7 +417,7 @@ session duration.
 - 2:30 easy between intervals
 - 6 minutes easy
 - Target: RPE 7; finish with substantial reserve
-- Total: 27-29 minutes
+- Total: 29-30 minutes
 
 **Thursday**
 
