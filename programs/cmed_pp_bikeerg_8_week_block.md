@@ -164,6 +164,7 @@ Maintain one or two reps in reserve on both movements.
 - 60 seconds easy BikeErg
 - 8 bodyweight good mornings
 - 6 alternating reverse lunges
+- 4 bodyweight Bulgarian split squats per leg
 - 8 light kettlebell deadlifts
 - Empty-bar clean rehearsal
 
@@ -184,12 +185,13 @@ Use one hinge variation for the full eight-week block.
 
 #### Accessory Block
 
-Start one round every 2:30 for 3 rounds:
+Start one round every 3:00 for 3 rounds:
 
+- 6-8 Bulgarian split squats per leg
 - 8-12 kettlebell swings
-- 20-30-second Spanish squat or wall sit
 - 10-15 calf raises with a pause or slow lowering phase
 
+Use bodyweight, goblet, or two dumbbells. Keep the rear foot on a low box or bench.
 Finish each round with enough time to breathe and reset.
 
 ## 5. Eight-Week Execution
@@ -454,6 +456,8 @@ Use small, movement-appropriate increases:
 - Weighted ring pull-up: add 0.5-1 kg
 - Deadlift or RDL: add 2.5-5 kg
 - Hang power clean: add weight only while speed and catch quality remain stable
+- Bulgarian split squat: add load when 8 reps per leg feel RPE 7 or lower for two
+  consecutive sessions
 
 Increase a main lift after two consecutive sessions completed at RPE 7 or
 lower with consistent speed. Hold the load after an RPE 8 session.
