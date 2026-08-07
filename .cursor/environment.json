@@ -8,6 +8,9 @@
     }
   ],
   "ports": [
-    6419
+    {
+      "name": "Docs Preview",
+      "port": 6419
+    }
   ]
 }
