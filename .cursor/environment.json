@@ -1,12 +1,7 @@
 {
   "name": "CrossFit Programming",
   "install": "pip install --user grip==4.6.2",
-  "terminals": [
-    {
-      "name": "Docs Preview",
-      "command": "python3 -m grip . 0.0.0.0:6419"
-    }
-  ],
+  "start": "cd /workspace; if curl -s -o /dev/null http://localhost:6419; then echo 'grip preview already running on :6419'; exit 0; fi; nohup python3 -m grip . 0.0.0.0:6419 > /tmp/grip-preview.log 2>&1 & for i in $(seq 1 30); do if curl -s -o /dev/null http://localhost:6419; then echo 'grip preview ready on :6419'; exit 0; fi; sleep 1; done; echo 'grip preview failed to start'; cat /tmp/grip-preview.log; exit 1",
   "ports": [
     {
       "name": "Docs Preview",
