@@ -1,0 +1,13 @@
+{
+  "name": "CrossFit Programming",
+  "install": "pip install --user grip==4.6.2",
+  "terminals": [
+    {
+      "name": "Docs Preview",
+      "command": "python3 -m grip . 0.0.0.0:6419"
+    }
+  ],
+  "ports": [
+    6419
+  ]
+}
