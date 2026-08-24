@@ -34,6 +34,7 @@ Welcome to the CrossFit Workout Programming repository. This repository contains
 *   **[Week 32 (Aug 03-07)](workouts/2026/week_32/)** | [source screenshot](assets/images/week_32_source.jpeg)
 *   **[Week 33 (Aug 10-14)](workouts/2026/week_33/)** | [source screenshot](assets/images/week_33_source.jpeg)
 *   **[Week 34 (Aug 17-21)](workouts/2026/week_34/)** | [source screenshot](assets/images/week_34_source.jpeg)
+*   **[Week 35 (Aug 24-28)](workouts/2026/week_35/)** | [source screenshot](assets/images/week_35_source.jpeg)
 
 ## 📖 Knowledge Base
 
