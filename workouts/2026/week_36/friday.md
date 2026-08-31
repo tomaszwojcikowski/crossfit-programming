@@ -61,3 +61,18 @@ Each round (**I-go-you-go**, full round then switch):
 - 2:00 easy walk + breathing
 - 30-45s pec stretch each side
 - Debrief: keep early rounds unbroken and conversational — the burpees accumulate
+
+## Active Rest Alternative
+
+Same partner complex, lighter and shorter — no burpee tax.
+
+### Team of 2 — 30 Rounds for Time (or 20' soft cap)
+
+Each round (**I-go-you-go**, full round then switch):
+
+- 1 **Hang Power Clean** (empty bar / light DB)
+- 2 **Front Squats** (same load)
+- 3 **Push Press** (same load)
+- 4 **Down-Ups** or step-over the bar (no chest-to-deck required)
+
+**Target**: unbroken, conversational rounds; stop at 30 or at 20' — whichever comes first. No score chase.

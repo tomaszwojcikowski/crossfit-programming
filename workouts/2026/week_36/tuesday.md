@@ -66,3 +66,16 @@ Rotate:
 - 2:00 easy walk
 - 30-45s pec stretch each side
 - Debrief: protect HSPU quality early so the last cycles still finish with rest
+
+## Active Rest Alternative
+
+Same 30' EMOM rotation, easy pace — finish every minute with plenty of rest.
+
+1. 8 **Hanging Knee Raises** or **V-Ups**
+2. 8/6 **Cal Row** (easy)
+3. 8 **Band / Light DB Curls** + 8 **Band / Light Triceps Extensions**
+4. 8/6 **Cal Air Bike** (easy)
+5. 8 **Pike Push-Ups** or elevated push-ups
+6. 8/6 **Cal Easy Jog / Ski**
+
+**Target**: conversational effort; leave ≥20–30s every minute. Cap at 24' (4 cycles) if needed.

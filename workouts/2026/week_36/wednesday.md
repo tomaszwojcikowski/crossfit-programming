@@ -62,3 +62,17 @@
 - 2:00 easy walk
 - 30-45s forearm/grip shakeout
 - Debrief: don’t redline the rope early — BMU / pull-up quality decides the round count
+
+## Active Rest Alternative
+
+Same shape, lower volume and no high-skill gymnastics.
+
+### 20' AMRAP (easy)
+
+- 40 **Single-Unders** (or 20 easy DU attempts)
+- 12 **Sit-Ups**
+- 10 elevated or knee **Push-Ups**
+- 6 **Shuttle Walks / Easy Jogs** (1 = 8 m)
+- 5 **Ring Rows** + 5 **Box Dips** (or bench dips)
+
+**Expected rounds: 3-5 at conversational pace.** Stop early if form fades; no score chase.

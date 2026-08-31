@@ -85,3 +85,25 @@ Build through:
 - 1:00 easy walk + breathing
 - 30-45s couch stretch each side
 - Quick debrief: odd sets breathe through the goblets; even sets keep the squat unbroken
+
+## Active Rest Alternative
+
+For athletes who need to move without loading the heavy squat day or redlining the intervals.
+
+**Strength (optional, light):** Every 2:30 × 5 — 5–6 empty-bar or goblet back/front squats @ easy RPE 5. Skip the % wave.
+
+**Then: Every 2:00 × 6 — Alternate A / B (conversational)**
+
+**Odd sets — A:**
+
+- 8 **Russian KB Swings** (light)
+- 10 **Goblet Squats** (light) or air squats
+- 8 **Russian KB Swings**
+
+**Even sets — B:**
+
+- 5 **Down-Ups** (or step-over the bar)
+- 10 **Air Squats** or empty-bar back squats
+- 5 **Down-Ups**
+
+**Target**: finish each window with ≥30s rest; nose breathing preferred. No score chase.

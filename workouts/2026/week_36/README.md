@@ -25,3 +25,4 @@ Transcribed from the week 36 source board screenshot (single-group start, 60-min
 - Pre-brief partner rules before the clock (Thu/Fri I-go-you-go full round).
 - Protect machine rotation on Tue; set 8 m shuttle cones on Wed; claim bars/boxes early on Thu/Fri.
 - Monday only works if A/B alternation is clear before set 1; Tuesday scale HSPU early so minutes stay unfinished-with-rest.
+- Each day ends with an **Active Rest Alternative** for athletes who need to move without chasing the main score.

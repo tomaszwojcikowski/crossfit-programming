@@ -64,3 +64,19 @@ Partner rehearsal (keep tiny):
 - 2:00 easy walk + breathing
 - 30-45s hamstring stretch each side
 - Debrief: protect snatch quality early so the filler window opens
+
+## Active Rest Alternative
+
+Stay in the team format with light loads and no burpee filler redline.
+
+### Team of 2 — 20' Window
+
+**12–16 rounds I-go-you-go** (full round then switch):
+
+- 2 **Hang Power Snatches** (PVC / empty bar / light DB)
+- 4 **Box Step-Ups** (low box ok)
+- 6 light **Wall Balls** or med-ball squats
+
+**Remaining time:** easy walk + mobility, or slow step-ups (no burpee box jumps).
+
+**Target**: smooth handoffs, nose breathing; stop when quality drops.
