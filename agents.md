@@ -1,6 +1,6 @@
 # CrossFit Workout Programming Agent Guidelines
 
-**Last Updated:** 28 May 2026  
+**Last Updated:** 21 Sep 2026  
 **Purpose:** Source-of-truth instructions for generating and updating this repo's
 weekly and daily CrossFit programming files.
 
@@ -57,10 +57,10 @@ Use this order unless there is a clear reason not to:
    - Scaling B
    - Logistics
    - Top Cues (external, action-focused)
-3. `## Warmup (8-12 min)` with RAMP rounds:
-   - R1 RAISE (2:00 easy)
-   - R2 ACTIVATE (1:30 moderate)
-   - R3 POTENTIATE (1:00 hard)
+3. `## Warmup (15 min)` with RAMP rounds:
+   - R1 RAISE (3:00-4:00 easy)
+   - R2 ACTIVATE (2-3 rounds moderate, ~5:00)
+   - R3 POTENTIATE (2-3 rounds hard, ~4:00; readiness, not fatigue)
 4. `## Post-Warmup Mobility (60-90s)`
 5. `## Strength / Skill` (optional)
 6. `## Reset Window` (optional, usually 3-5 min)
@@ -69,6 +69,7 @@ Use this order unless there is a clear reason not to:
 9. `## Cooldown` or `## Cooldown & Debrief` (2-4 min)
 
 Notes:
+- Default warmup length is **15 minutes** from week 39 onward.
 - Keep warmups implement-light (usually 0-1 extra implement).
 - Prefer no barbell in warmup; rehearse barbell in Movement Prep.
 - Use standard movement names; explain uncommon drills plainly.
@@ -78,9 +79,13 @@ Notes:
 ## Warmup, Prep, and Coaching Rules
 
 **RAMP intent by round:**
-- R1: raise temperature and breathing.
-- R2: rhythm/coordination specific to the day.
+- R1: raise temperature and breathing (longer easy block than before).
+- R2: rhythm/coordination specific to the day (more rounds/volume than R3).
 - R3: fast turnover and neural readiness, not fatigue.
+
+**Warmup length:**
+- Target **15 min** total RAMP (header: `## Warmup (15 min)`).
+- Budget roughly Raise 3-4 min / Activate ~5 min / Potentiate ~4 min, plus brief transitions.
 
 **Mobility:**
 - 2-3 positions max, 30-45s each side/position.

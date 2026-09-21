@@ -11,20 +11,20 @@ Purpose: concise checklist and scripts for running a safe, efficient, high-quali
 Example: "This is a glycolytic sprint — keep sets < 10s. Rowers left, bars right.
 Scale: Thrusters 95/65/45. If shoulder pain, do goblet squats."
 
-## 2) Warm-up (0:03–0:12) — RAMP (8–10 min)
-- Raise: 2–3 min easy cardio (row/bike/rope).
-- Activate: movement-specific drills 3–5 min (band pull-aparts, glute bridges).
-- Mobilize: short 60–90s positional holds (ankle, T-spine, hips).
-- Potentiate: 2 sets of movement primer (light bar, 3–5 power reps).
+## 2) Warm-up (0:03–0:18) — RAMP (15 min)
+- Raise: 3–4 min easy cardio (row/bike/rope/jog).
+- Activate: movement-specific drills ~5 min (2–3 rounds).
+- Mobilize: short 60–90s positional holds after RAMP (ankle, T-spine, hips).
+- Potentiate: 2–3 rounds of movement primer (light/empty bar or bodyweight, readiness not fatigue).
 
-Coach notes: keep cues short; scan while athletes move.
+Coach notes: keep cues short; scan while athletes move. From week 39 onward, budget a full 15 min for warm-up.
 
 ### Warm-up drill examples
 - Row-focused (machines available): 500m easy, 2 × 10 ABS hollow rocks, 2 × 8 empty-bar hang power cleans.
 - Gymnastics-focused: 90s jump rope, 2 × 8 scap pulls, 3 × 5 banded pull-ups (activation).
 - Weightlifting-focused: 3 × 5 PVC or empty bar tall cleans, 2 × 3 power cleans at 50–60% of working weight.
 
-## 3) Skill / Strength Block (0:12–0:25)
+## 3) Skill / Strength Block (0:18–0:30)
 - Teach: Tell (≤10s), Show, Do (athlete attempts), Check (1–3 reps each athlete).
 - Use micro/macro scan: 1-1-1 cadence (see one, correct one, scan room).
 - Triage: Safety → Function (power leaks) → Optimization.
@@ -38,7 +38,7 @@ before power task; use mobility or low-intensity prep in that window.
 
 Coach tip: for mixed-ability groups, run progressions in stations so athletes self-select intensity.
 
-## 4) Build-Up & Logistics (0:25–0:35)
+## 4) Build-Up & Logistics (0:30–0:38)
 - Allow athletes to build to working weight with individual scaling guidance.
 - Check 1–2 reps at heavier loads for setup and safety.
 
@@ -46,7 +46,7 @@ Build-up checklist:
 - Warm sets: 2 sets with increasing load, last set 2–3 reps at ~75% for technical check (advanced athletes).
 - Advanced lifters: cue bar path and hip extension; novices: focus on consistent mechanics across reps.
 
-## 5) WOD Execution (0:35–0:50)
+## 5) WOD Execution (0:38–0:52)
 - Role: scan, motivate, triage faults, enforce standards under fatigue.
 - Cue style: short external cues (e.g., "Push the ground away", "Land soft").
 - Equipment bottlenecks: keep a single start by scaling the plan (share stations,
@@ -59,7 +59,7 @@ Common in-WOD interventions:
 Transition management:
 - If athletes bunch at one station, call alternating rotations (e.g., 10s swap) to reduce collisions.
 
-## 6) Cooldown & Debrief (0:50–1:00)
+## 6) Cooldown & Debrief (0:52–1:00)
 - 2–4 min aerobic cooldown + 2 mobility positions (45–60s each).
 - Debrief: 2–4 min structured close (see below).
 

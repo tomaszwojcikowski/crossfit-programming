@@ -13,17 +13,19 @@
   - **Hang squat clean**: “Hips through, fast elbows, catch deep.”
   - **Burpee OTB**: “Chest down, two feet over.”
 
-## Warmup (8-10 min)
+## Warmup (15 min)
 
-- **R1 RAISE (2:00 easy)**: 2:00 easy bike/row + nasal breathing
-- **R2 ACTIVATE (1:30 moderate)**: 2 rounds:
-  - 6 air squats
+- **R1 RAISE (3:00-4:00 easy)**: 3:00 easy bike/row + nasal breathing; last 30s slightly quicker
+- **R2 ACTIVATE (~5:00 moderate)**: 3 rounds:
+  - 8 air squats
   - 6 empty-bar good mornings
+  - 6 empty-bar hang muscle cleans
   - 4 down-ups
-- **R3 POTENTIATE (1:00 hard)**: 2 rounds:
+- **R3 POTENTIATE (~4:00 hard)**: 3 rounds:
   - 4 hang power cleans (empty bar)
   - 2 hang squat cleans (empty bar)
   - 3 burpees over the bar
+  - 3 jump squats
 
 ## Post-Warmup Mobility (60-90s)
 

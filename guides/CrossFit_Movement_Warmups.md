@@ -29,7 +29,7 @@ This warmup guide is built on the **RAMP protocol** (Raise, Activate, Mobilize, 
 
 1. **Round 1 -> Round 2 -> Round 3** (complete all 3 stations per round before advancing)
 2. **Rest 30-60s** between rounds (use this time for coaching cues or athlete questions)
-3. **Total time**: 8-12 minutes per warmup
+3. **Total time**: ~15 minutes per warmup (default from week 39 onward)
 4. **Intensity check**: Athletes should be warm and slightly sweaty, but NOT fatigued
 
 ---

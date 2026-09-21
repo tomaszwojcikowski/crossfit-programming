@@ -13,17 +13,19 @@
   - **Hang power clean**: “Hips snap, quiet catch.”
   - **STOH**: “Dip straight, punch up.”
 
-## Warmup (8-10 min)
+## Warmup (15 min)
 
-- **R1 RAISE (2:00 easy)**: 2:00 easy jog or bike
-- **R2 ACTIVATE (1:30 moderate)**: 2 rounds:
+- **R1 RAISE (3:00-4:00 easy)**: 3:00 easy jog or bike; include 2×6 m easy shuttles in the last minute
+- **R2 ACTIVATE (~5:00 moderate)**: 3 rounds:
   - 2×6 m easy shuttle
   - 6 empty-bar deadlifts
-  - 4 hang muscle cleans
-- **R3 POTENTIATE (1:00 hard)**: 2 rounds:
-  - 3 hang power cleans
+  - 6 hang muscle cleans
+  - 4 down-ups
+- **R3 POTENTIATE (~4:00 hard)**: 3 rounds:
+  - 3 hang power cleans (empty → light)
   - 2 push presses / STOH
-  - 3 down-ups + 5 hard machine cals
+  - 3 down-ups
+  - 5 hard machine cals
 
 ## Post-Warmup Mobility (60-90s)
 

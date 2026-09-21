@@ -13,17 +13,19 @@
   - **T2B**: “Short sets, kick through.”
   - **Push-up**: “Chest to deck, lock out.”
 
-## Warmup (8-10 min)
+## Warmup (15 min)
 
-- **R1 RAISE (2:00 easy)**: 2:00 easy bike/row
-- **R2 ACTIVATE (1:30 moderate)**: 2 rounds:
-  - 6 scap pulls + 6 kip swings
-  - 6 hollow rocks
+- **R1 RAISE (3:00-4:00 easy)**: 3:00 easy bike/row; include 20s easier / 10s quicker in the last minute
+- **R2 ACTIVATE (~5:00 moderate)**: 3 rounds:
+  - 8 scap pulls + 6 kip swings
+  - 8 hollow rocks
   - 6 push-ups (or elevate)
-- **R3 POTENTIATE (1:00 hard)**: 2 rounds:
-  - 2-3 strict pull-up attempts
-  - 3 hanging knee raises / T2B
-  - 4 push-ups
+  - 6 band pull-aparts or PVC pass-throughs
+- **R3 POTENTIATE (~4:00 hard)**: 3 rounds:
+  - 2-3 strict pull-up attempts (or scale)
+  - 2-3 strict chin-up attempts (or scale)
+  - 4 hanging knee raises / T2B
+  - 5 push-ups
 
 ## Post-Warmup Mobility (60-90s)
 

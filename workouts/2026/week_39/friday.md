@@ -13,18 +13,19 @@
   - **KB snatch**: “Snap hips, punch the bell up.”
   - **BMU / C2B**: “Hollow to arch, pull hard.”
 
-## Warmup (8-10 min)
+## Warmup (15 min)
 
-- **R1 RAISE (2:00 easy)**: 2:00 easy jog or bike
-- **R2 ACTIVATE (1:30 moderate)**: 2 rounds:
+- **R1 RAISE (3:00-4:00 easy)**: 3:00 easy jog or bike; last 30s include fast feet or light rope
+- **R2 ACTIVATE (~5:00 moderate)**: 3 rounds:
   - 3 inchworms
   - 6 KB deadlifts (light)
   - 6 scap pulls + 6 kip swings
   - 6 med-ball sit-ups
-- **R3 POTENTIATE (1:00 hard)**: 2 rounds:
+  - 4 box step-ups
+- **R3 POTENTIATE (~4:00 hard)**: 3 rounds:
   - 1 wall walk / scale
-  - 4 KB snatches
-  - 10s fast single-unders + 2 BMU/C2B attempts
+  - 4 KB snatches (light → workout feel)
+  - 15s fast single-unders + 2 BMU/C2B attempts
   - 4 box jumps + 4 med-ball sit-ups
 
 ## Post-Warmup Mobility (60-90s)

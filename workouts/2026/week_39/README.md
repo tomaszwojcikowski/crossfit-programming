@@ -21,6 +21,7 @@ Transcribed from the week 39 source board screenshot (single-group start, 60-min
 ## Lesson Planning Notes
 
 - Keep every day on a hard 60-minute clock with a single-group start.
+- **Warmups are 15 min** (RAMP) from this week onward — protect the clock so strength/metcon still fit.
 - Preserve stimulus by scaling load first, then volume, then complexity/ROM.
 - Pre-brief partner rules before the clock (Wed accumulate splits; Fri I-go-you-go full round).
 - Protect shuttle lanes + bars on Wed; set four clear stations on Thu; claim wall/rig early on Fri.

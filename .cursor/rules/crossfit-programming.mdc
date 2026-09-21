@@ -30,7 +30,7 @@ For files like `monday.md` to `friday.md`, use this section order when possible:
 
 1. `# Day (DD/MM/YYYY)`
 2. `**Setup**` (Equipment, Timing, Stimulus, Scaling A/B, Logistics, Top Cues)
-3. `## Warmup (8-12 min)` with R1/R2/R3 RAMP blocks
+3. `## Warmup (15 min)` with R1/R2/R3 RAMP blocks
 4. `## Post-Warmup Mobility (60-90s)`
 5. `## Strength / Skill` (optional)
 6. `## Reset Window` (optional)
@@ -40,6 +40,7 @@ For files like `monday.md` to `friday.md`, use this section order when possible:
 
 ## Warmup and coaching
 
+- Default warmup length is **15 minutes** (from week 39 onward).
 - Keep warmup implement-light and movement-specific.
 - Prefer no barbell in warmup; put barbell rehearsal in Movement Prep.
 - Use external, action-oriented coach cues; one cue idea at a time.

@@ -13,18 +13,18 @@
   - **Landmine row**: “Chest tall, pull to the hip.”
   - **KB push press**: “Dip straight, lock out.”
 
-## Warmup (8-10 min)
+## Warmup (15 min)
 
-- **R1 RAISE (2:00 easy)**: 2:00 easy row or bike
-- **R2 ACTIVATE (1:30 moderate)**: 2 rounds:
-  - 6 air squats
+- **R1 RAISE (3:00-4:00 easy)**: 3:00 easy row or bike; last 45s slightly quicker
+- **R2 ACTIVATE (~5:00 moderate)**: 3 rounds:
+  - 8 air squats
   - 6 empty-bar strict press
-  - 6 alternating reverse lunges
-  - 6 hollow rocks
-- **R3 POTENTIATE (1:00 hard)**: 2 rounds:
+  - 8 alternating reverse lunges
+  - 6 hollow rocks / V-up practice
+- **R3 POTENTIATE (~4:00 hard)**: 3 rounds:
   - 4 thrusters (empty → light)
   - 4 landmine / DB rows
-  - 4 KB push press + 4 KB front squats
+  - 4 KB push press + 4 KB front squats (light)
   - 4 V-ups
 
 ## Post-Warmup Mobility (60-90s)

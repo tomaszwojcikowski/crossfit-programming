@@ -56,17 +56,17 @@ Before finalizing a daily file, check:
 - Logistics:
 - Top Cues: "" ""
 
-## Warmup (10 min)
-- **R1 RAISE (2:00 easy):**
+## Warmup (15 min)
+- **R1 RAISE (3:00-4:00 easy):**
   -
   -
-- **R2 ACTIVATE (1:30 moderate):**
+- **R2 ACTIVATE (~5:00 moderate, 2-3 rounds):**
   -
   -
-- **R3 POTENTIATE (1:00 hard):**
+- **R3 POTENTIATE (~4:00 hard, 2-3 rounds):**
   -
   -
-- Rest 30s between rounds
+- Rest 20-30s between rounds as needed; athletes should finish warm, not tired
 
 ## Post-Warmup Mobility (60-90s)
 -
@@ -118,9 +118,10 @@ Or, for EMOM / intervals:
 
 ### Warmup
 
-- R1 should raise temperature and breathing.
-- R2 should add rhythm, direction change, bounce, or patterning.
-- R3 should feel like the first fast reps of the workout.
+- Default length is **15 min** from week 39 onward (`## Warmup (15 min)`).
+- R1 should raise temperature and breathing (about 3-4 min).
+- R2 should add rhythm, direction change, bounce, or patterning (~5 min, 2-3 rounds).
+- R3 should feel like the first fast reps of the workout (~4 min, readiness not fatigue).
 - Do not default to the same machine line three times.
 - Prefer no barbell in the warm-up. If shoulder or bar path prep is needed, use
   PVC, rig, bodyweight, or light implement options first.
@@ -166,7 +167,7 @@ Or, for EMOM / intervals:
 
 ## Good defaults
 
-- Warm-up: 8-12 min
+- Warm-up: 15 min (default from week 39 onward)
 - Mobility: 60-90s
 - Strength / Skill: 10-20 min when needed
 - Reset Window: 3-5 min when needed
