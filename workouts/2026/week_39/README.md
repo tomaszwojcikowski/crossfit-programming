@@ -22,6 +22,7 @@ Transcribed from the week 39 source board screenshot (single-group start, 60-min
 
 - Keep every day on a hard 60-minute clock with a single-group start.
 - **Warmups are 15 min** (RAMP) from this week onward — protect the clock so strength/metcon still fit.
+- Warmup flow: build equipment before 0:00, warm up in workout groups/lanes, run a coach-called clock, and use the 13:00-15:00 transition to load the first block.
 - Preserve stimulus by scaling load first, then volume, then complexity/ROM.
 - Pre-brief partner rules before the clock (Wed accumulate splits; Fri I-go-you-go full round).
 - Protect shuttle lanes + bars on Wed; set four clear stations on Thu; claim wall/rig early on Fri.

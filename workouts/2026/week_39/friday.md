@@ -15,18 +15,24 @@
 
 ## Warmup (15 min)
 
-- **R1 RAISE (3:00-4:00 easy)**: 3:00 easy jog or bike; last 30s include fast feet or light rope
-- **R2 ACTIVATE (~5:00 moderate)**: 3 rounds:
-  - 3 inchworms
-  - 6 KB deadlifts (light)
+**Flow**
+
+- **Before 0:00**: each team owns one lane — wall spot, rig spot, KB, 2 ropes, box, and ball, all within a few steps
+- **Groups**: teams of 2 = workout teams; warm up in your own lane
+- **Clock**: running clock; R2-R3 are paced by partner tags (tag = go), the same handoff as the workout
+
+- **R1 RAISE (0:00-3:30, easy)**:
+  - 0:00-2:00: team jog laps of the room, side by side
+  - 2:00-3:30: in lane, swap every 20s — easy singles / inchworm walkouts
+- **R2 ACTIVATE (3:30-9:00, moderate)**: tag-team, one partner works then tags; 3 rounds each:
+  - 3 inchworms + 6 light KB deadlifts
   - 6 scap pulls + 6 kip swings
-  - 6 med-ball sit-ups
-  - 4 box step-ups
-- **R3 POTENTIATE (~4:00 hard)**: 3 rounds:
-  - 1 wall walk / scale
-  - 4 KB snatches (light → workout feel)
-  - 15s fast single-unders + 2 BMU/C2B attempts
-  - 4 box jumps + 4 med-ball sit-ups
+  - 6 med-ball sit-ups + 4 box step-ups
+- **R3 POTENTIATE (9:00-13:00, hard)**: handoff rehearsal — one mini round of each couplet per partner, tag after each:
+  - **A**: 1 wall walk (half height ok) + 4 light KB snatches
+  - **B**: 15 DU / 30 SU + 2 BMU / C2B attempts
+  - **C**: 4 box jumps + 4 ball sit-ups
+- **Transition (13:00-15:00)**: set the KB to workout load; agree who starts window 1; coach recaps A → B → C and full-round handoffs
 
 ## Post-Warmup Mobility (60-90s)
 
@@ -35,7 +41,7 @@
 
 ## Movement Prep
 
-Partner rehearsal (keep tiny) — 1 short full round each of A, then B, then C at workout loads.
+1 round of A (window 1) each at workout load — B and C were rehearsed in the warmup.
 
 ## Main Conditioning
 

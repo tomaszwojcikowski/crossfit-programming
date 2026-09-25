@@ -15,17 +15,27 @@
 
 ## Warmup (15 min)
 
-- **R1 RAISE (3:00-4:00 easy)**: 3:00 easy row or bike; last 45s slightly quicker
-- **R2 ACTIVATE (~5:00 moderate)**: 3 rounds:
-  - 8 air squats
-  - 6 empty-bar strict press
-  - 8 alternating reverse lunges
-  - 6 hollow rocks / V-up practice
-- **R3 POTENTIATE (~4:00 hard)**: 3 rounds:
-  - 4 thrusters (empty → light)
-  - 4 landmine / DB rows
-  - 4 KB push press + 4 KB front squats (light)
+**Flow**
+
+- **Before 0:00**: all four stations (a-d) built with loads for every athlete; split the class evenly — that's each athlete's starting station
+- **Groups**: station groups of 3-4; stay together through the warmup rotation
+- **Clock**: running clock; warmup rotation runs a → b → c → d, the same direction as the workout
+
+- **R1 RAISE (0:00-3:30, easy)**: lines across the floor, coach sends waves:
+  - 2 lengths easy jog
+  - 1 length high knees + 1 length lateral shuffle each way
+  - 1 length walking lunge with arm circles
+- **R2 ACTIVATE (3:30-9:00, moderate)**: rehearsal rotation — 1:00 at each station, light, 15s to move on the "Rotate" call:
+  - **a**: 6 PVC thrusters + 6 light DB rows
+  - **b**: 30s easy row + 5 push-ups (share rowers: one rows while one does push-ups, swap)
+  - **c**: 5 light KB push press + 5 goblet squats
+  - **d**: 6 reverse lunges + 6 V-ups / tuck-ups
+- **R3 POTENTIATE (9:00-13:00, hard)**: whole group back to the centre, no equipment; 3 rounds:
+  - 4 jump squats
+  - 4 fast push-ups
   - 4 V-ups
+  - 10s fast feet
+- **Transition (13:00-15:00)**: walk to your starting station and set workout loads; coach recaps a → b → c → d and "1:15 off = move and set up"
 
 ## Post-Warmup Mobility (60-90s)
 
@@ -34,12 +44,10 @@
 
 ## Movement Prep
 
-One tiny pass through each station (~2-3 min total):
+At your starting station only (~2 min) — every station was already rehearsed in the warmup rotation:
 
-- 4 thrusters + 4 rows
-- 5 hard row cals + 4 push-ups
-- 4 KB push press + 4 KB front squats
-- 6 reverse lunges + 4 V-ups
+- 2-3 reps of each movement at workout load
+- Confirm the rep target and where you move next
 
 ## Main Conditioning
 

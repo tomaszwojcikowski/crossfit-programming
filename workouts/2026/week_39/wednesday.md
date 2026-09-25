@@ -15,17 +15,22 @@
 
 ## Warmup (15 min)
 
-- **R1 RAISE (3:00-4:00 easy)**: 3:00 easy jog or bike; include 2×6 m easy shuttles in the last minute
-- **R2 ACTIVATE (~5:00 moderate)**: 3 rounds:
-  - 2×6 m easy shuttle
-  - 6 empty-bar deadlifts
-  - 6 hang muscle cleans
-  - 4 down-ups
-- **R3 POTENTIATE (~4:00 hard)**: 3 rounds:
-  - 3 hang power cleans (empty → light)
-  - 2 push presses / STOH
-  - 3 down-ups
-  - 5 hard machine cals
+**Flow**
+
+- **Before 0:00**: one 6 m shuttle lane per pair, right beside that pair's two bars; one PVC per athlete; machines staged along the back wall for Part B
+- **Groups**: pairs = Part B teams; each pair owns one lane + two bars
+- **Clock**: running clock; coach calls block changes
+
+- **R1 RAISE (0:00-3:30, easy)**:
+  - 0:00-1:30: easy jog laps of the room, whole group
+  - 1:30-3:30: in your lane, partners side by side, 2 easy shuttles each of jog, skip, side shuffle, backpedal
+- **R2 ACTIVATE (3:30-9:00, moderate)**: partners swap on return (A runs while B works); 3 rounds each:
+  - **A**: 2×6 m easy shuttle, touch the line
+  - **B**: 6 PVC deadlifts + 6 PVC hang muscle cleans + 3 down-ups
+- **R3 POTENTIATE (9:00-13:00, hard)**: same swap, faster; 3 rounds each:
+  - **A**: 2×6 m fast shuttle (low hips on the turn)
+  - **B**: 3 PVC hang power cleans + 2 PVC push presses + 3 jump squats
+- **Transition (13:00-15:00)**: 1 empty-bar complex each (5 DL + 3 HPC + 1 STOH), then load the start weight (60/35 or scaled)
 
 ## Post-Warmup Mobility (60-90s)
 

@@ -15,17 +15,27 @@
 
 ## Warmup (15 min)
 
-- **R1 RAISE (3:00-4:00 easy)**: 3:00 easy bike/row + nasal breathing; last 30s slightly quicker
-- **R2 ACTIVATE (~5:00 moderate)**: 3 rounds:
-  - 8 air squats
-  - 6 empty-bar good mornings
-  - 6 empty-bar hang muscle cleans
+**Flow**
+
+- **Before 0:00**: racks at back-squat height; one PVC per athlete at the rack; tape a floor line beside each rack for burpees
+- **Groups**: rack pairs = strength pairs; warm up at your own rack
+- **Clock**: running clock; coach calls each block change
+
+- **R1 RAISE (0:00-3:30, easy)**: lines of 3-4 across the floor, coach sends waves:
+  - 2 lengths easy jog
+  - 1 length high knees + 1 length butt kicks
+  - 1 length lateral shuffle each way
+  - 1 length walking lunge + reach
+- **R2 ACTIVATE (3:30-9:00, moderate)**: at your rack, coach counts reps out loud and the whole group moves together; 3 rounds:
+  - 8 air squats (3s down)
+  - 6 PVC good mornings
+  - 6 PVC hang muscle cleans
   - 4 down-ups
-- **R3 POTENTIATE (~4:00 hard)**: 3 rounds:
-  - 4 hang power cleans (empty bar)
-  - 2 hang squat cleans (empty bar)
-  - 3 burpees over the bar
+- **R3 POTENTIATE (9:00-13:00, hard)**: rack partners alternate (one works, one watches the catch); 3 rounds each:
+  - 3 PVC hang squat cleans (fast elbows)
   - 3 jump squats
+  - 3 burpees over the floor line
+- **Transition (13:00-15:00)**: 5 empty-bar back squats each, then load the first build set
 
 ## Post-Warmup Mobility (60-90s)
 
