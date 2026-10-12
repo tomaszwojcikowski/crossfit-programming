@@ -40,6 +40,7 @@ Welcome to the CrossFit Workout Programming repository. This repository contains
 *   **[Week 39 (Sep 21-25)](workouts/2026/week_39/)** | [source screenshot](assets/images/week_39_source.jpeg)
 *   **[Week 40 (Sep 28–Oct 02)](workouts/2026/week_40/)** | [source screenshot](assets/images/week_40_source.jpeg)
 *   **[Week 41 (Oct 05–09)](workouts/2026/week_41/)** | [source screenshot](assets/images/week_41_source.jpeg)
+*   **[Week 42 (Oct 12–16)](workouts/2026/week_42/)** | [source screenshot](assets/images/week_42_source.jpeg)
 
 ## 📖 Knowledge Base
 
